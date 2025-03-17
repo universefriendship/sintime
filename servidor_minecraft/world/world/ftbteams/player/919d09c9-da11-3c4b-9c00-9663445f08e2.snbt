@@ -1,0 +1,17 @@
+{
+	id: "919d09c9-da11-3c4b-9c00-9663445f08e2"
+	type: "player"
+	player_name: "Nifthy575"
+	ranks: {
+		919d09c9-da11-3c4b-9c00-9663445f08e2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nifthy575"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF73"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

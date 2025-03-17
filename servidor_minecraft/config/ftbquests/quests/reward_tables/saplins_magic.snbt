@@ -1,0 +1,12 @@
+{
+	id: "049AEE0AE5DA671A"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{ item: "ars_nouveau:blue_archwood_sapling" }
+		{ item: "ars_nouveau:red_archwood_sapling" }
+		{ item: "ars_nouveau:purple_archwood_sapling" }
+		{ item: "ars_nouveau:green_archwood_sapling" }
+	]
+	title: "saplins magic"
+}

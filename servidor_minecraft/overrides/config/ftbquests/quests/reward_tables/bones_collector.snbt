@@ -1,0 +1,30 @@
+{
+	id: "050CFE1DF2AE0922"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 2, item: "betterarcheology:bomb", random_bonus: 3, weight: 1.6666666f }
+		{
+			item: {
+				Count: 1
+				id: "betterarcheology:torrent_totem"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "betterarcheology:soul_totem"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "betterarcheology:growth_totem" }
+		{ item: "betterarcheology:radiance_totem" }
+		{ count: 2, item: "betterarcheology:unidentified_artifact", random_bonus: 1 }
+	]
+	title: "Bones collector"
+}

@@ -1,0 +1,454 @@
+{
+	autofocus_id: "2A0AC5C07FA382E4"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dimensiones_y_otros_mundos"
+	group: "5A1C9B76656CC2FE"
+	icon: "twilightforest:twilight_portal_miniature_structure"
+	id: "12E51CCCB94FBF8E"
+	images: [{
+		height: 10.0d
+		image: "alexsmobs:textures/entity/void_worm/portal/portal_idle_2.png"
+		rotation: 0.0d
+		width: 10.0d
+		x: -1.5d
+		y: 0.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7EA7BFD0279DA91E"]
+			description: ["&fThe Everbright Dimension is a world of endless &bbrilliant skies&r and eternal daylight. &7To begin your journey, find the mysterious &bGatekeeper&r and explore this new realm of wonder and danger. With unique biomes and &fpowerful creatures&r, the Everbright offers endless possibilities for adventure. Are you &a&lready&r to see what lies beyond the portal? "]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "blue_skies:everbright_portal"
+			id: "4DC2244B8D615C7D"
+			rewards: [
+				{
+					id: "6047BE268EFB7A98"
+					type: "xp"
+					xp: 30
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F3ACE7DC3A355F0"
+					table_id: 4734557310209495957L
+					type: "random"
+				}
+			]
+			subtitle: "&7Find the &bGatekeeper&r and unlock the &7mysteries of the Everbright..."
+			tasks: [{
+				dimension: "blue_skies:everbright"
+				icon: "blue_skies:crystal_glass"
+				id: "7C74840AFC7171DB"
+				title: "Visit the Everbright"
+				type: "dimension"
+			}]
+			title: "&b&lInto the Everbright&r"
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7EA7BFD0279DA91E"]
+			description: ["&fA world where the sun never sets, and ancient mysteries linger. The &6Gatekeeper&r holds the key to this eternal day. Find their house, gather the items, and step through the portal to a land where light rules, but dangers lurk behind every corner. &aAre you ready to face Everdawn’s challenges?&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "blue_skies:everdawn_portal"
+			id: "482E304787E9AA1C"
+			rewards: [
+				{
+					id: "2B490BB1AC9683A9"
+					type: "xp"
+					xp: 30
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5E027606F675C2AC"
+					table_id: 4734557310209495957L
+					type: "random"
+				}
+			]
+			subtitle: "&7Find the Gatekeeper's House to enter..."
+			tasks: [{
+				dimension: "blue_skies:everdawn"
+				icon: "blue_skies:midnight_glass"
+				id: "4168FE2B00226DF9"
+				title: "Visit the Everdown"
+				type: "dimension"
+			}]
+			title: "&6&lJourney into Everdawn&r"
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7EA7BFD0279DA91E"]
+			description: ["&fStep into the &bAether&r, where clouds form the very land beneath your feet and mythical creatures soar above. Glowing landscapes, floating islands, and hidden temples filled with treasures and danger. Beware, for the skies are not as peaceful as they seem. &aAre you ready to conquer the skies and claim the treasures of the Aether?&r  "]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "aether:aether_portal_frame"
+			id: "0608CF20260D31A7"
+			rewards: [
+				{
+					id: "71B2887ACA1F129C"
+					type: "xp"
+					xp: 15
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6CF1F76F4006F68D"
+					table_id: 4734557310209495957L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "5143F0F86D0DA2A0"
+					item: "aether:ambrosium_torch"
+					random_bonus: 4
+					type: "item"
+				}
+			]
+			subtitle: "&7A heavenly ascent awaits...&r  "
+			tasks: [
+				{
+					dimension: "aether:the_aether"
+					icon: "aether:aether_grass_block"
+					id: "6CAB26D8477C8CDC"
+					title: "Visit the Aether"
+					type: "dimension"
+				}
+				{
+					count: 10L
+					id: "5ED71D87B940D96A"
+					item: "minecraft:glowstone"
+					type: "item"
+				}
+				{
+					id: "3E2F1B0BCFD4B0C8"
+					item: "minecraft:water_bucket"
+					type: "item"
+				}
+			]
+			title: "&b&lKingdom of Clouds&r  "
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7EA7BFD0279DA91E"]
+			description: ["&fStep into the &5Twilight Forest&r, a mysterious land shrouded in an eternal twilight. Venture through enchanted forests, face mythical creatures, and uncover hidden dungeons. &aAre you ready to brave the unknown &r&7in this legendary realm?&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "twilightforest:twilight_portal_miniature_structure"
+			id: "30AFE6ECDA730ED1"
+			rewards: [
+				{
+					id: "4AC3A465310BBB57"
+					type: "xp"
+					xp: 20
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F6835501E7658B7"
+					table_id: 4734557310209495957L
+					type: "random"
+				}
+				{
+					id: "3EA2FFF9EDB6FACE"
+					item: "twilightforest:firefly_jar"
+					type: "item"
+				}
+			]
+			subtitle: "&7The eternal twilight awaits..."
+			tasks: [
+				{
+					dimension: "twilightforest:twilight_forest"
+					icon: "twilightforest:time_sapling"
+					id: "78E004D38FC46D19"
+					title: "Visit the Twilight Forest"
+					type: "dimension"
+				}
+				{
+					count: 8L
+					id: "0A3AEF81DB5F3044"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "minecraft:flowers"
+						}
+					}
+					title: "Obtain 8 Flowers"
+					type: "item"
+				}
+				{
+					id: "1CC93E68E7684DDA"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			title: "&5&lTwilight Journey&r"
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7EA7BFD0279DA91E"]
+			description: ["&fJourney into the deepest depths of the world to find the &8&nOther Side&r. In this forgotten dimension, ruins of an ancient citadel lie abandoned, waiting to be rediscovered. &9Beware&r; danger lurks in every shadow. &aWill you find the secrets hidden within the dark?&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "deeperdarker:echo_boat"
+			id: "2A0AC5C07FA382E4"
+			rewards: [
+				{
+					id: "4226A7CC9E749B9A"
+					type: "xp"
+					xp: 35
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7134035E944BE5D2"
+					table_id: 4734557310209495957L
+					type: "random"
+				}
+				{
+					id: "6AD337BC938BAC63"
+					item: {
+						Count: 1
+						id: "minecraft:lingering_potion"
+						tag: {
+							Potion: "minecraft:night_vision"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&7Where darkness reigns..."
+			tasks: [
+				{
+					dimension: "deeperdarker:otherside"
+					icon: "deeperdarker:soundproof_glass"
+					id: "5AAAC502D7B795CA"
+					title: "Visit the Otherside"
+					type: "dimension"
+				}
+				{
+					icon: "minecraft:reinforced_deepslate"
+					id: "512AC0FBF835AFCA"
+					observe_type: 0
+					timer: 0L
+					title: "Locate reinforced deepslate"
+					to_observe: "minecraft:reinforced_deepslate"
+					type: "observation"
+				}
+				{
+					id: "408D483E91ECEF65"
+					item: "deeperdarker:heart_of_the_deep"
+					type: "item"
+				}
+			]
+			title: "&5&lDescent into Shadows"
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7EA7BFD0279DA91E"]
+			description: ["&fEnter the &dBumblezone&r, where the &6bees&r are the rulers and the &ehoney&r flows in abundance. This miniature dimension might seem small, but it holds untold secrets and challenges. &aReady to take on a world where every drop of honey matters?&r &bDon't let the size fool you, adventure awaits at every corner!&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:bee_nest"
+			id: "3EF659D3D6EAF5EC"
+			rewards: [
+				{
+					id: "657671F038C446E6"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "33FC3545FF75BF79"
+					table_id: 4734557310209495957L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "09EC3153867F8F17"
+					item: "minecraft:honeycomb"
+					type: "item"
+				}
+			]
+			subtitle: "&7Tiny but mighty, a realm of honey and mystery...&r"
+			tasks: [
+				{
+					dimension: "the_bumblezone:the_bumblezone"
+					icon: "the_bumblezone:honeycomb_brood_block"
+					id: "218531619786546D"
+					title: "Visit the Bunblezone"
+					type: "dimension"
+				}
+				{
+					icon: "minecraft:bee_nest"
+					id: "2102CBE8AAA88FF1"
+					observe_type: 0
+					timer: 0L
+					title: "Locate a bee nest"
+					to_observe: "minecraft:bee_nest"
+					type: "observation"
+				}
+				{
+					id: "3088A9BD303BE72B"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
+			]
+			title: "&d&lA World of Wonder&r"
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7EA7BFD0279DA91E"]
+			description: ["&fPrepare yourself, adventurer, for the journey into &2The End&r. Legends speak of a mysterious dragon and untold treasures hidden beyond the void. Use your &aEnder Eyes&r and step through the portal to face your destiny. &cWill you conquer the dragon, or will The End consume you?&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:end_portal_frame"
+			id: "768FB812CD83E256"
+			rewards: [
+				{
+					id: "51FD8728F666A266"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A2F3F0880B41AD6"
+					table_id: 4734557310209495957L
+					type: "random"
+				}
+				{
+					id: "071C38E9CC097AB3"
+					item: "minecraft:chorus_fruit"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "&7The final frontier awaits..."
+			tasks: [
+				{
+					dimension: "minecraft:the_end"
+					icon: "minecraft:end_stone"
+					id: "27CBDCC8AF0CEAF4"
+					title: "Visit the End"
+					type: "dimension"
+				}
+				{
+					icon: "minecraft:mossy_stone_bricks"
+					id: "305260D0EC80E845"
+					structure: "betterstrongholds:stronghold"
+					title: "Find the Stronghold"
+					type: "structure"
+				}
+				{
+					count: 12L
+					id: "70955E6F219CA206"
+					item: "minecraft:ender_eye"
+					type: "item"
+				}
+				{
+					icon: "minecraft:end_portal_frame"
+					id: "02FCBE222D5D78CF"
+					observe_type: 0
+					timer: 0L
+					title: "Locate the end portal"
+					to_observe: "minecraft:end_portal_frame"
+					type: "observation"
+				}
+			]
+			title: "&5&lEnd of Times&r"
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7EA7BFD0279DA91E"]
+			description: ["&fStep into the &4Nether&r, a place where &6lava flows&r like rivers, and &8souls&r wander endlessly. This realm of eternal flames and dangerous creatures awaits your bravery. Can you survive the heat, the piglins, and the ghasts? Only the bold can conquer this &4hellish&r dimension. &aGear up, and prepare for chaos!&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "minecraft:flint_and_steel"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "711A61AFAEA436D0"
+			rewards: [
+				{
+					id: "3C6D5A503C6F6CDE"
+					type: "xp"
+					xp: 15
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E437BED4BD04926"
+					table_id: 4734557310209495957L
+					type: "random"
+				}
+				{
+					id: "5815960A60FFEB9C"
+					item: "minecraft:ghast_tear"
+					type: "item"
+				}
+			]
+			subtitle: "&7Where the fire never dies..."
+			tasks: [
+				{
+					dimension: "minecraft:the_nether"
+					id: "6FD46489A54C989E"
+					title: "Visit the Nether"
+					type: "dimension"
+				}
+				{
+					count: 10L
+					id: "69DF4C96845CA72E"
+					item: "minecraft:obsidian"
+					type: "item"
+				}
+				{
+					id: "21C674F49941714A"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "minecraft:creeper_igniters"
+						}
+					}
+					title: "Obtain a portal igniter"
+					type: "item"
+				}
+			]
+			title: "&4&lNo Peace for Souls&r"
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["738968CED6C892BF"]
+			dependency_requirement: "one_started"
+			description: ["&fThe &dmultiverse&r is calling, adventurer. Each portal you open is a doorway to a world brimming with secrets, power, and danger. Are you &4ready&r to conquer each dimension and uncover what lies beyond? &aStep through, if you dare!&r  "]
+			hide_until_deps_complete: true
+			icon: "minecraft:grass_block"
+			id: "7EA7BFD0279DA91E"
+			rewards: [{
+				id: "0C77F43FF5D216DB"
+				item: "minecraft:stick"
+				type: "item"
+			}]
+			subtitle: "&7Step into the unknown...  "
+			tasks: [{
+				id: "30B04B2C85955253"
+				title: "Places to explore"
+				type: "checkmark"
+			}]
+			title: "&6&lPortal Adventures&r  "
+			x: -2.5d
+			y: -0.5d
+		}
+	]
+	title: "&d Uncharted Realms "
+}

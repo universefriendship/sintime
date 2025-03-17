@@ -1,0 +1,13 @@
+{
+	icon: "trajanscore:crafter_block"
+	id: "301C85FC3054F90A"
+	loot_size: 3
+	order_index: 14
+	rewards: [
+		{ count: 25, item: "minecraft:gunpowder" }
+		{ count: 15, item: "minecraft:copper_ingot" }
+		{ count: 7, item: "minecraft:iron_ingot" }
+		{ count: 10, item: "minecraft:redstone" }
+	]
+	title: "Armourer's Pack"
+}

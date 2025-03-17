@@ -1,0 +1,11 @@
+{
+	id: "4A5C697F97C15265"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "the_bumblezone:royal_jelly_bottle" }
+		{ count: 2, item: "the_bumblezone:potion_candle" }
+		{ item: "the_bumblezone:beehemoth_spawn_egg" }
+	]
+	title: "Honey Forged"
+}

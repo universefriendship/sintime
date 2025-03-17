@@ -1,0 +1,54 @@
+{
+	icon: {
+		Count: 1
+		id: "tacz:ammo_box"
+		tag: {
+			AllTypeCreative: 1b
+		}
+	}
+	id: "0B41C783A5D08299"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "ammo_pack"
+	}
+	loot_size: 3
+	order_index: 13
+	rewards: [
+		{
+			count: 12
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:50ae"
+				}
+			}
+		}
+		{
+			count: 8
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:12g"
+				}
+			}
+		}
+		{
+			count: 12
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:762x39"
+				}
+			}
+		}
+	]
+	title: "Ammo pack I"
+}

@@ -1,0 +1,14 @@
+{
+	id: "318F3BAD0560BDE8"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ item: "minecraft:enchanted_golden_apple" }
+		{ item: "minecraft:totem_of_undying" }
+		{ count: 3, item: "minecraft:golden_apple", random_bonus: 3 }
+		{ count: 3, item: "minecraft:diamond", random_bonus: 5 }
+		{ count: 2, item: "minecraft:netherite_scrap", random_bonus: 6 }
+		{ count: 2, item: "create_enchantment_industry:hyper_experience_bottle", random_bonus: 2 }
+	]
+	title: "defeat a boss"
+}

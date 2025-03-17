@@ -1,0 +1,821 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ad_astra"
+	group: "2A474218240CB83B"
+	icon: {
+		Count: 1
+		id: "ad_astra:tier_1_rocket"
+		tag: { }
+	}
+	id: "363BB96543BDC03C"
+	images: [
+		{
+			height: 16.5d
+			image: "ad_astra:painting/the_milky_way"
+			rotation: 0.0d
+			width: 21.0d
+			x: 0.4166666666666998d
+			y: 3.470238095238116d
+		}
+		{
+			dependency: "46D315DFB0FA2CE3"
+			height: 0.5d
+			image: "chiselsandbits:icons/rotate"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.5d
+			y: 6.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7FD7F6A7B776D418"]
+			description: ["&fIt’s time to leave the ordinary behind. In &b&nAd Astra&r, the universe is your playground. Planets, space stations, and unknown mysteries are waiting. Gear up, adventurer, the stars are calling. &a&lLet’s see how far you’ll go!&r"]
+			hide_until_deps_complete: true
+			icon: "ad_astra:earth_globe"
+			id: "33C693735774A612"
+			subtitle: "&7Look to the stars and beyond..."
+			tasks: [{
+				id: "76E32C142F03BE48"
+				title: "The sky isn't the limit"
+				type: "checkmark"
+			}]
+			title: "&b&lThe Sky Isn’t the Limit&r"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33C693735774A612"]
+			description: ["&fThe journey to the stars starts with the basics. Use the &5Astrodux&r as your guide and craft the necessary tools to build your first rocket. It’s time to set the foundation for your adventure into space. &aGet ready for liftoff!&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "patchouli:guide_book"
+				tag: {
+					"patchouli:book": "ad_astra:astrodux"
+				}
+			}
+			id: "157E01D43D1AEED1"
+			rewards: [{
+				id: "2782074689DB1718"
+				type: "xp"
+				xp: 1
+			}]
+			subtitle: "&7Prepare the essentials for space travel..."
+			tasks: [
+				{
+					id: "195B86469F0AA8B5"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "ad_astra:astrodux"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "19C06E986DDA3A2F"
+					item: "ad_astra:launch_pad"
+					type: "item"
+				}
+				{
+					id: "100505FCA06923D5"
+					item: "ad_astra:nasa_workbench"
+					type: "item"
+				}
+			]
+			title: "&5&lGetting Ready for Liftoff&r"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["157E01D43D1AEED1"]
+			description: ["&fThe &7Tier 1 Rocket&r is your gateway to space. Build it, fuel it, and prepare for your first journey beyond the Overworld. &aTime to explore the unknown!&r"]
+			id: "32B91C1BE63BACC7"
+			rewards: [
+				{
+					id: "30E7D95072E9FC7B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "1D5CBE2971478C18"
+					item: "ad_astra:fuel_bucket"
+					type: "item"
+				}
+			]
+			subtitle: "&7Exploration starts here..."
+			tasks: [{
+				id: "1D5479CE8814BB44"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_1_rocket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "&7&lFirst Launch&r"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["32B91C1BE63BACC7"]
+			description: ["&fWith the &6Tier 2 Rocket&r, you can go beyond the Moon. Craft it, fuel it, and get ready to explore distant planets like Mars. &aAdventure awaits!&r"]
+			id: "6FE7024D1D9C975B"
+			rewards: [
+				{
+					id: "2706B28D0187A7F4"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 2
+					id: "21D0C25B58B421A7"
+					item: "ad_astra:fuel_bucket"
+					type: "item"
+				}
+			]
+			subtitle: "&7Time to reach further..."
+			tasks: [{
+				id: "7314C58EBA19C7F4"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_2_rocket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "&6&lNext Horizons&r"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6FE7024D1D9C975B"]
+			description: ["&fThe &cTier 3 Rocket&r unlocks the edge of known space. Build this powerful rocket to journey farther than ever before. &aAre you ready to push the boundaries?&r"]
+			id: "0589A5B1C0C8D6A5"
+			rewards: [
+				{
+					id: "3CDFCC23DCECE573"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 3
+					id: "52C6E691AA7B8FC2"
+					item: "ad_astra:fuel_bucket"
+					type: "item"
+				}
+			]
+			subtitle: "&7Beyond the solar system..."
+			tasks: [{
+				id: "7E81B9A4AB0929EF"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_3_rocket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "&c&lBreaking Limits&r"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0589A5B1C0C8D6A5"]
+			description: ["&fThe &5Tier 4 Rocket&r is your gateway to other star systems. Build this advanced rocket and prepare for interstellar exploration. &aThe universe just got bigger!&r"]
+			id: "672397AD37C67430"
+			rewards: [
+				{
+					id: "68FA4616006A4CCB"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C493BEEAF478E24"
+					table_id: 6995311710531381976L
+					type: "random"
+				}
+				{
+					id: "32AC4EB332ACCAC0"
+					item: "ad_astra:space_painting"
+					type: "item"
+				}
+			]
+			subtitle: "&7Another system awaits..."
+			tasks: [{
+				id: "6C79424618C6E0DA"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_4_rocket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "&5&lInterstellar Explorer&r"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["32B91C1BE63BACC7"]
+			description: ["&fThe &7Tier 1 Rover&r gives you speed and mobility on alien terrain. Craft it and explore distant worlds faster than ever. &aLet’s roll!&r"]
+			id: "4BA57FB119A450D2"
+			rewards: [
+				{
+					id: "32DBE758B1377E95"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "3C28131D1B019D79"
+					item: "ad_astra:fuel_bucket"
+					random_bonus: 1
+					type: "item"
+				}
+			]
+			subtitle: "&7Speed through new worlds..."
+			tasks: [{
+				id: "364F8563280DD120"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_1_rover"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "&7&lFirst Wheels&r"
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["157E01D43D1AEED1"]
+			description: ["&fBefore stepping into the stars, you'll need your &f&nSpace Suit&r. Craft the helmet, chestplate, leggings, and boots to protect yourself in the harsh conditions of space. &aLet’s get you suited up!&r"]
+			icon: {
+				Count: 1
+				id: "ad_astra:space_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3002302738A55ED4"
+			rewards: [
+				{
+					id: "25CED8458954D602"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "04EB63785C342534"
+					item: "ad_astra:white_flag"
+					type: "item"
+				}
+			]
+			subtitle: "&7Prepare for the unknown..."
+			tasks: [
+				{
+					id: "0247D2A2586CC8E8"
+					item: {
+						Count: 1
+						id: "ad_astra:space_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "207B2D50EBDA8F57"
+					item: {
+						Count: 1
+						id: "ad_astra:space_suit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "569A09EA9567827F"
+					item: {
+						Count: 1
+						id: "ad_astra:space_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B765704F826C543"
+					item: {
+						Count: 1
+						id: "ad_astra:space_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&f&lSuit Up for Space!&r"
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3002302738A55ED4"]
+			description: ["&fUpgrade to the &8Netherite Space Suit&r for maximum protection in space. Built to withstand the harshest environments, this suit is your key to survival in the farthest reaches of the galaxy. &aLet’s rock the universe!&r"]
+			icon: {
+				Count: 1
+				id: "ad_astra:netherite_space_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "469B51187350516C"
+			rewards: [
+				{
+					id: "4440035B9BE7A5A5"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "4A39C642C1A3CDD6"
+					item: "ad_astra:space_painting"
+					type: "item"
+				}
+			]
+			subtitle: "&7Stronger, better, ready for anything..."
+			tasks: [
+				{
+					id: "6C5F575493C8F5BE"
+					item: {
+						Count: 1
+						id: "ad_astra:netherite_space_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0CF9071F8A9EC532"
+					item: {
+						Count: 1
+						id: "ad_astra:netherite_space_suit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09005FC95DA997F9"
+					item: {
+						Count: 1
+						id: "ad_astra:netherite_space_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "715CFBD0433DB1C7"
+					item: {
+						Count: 1
+						id: "ad_astra:netherite_space_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&8&lNetherite Space Suit&r"
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["469B51187350516C"]
+			description: ["&fUpgrade to the &cJet Suit&r and take flight like never before. Built for high-speed mobility and ultimate control, this suit lets you soar through the stars. &aGet ready for liftoff!&r"]
+			icon: {
+				Count: 1
+				id: "ad_astra:jet_suit_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2D3D4255C14D662F"
+			rewards: [
+				{
+					id: "26BC687E528E1C59"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "70ADD7A6929D1687"
+					table_id: 6995311710531381976L
+					type: "choice"
+				}
+				{
+					id: "26425BF010CEB008"
+					item: "ad_astra:space_painting"
+					type: "item"
+				}
+			]
+			subtitle: "&7To infinity and beyond..."
+			tasks: [
+				{
+					id: "261C0514420B4350"
+					item: {
+						Count: 1
+						id: "ad_astra:jet_suit_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EBE8BA133E4DFE8"
+					item: {
+						Count: 1
+						id: "ad_astra:jet_suit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1591E7A5153D1D19"
+					item: {
+						Count: 1
+						id: "ad_astra:jet_suit_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C3FBC8E0449AA4E"
+					item: {
+						Count: 1
+						id: "ad_astra:jet_suit_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&c&lJet Suit"
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["32B91C1BE63BACC7"]
+			description: ["&fTouch down on the Moon. It’s your first stop beyond Earth, and the adventure only grows from here. &aWhat mysteries will you uncover?&r"]
+			icon: "ad_astra:moon_globe"
+			id: "57B0D19DBADC0059"
+			rewards: [
+				{
+					id: "5706D4D6D4441B2B"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "10535ECA81EF86B8"
+					item: "delightful:deluxe_cheeseburger"
+					type: "item"
+				}
+			]
+			size: 0.8d
+			subtitle: "&7The first step into space..."
+			tasks: [{
+				dimension: "ad_astra:moon"
+				icon: "ad_astra:cheese"
+				id: "1844636E7000C13E"
+				title: "Visit the Moon"
+				type: "dimension"
+			}]
+			title: "&7&lTo the Moon&r"
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6FE7024D1D9C975B"]
+			description: ["&fVisit &cMars&r, a planet full of unknowns. Discover its secrets and begin your journey across the stars. &aReady for the red planet?&r"]
+			icon: "ad_astra:mars_globe"
+			id: "3325F9E8B5F08DF6"
+			rewards: [
+				{
+					id: "6531A4E763EA6E00"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "619371D6ADBA76DB"
+					item: "ad_astra:space_painting"
+					type: "item"
+				}
+			]
+			size: 0.8d
+			subtitle: "&7A red world of possibilities..."
+			tasks: [{
+				dimension: "ad_astra:mars"
+				icon: "ad_astra:mars_ostrum_ore"
+				id: "1E21A00BD465A3C4"
+				title: "Visit Mars"
+				type: "dimension"
+			}]
+			title: "&c&lMars Awaits&r"
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0589A5B1C0C8D6A5"]
+			description: ["&fLand on the fiery planet of &6Mercury&r, where the heat is intense and the challenges greater. &aCan you handle the heat?&r"]
+			icon: "ad_astra:mercury_globe"
+			id: "4D6910B45599428C"
+			rewards: [
+				{
+					id: "2232D96EF9D814CB"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 2
+					id: "393D00216ACDD1AF"
+					item: "ad_astra:fuel_bucket"
+					random_bonus: 1
+					type: "item"
+				}
+			]
+			size: 0.8d
+			subtitle: "&7A scorching adventure..."
+			tasks: [{
+				dimension: "ad_astra:mercury"
+				icon: "ad_astra:chiseled_mercury_stone_bricks"
+				id: "4B5D7DA649284448"
+				title: "Visit Mercury"
+				type: "dimension"
+			}]
+			title: "&6&lMercury’s Heat&r"
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0589A5B1C0C8D6A5"]
+			description: ["&fBrave the harsh conditions of &6Venus&r, where volcanoes and acidic rains await. Explore this fiery planet, but be prepared for its unforgiving environment. &aDo you have what it takes to survive?&r"]
+			icon: "ad_astra:venus_globe"
+			id: "070D1A1F0DE075B9"
+			rewards: [
+				{
+					id: "07400DA258C3939F"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "1AE1E9578E896C16"
+					item: "ad_astra:light_blue_flag"
+					type: "item"
+				}
+			]
+			size: 0.8d
+			subtitle: "&7A hostile, volcanic world..."
+			tasks: [{
+				dimension: "ad_astra:venus"
+				icon: "ad_astra:venus_calorite_ore"
+				id: "054B5DD3CF75EB16"
+				title: "Visit Venus"
+				type: "dimension"
+			}]
+			title: "&6&lVenus Expedition&r"
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["672397AD37C67430"]
+			description: ["&fTravel to &bGlacio&r, a frozen planet in the depths of space. Brave the cold and discover what lies beneath the ice. &aPrepare for the freeze!&r"]
+			icon: "ad_astra:glacio_globe"
+			id: "64E4848CBB1CECB9"
+			rewards: [
+				{
+					id: "3F9B499C63E7C0F2"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 2
+					id: "2AEB87D59102FBEC"
+					item: "minecraft:snow_block"
+					type: "item"
+				}
+				{
+					id: "4FCF95B70FE75662"
+					item: "minecraft:carved_pumpkin"
+					type: "item"
+				}
+			]
+			size: 0.8d
+			subtitle: "&7An icy world beyond the stars..."
+			tasks: [{
+				dimension: "ad_astra:glacio"
+				icon: "ad_astra:glacio_ice_shard_ore"
+				id: "6DCB7CAC469B139C"
+				title: "Visit Glacio"
+				type: "dimension"
+			}]
+			title: "&b&lFrozen Frontier&r"
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["61788FF534AEECBE"]
+			description: ["&fSet up a &bSolar Panel&r to harness clean energy, and pair it with a &bWater Pump&r and &bCompressor&r for your space base. With these, you'll be ready for long-term missions on distant planets. &aKeep things running smoothly!&r"]
+			icon: "ad_astra:water_pump"
+			id: "3FDEED83738B1C5F"
+			rewards: [
+				{
+					id: "38FAD5C012E3247B"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "01ABB015D5F99AAD"
+					item: "ad_astra:oxygen_bucket"
+					type: "item"
+				}
+			]
+			subtitle: "&7For longer explorations..."
+			tasks: [
+				{
+					id: "36EBAE1D4D6178A6"
+					item: "ad_astra:solar_panel"
+					type: "item"
+				}
+				{
+					id: "75B168233F864BF7"
+					item: "ad_astra:water_pump"
+					type: "item"
+				}
+				{
+					id: "66A0639CCA3CC59F"
+					item: "ad_astra:compressor"
+					type: "item"
+				}
+			]
+			title: "&b&lSustainable Power&r"
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3FDEED83738B1C5F"]
+			description: ["&fWith the &bOxygen Distributor&r, you can create a safe, breathable environment on distant worlds. Time to start building your space base and make life sustainable. &aLet’s make some room to breathe!&r"]
+			icon: "ad_astra:oxygen_distributor"
+			id: "461AC9E7B96F560C"
+			rewards: [
+				{
+					id: "34E2875970F21988"
+					type: "xp"
+					xp: 18
+				}
+				{
+					exclude_from_claim_all: true
+					id: "46D4B52FEFBFB7A2"
+					table_id: 6995311710531381976L
+					type: "random"
+				}
+				{
+					id: "4A5169F98337C882"
+					item: "ad_astra:space_painting"
+					type: "item"
+				}
+			]
+			subtitle: "&7Time to set up a base?"
+			tasks: [
+				{
+					id: "19CD3AE6A8D4E147"
+					item: "ad_astra:oxygen_distributor"
+					type: "item"
+				}
+				{
+					id: "40F90119BA1A7755"
+					item: "ad_astra:energizer"
+					type: "item"
+				}
+			]
+			title: "&b&lBreathing Room&r"
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["157E01D43D1AEED1"]
+			description: ["&fIt's time to get your base fully operational! Build the &8Coal Generator&r along with an &bOxygen Generator&r and &eFuel Refinery&r. Together, these machines will power your systems, produce oxygen, and refine fuel from &eOil&r. &aGet everything running smoothly and prepare for your next adventure!&r"]
+			icon: "ad_astra:coal_generator"
+			id: "61788FF534AEECBE"
+			rewards: [
+				{
+					id: "6FEC1992B0F444CE"
+					type: "xp"
+					xp: 12
+				}
+				{
+					count: 2
+					id: "1CE85D60BCE95FB7"
+					item: "ad_astra:steel_cable"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "&7Set up your energy and oxygen system..."
+			tasks: [
+				{
+					id: "1ED73BAA8D0BB986"
+					item: "ad_astra:coal_generator"
+					type: "item"
+				}
+				{
+					id: "75F817B1D4D9B5EA"
+					item: "ad_astra:oxygen_loader"
+					type: "item"
+				}
+				{
+					id: "6EF6C17027CFF241"
+					item: "ad_astra:fuel_refinery"
+					type: "item"
+				}
+			]
+			title: "&3&lEnergy Network"
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["672397AD37C67430"]
+			description: [
+				"&fAs a &bgalactic crafter&r, you gather rare materials from across the stars, molding them into beautiful &eminiature planetary models&r. Each crafting attempt yields a random globe of a different planet. &7Will you get the Moon, Mars, or even Earth?&r "
+				""
+				"&6Craft again and collect them all for the ultimate cosmic display!&r"
+			]
+			hide_until_deps_complete: true
+			icon: "ad_astra:nasa_workbench"
+			id: "46D315DFB0FA2CE3"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6605BE8226FBD832"
+				table_id: 6995311710531381976L
+				type: "random"
+			}]
+			subtitle: "&7Create a unique planetary globe!"
+			tasks: [
+				{
+					consume_items: true
+					id: "1F734FA3C80CDB86"
+					item: "ad_astra:calorite_block"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "1FD02FC295467A4F"
+					item: "ad_astra:ostrum_block"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "5E40CD0EFD70ECF8"
+					item: "ad_astra:desh_block"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "4A5AFC334AE05F03"
+					item: "ad_astra:steel_block"
+					type: "item"
+				}
+				{
+					id: "1B9E213797A10D14"
+					item: "ad_astra:cheese_block"
+					type: "item"
+				}
+				{
+					id: "64CCF6AD0E487212"
+					item: "ad_astra:ice_shard"
+					type: "item"
+				}
+			]
+			title: "&5&lGalactic Model Crafting"
+			x: 0.0d
+			y: 6.5d
+		}
+	]
+	title: "&9 Beyond the Stars"
+}

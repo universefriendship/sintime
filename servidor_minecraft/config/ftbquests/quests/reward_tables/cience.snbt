@@ -1,0 +1,12 @@
+{
+	id: "5CCC615138E911E4"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ count: 4, item: "ae2:silicon", random_bonus: 4 }
+		{ count: 12, item: "ae2:certus_quartz_crystal", random_bonus: 12, weight: 1.5f }
+		{ count: 2, item: "ae2:fluix_crystal", random_bonus: 1 }
+		{ count: 2, item: "ae2:fluix_smart_cable", random_bonus: 1, weight: 0.5f }
+	]
+	title: "cience"
+}

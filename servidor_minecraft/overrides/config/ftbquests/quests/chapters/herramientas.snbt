@@ -1,0 +1,540 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "herramientas"
+	group: "31FB61CF8D7636BB"
+	icon: {
+		Count: 1
+		id: "advancednetherite:netherite_diamond_pickaxe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "1D4E28E676B3A848"
+	images: [
+		{
+			height: 1.0d
+			image: "simplyswords:item/dreadtide_base_anim"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/dreadtide_base_anim"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/storms_edge_layer_e"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:textures/gui/quests/17.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.105427357601002E-15d
+			y: -1.2357142857142946d
+		}
+		{
+			height: 4.0d
+			image: "minecraft:textures/gui/quests/12.png"
+			rotation: 0.0d
+			width: 2.048780487804878d
+			x: 1.971428571428568d
+			y: -2.150000000000027d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["62BC7AD4C156AB4C"]
+			dependency_requirement: "one_started"
+			description: ["&fFrom wood to Netherite, this chapter guides you through every tool tier. Get ready to level up your craft! &aLet’s begin!&r"]
+			hide_until_deps_complete: true
+			icon: "create:brass_hand"
+			id: "7D0565FA539829CD"
+			subtitle: "&7Time to craft greatness..."
+			tasks: [{
+				id: "7B693CF054A82570"
+				type: "checkmark"
+			}]
+			title: "&6&lTool Mastery&r"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7D0565FA539829CD"]
+			description: ["&fStart with the basics. &aWooden&r tools may not last long, but they are your first step toward mastery. &aLet’s chop and craft!&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "6456620BAB9213AD"
+			rewards: [
+				{
+					id: "63A41524A2104C73"
+					type: "xp"
+					xp: 5
+				}
+				{
+					count: 2
+					id: "62FDB60B227D1382"
+					item: "aquaculture:box"
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Every journey begins small..."
+			tasks: [{
+				id: "32B4FCD0015EB141"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&a&lWooden Tools&r"
+			x: 0.0d
+			y: -2.875d
+		}
+		{
+			dependencies: ["1FA77B461ABADE19"]
+			description: ["&fYou've upgraded to &7Iron&r tools. More durability, more efficiency. You're on your way to becoming a legend! &aMine smarter!&r"]
+			id: "46098A6CCD2243F5"
+			rewards: [
+				{
+					id: "2FA9AD78D6539F07"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 3
+					id: "4DF72EEA33B685C8"
+					item: "aquaculture:lockbox"
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Sharper and stronger..."
+			tasks: [{
+				id: "205FEE61667639D4"
+				item: {
+					Count: 1
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&7&lIron Gear&r"
+			x: 0.0d
+			y: -4.660714285714292d
+		}
+		{
+			dependencies: ["6456620BAB9213AD"]
+			description: ["&fStone tools bring durability and strength. It's time to leave the wooden era behind and rock your adventure! &aKeep mining!&r"]
+			id: "1FA77B461ABADE19"
+			rewards: [
+				{
+					id: "5D2B54B40C438DC0"
+					type: "xp"
+					xp: 15
+				}
+				{
+					count: 5
+					id: "668D9C8875820AAB"
+					item: "aquaculture:box"
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Better tools, bigger dreams..."
+			tasks: [{
+				id: "4FC584947B4974BF"
+				item: {
+					Count: 1
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&8&lStone Age&r"
+			x: 0.0d
+			y: -3.767857142857146d
+		}
+		{
+			dependencies: ["46098A6CCD2243F5"]
+			description: ["&fThe &bDiamond&r tier represents true mastery. Strong, beautiful, and durable. Just don’t lose it in lava! &aKeep shining!&r"]
+			id: "07B0A45B0D6EE17E"
+			rewards: [
+				{
+					id: "2C42D21CD02D9F78"
+					type: "xp"
+					xp: 35
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1AD9B4EFF3269602"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Shine bright like a diamond..."
+			tasks: [{
+				id: "679256814CC07537"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&b&lDiamond&r"
+			x: 0.0d
+			y: -5.5535714285714235d
+		}
+		{
+			dependencies: ["07B0A45B0D6EE17E"]
+			description: ["&fYou’ve reached the top with &8Netherite&r tools. The ultimate tier. Ready to face the toughest challenges? &aLet's conquer the world!&r"]
+			id: "6F7C1048FAC3BE58"
+			rewards: [
+				{
+					id: "2669E43BEEE1025D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5F5FA02D17FB3E31"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7From the depths of the Nether..."
+			tasks: [{
+				id: "0476C307A06818C1"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&8&lNetherite&r"
+			x: 0.0d
+			y: -6.446428571428569d
+		}
+		{
+			dependencies: ["6F7C1048FAC3BE58"]
+			description: ["&fHarness the dark power of the &3Warden&r and forge tools imbued with its strength. The &3Warden Toolset&r is unmatched when it comes to exploring the deepest caverns. Beware, its power comes at a cost. &aAre you ready to wield the strength of the shadows?&r"]
+			id: "54D5FD40C00C7488"
+			rewards: [
+				{
+					id: "0E0280EE74AD320D"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					exclude_from_claim_all: true
+					id: "673734B347B24497"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7The darkness empowers you..."
+			tasks: [{
+				id: "39BCA5304D8D9901"
+				item: {
+					Count: 1
+					id: "deeperdarker:warden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&3&lWarden’s Might&r"
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["46098A6CCD2243F5"]
+			description: ["&fThe &2Terrasteel&r tier is one of the most powerful in Botania. This armor set grants not only health regeneration but also improves your magic abilities, making it a must-have for any nature-based mage. &aForge the pieces and prepare for the toughest battles!&r"]
+			hide_dependency_lines: true
+			id: "6280595E676AB686"
+			rewards: [
+				{
+					id: "59C05FC3AE64F3FB"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4613F6D5091FAF9C"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Harness nature's might..."
+			tasks: [{
+				id: "19451FB36029D864"
+				item: {
+					Count: 1
+					id: "botania:terra_pick"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&2&lTerrasteel Power&r"
+			x: -2.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["6280595E676AB686"]
+			description: ["&fForged from the mystical material of &dElementium&r, this tier comes with unique powers. Pixies will aid you in combat when wearing this set, making you a formidable force in any magical battle. &aTime to wield the power of the fae!&r"]
+			hide_until_deps_visible: true
+			id: "566A6C352F359BA5"
+			rewards: [
+				{
+					id: "166DE5F94B1743B4"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B2A03628B203E12"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Blessed by the Pixies..."
+			tasks: [{
+				id: "03736DA18193FCF5"
+				item: {
+					Count: 1
+					id: "botania:elementium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&d&lElementium Magic&r"
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["07B0A45B0D6EE17E"]
+			description: ["&fHarness the power of the &dGlided Rose&r tools, blending mechanics to enhance your capabilities. Build, automate, and create like never before with this enchanting tier. &aReady to craft wonders?&r"]
+			hide_dependency_lines: true
+			id: "698AF336C46D6E7C"
+			rewards: [
+				{
+					id: "09624E83F5609AF0"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					exclude_from_claim_all: true
+					id: "24D34C37DD381C63"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "11C81410C4D9352E"
+					item: "create:experience_block"
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Power through creation..."
+			tasks: [{
+				id: "33F55446FC1AA2F4"
+				item: {
+					Count: 1
+					id: "create_dd:gilded_rose_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&d&lGlided Rose&r"
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["6F7C1048FAC3BE58"]
+			description: ["&fThe best of both worlds: combine the durability of &9Netherite&r and the sharpness of &bDiamond&r to forge tools that dominate all materials. The &9Netherite-Diamond Toolset&r offers unparalleled efficiency and strength. &aGet ready to take on the toughest challenges!&r"]
+			id: "3CDBCBDDFA426865"
+			rewards: [
+				{
+					id: "04CAC2D9C6C51446"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E711C04C29A422E"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Stronger than ever before..."
+			tasks: [{
+				id: "1DDF2EA23996EE7B"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&9&lDiamond Reinforced Netherite&r"
+			x: -0.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["46098A6CCD2243F5"]
+			description: ["&fThe &bResonarium&r tools and armor are forged from the essence of the Otherside. Equip this powerful set and dominate your adventures. &aTime to craft your tools of the unknown!&r"]
+			hide_dependency_lines: true
+			id: "0C7E854A3011298D"
+			rewards: [
+				{
+					id: "0470A15773CCCE83"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					exclude_from_claim_all: true
+					id: "05C5FD9C26EDA317"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "141B5484DA9C845C"
+					item: "deeperdarker:ancient_vase"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Power from the deep dark..."
+			tasks: [{
+				id: "03A34762EBA9FB93"
+				item: {
+					Count: 1
+					id: "deeperdarker:resonarium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&b&lResonarium Gear"
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["6F7C1048FAC3BE58"]
+			description: ["&fThe &6Dimensional Carver&r lets you slice through reality, creating doorways between worlds. Use it to tear open portals and explore the unknown. But beware, it requires precision and patience. &aAre you ready to carve your path?&r"]
+			hide_dependency_lines: true
+			id: "042862E1A7DD80DE"
+			rewards: [
+				{
+					id: "09DE9A6E544CA0C5"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6CAC6FF0AD28A516"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Carve through dimensions..."
+			tasks: [{
+				id: "394D148E94C2676B"
+				item: {
+					Count: 1
+					id: "alexsmobs:dimensional_carver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&6&lDimensional Carver&r"
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["042862E1A7DD80DE"]
+			description: ["&fThe &5Shattered Dimensional Carver&r is an unstable version of its counterpart. It opens doorways, but to more unpredictable realms. Handle with care, it might break more than reality. &aWill you risk the unknown?&r"]
+			hide_until_deps_visible: true
+			id: "4083C3A4D70C2762"
+			rewards: [
+				{
+					id: "06C452745FBEFB92"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2B6C9D26CC8D059A"
+					table_id: 5810327260786251316L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7A broken way to new realms..."
+			tasks: [{
+				id: "3F19B8969E0702B8"
+				item: {
+					Count: 1
+					id: "alexsmobs:shattered_dimensional_carver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&5&lShattered Carver&r"
+			x: 3.0d
+			y: -6.0d
+		}
+	]
+	title: "&6 Upgrade \\&\\ Dominate"
+}

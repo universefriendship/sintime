@@ -1,0 +1,11 @@
+{
+	id: "3BD5BD54A546AF08"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{ count: 2, item: "ars_nouveau:source_gem", random_bonus: 4 }
+		{ count: 3, item: "ars_nouveau:magebloom_fiber", random_bonus: 5 }
+		{ count: 4, item: "ars_nouveau:sourceberry_bush", random_bonus: 12, weight: 2.0f }
+	]
+	title: "magic"
+}

@@ -1,0 +1,196 @@
+{
+	autofocus_id: "3001456917678ACE"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: "4F7AFFE81C16E584"
+	icon: "botania:cosmetic_questgiver_mark"
+	id: "1D538406046DE721"
+	images: [
+		{
+			height: 0.5d
+			hover: ["Link to Discord Server!"]
+			image: "jei:textures/jei/atlas/gui/icons/info.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: -0.20000000000000284d
+			y: 3.485714285714309d
+		}
+		{
+			click: "https://discord.gg/X8VY5WMbe4"
+			height: 1.0d
+			hover: ["Click Me!"]
+			image: "supplementaries:textures/gui/book/icon/discord.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7428571428571544d
+			y: 3.857142857142861d
+		}
+		{
+			height: 0.8d
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.6000000000000085d
+			y: 3.9071428571428655d
+		}
+		{
+			click: "#3001456917678ACE"
+			height: 4.0d
+			image: "minecraft:textures/gui/quests/tlwlogo.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -1.5d
+			y: -3.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&fWelcome, warrior! You’ve entered &cThe Last War&r, a world transformed by &6modern technology&r and &bfirepower&r. Gone are the days of simple survival, now, it’s a battle for dominance in a land filled with hidden spots, high-stakes missions, and an arsenal like never before."
+				""
+				"Are you ready to &aembrace the challenge&r and &bforge your legacy&r in this modernized world of Minecraft? Equip yourself, gather your allies, and dive into the &lultimate adventure&r! &6The Last War has just begun!&r"
+				""
+				"&6We hope you enjoy The Last War as much as we did! &r"
+			]
+			icon: "minecraft:totem_of_undying"
+			id: "3001456917678ACE"
+			shape: "heart"
+			size: 1.2d
+			subtitle: "&7A new era of combat and survival awaits..."
+			tasks: [{
+				id: "6C1F7C29AB288D5C"
+				title: "The modpack"
+				type: "checkmark"
+			}]
+			title: "&6&lWelcome to The Last War!    "
+			x: -1.4857142857142946d
+			y: -0.34285714285712743d
+		}
+		{
+			dependencies: ["4BCDE28C61B050A6"]
+			description: [
+				"&fUnlock &6Your Surroundings&r and dive into the vast biomes and hidden secrets of this world. From lush forests to eerie caves, adventure awaits around every corner. Ready to explore?"
+				"&r"
+			]
+			icon: "supplementaries:globe"
+			id: "62BC7AD4C156AB4C"
+			shape: "octagon"
+			subtitle: "&7Discover new places, conquer new territories."
+			tasks: [{
+				id: "3266CF53EDF544D7"
+				title: "Your suroundings"
+				type: "checkmark"
+			}]
+			title: "&6&lThe World Around You"
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4BCDE28C61B050A6"]
+			description: [
+				"&fPrepare yourself for a journey into the world of &cGuns&r! Click here to access a new arsenal of firepower, from pistols to heavy artillery. It's time to arm yourself and face any challenge that comes your way!"
+				"&r"
+			]
+			icon: {
+				Count: 1
+				id: "tacz:modern_kinetic_gun"
+				tag: {
+					GunCurrentAmmoCount: 7
+					GunFireMode: "SEMI"
+					GunId: "tacz:deagle"
+					HasBulletInBarrel: 1b
+				}
+			}
+			id: "2800DFF9AFBEFE42"
+			shape: "pentagon"
+			subtitle: "&7Unlock the world of modern weaponry!"
+			tasks: [{
+				id: "6C430ECFB320B565"
+				title: "Guns"
+				type: "checkmark"
+			}]
+			title: "&c&lFirepower Unleashed"
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4BCDE28C61B050A6"]
+			description: ["&fUnlock the &5Magic and Technology&r chapter and dive into a world where arcane forces meet modern machines. Whether you're crafting intricate spells or building automated factories, this chapter will open the door to endless possibilities."]
+			icon: "create_dd:integrated_mechanism"
+			id: "09C93F4C67945379"
+			shape: "gear"
+			subtitle: "&7Master the art of magic and machinery!"
+			tasks: [{
+				id: "1BC48D6CFB5B233C"
+				title: "Magic and cience"
+				type: "checkmark"
+			}]
+			title: "&3&lMagic and Tech"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3001456917678ACE"]
+			description: [
+				"&fIf you encounter a bug or have any questions, don’t hesitate to reach out! Our &9official Discord&r is here to assist you with anything you need. Join our community, ask questions, and stay updated with the latest news. "
+				""
+				"&l&bClick the Discord Icon to Join!&r&r"
+				""
+				"&fRemember, whether it’s about quests, mods, or just sharing your experience, we’re just a message away. "
+			]
+			hide_dependency_lines: true
+			icon: "botania:cosmetic_questgiver_mark"
+			id: "658E546EDFA05EFC"
+			subtitle: "&7We’re here to support your journey!"
+			tasks: [{
+				id: "0EE26DED2B68796F"
+				title: "Discord"
+				type: "checkmark"
+			}]
+			title: "&b&lNeed Help?"
+			x: -2.171428571428578d
+			y: 3.8857142857142932d
+		}
+		{
+			dependencies: ["3001456917678ACE"]
+			description: [
+				"&fWelcome to the world of &aQuests&r! Here, each task is a step towards mastering this new era of &bcombat&r and &cdiscovery&r. This quest is a simple example, a &3Checkmark Quest&r, meaning you can complete it just by clicking! "
+				""
+				"&fBut that’s only the beginning. You’ll find various types of quests as you explore, like:"
+				"&8- &6Crafting Quests&r"
+				"&8- &6Exploration Quests&r"
+				"&8- &6And More!&r"
+				""
+				"&fThough &bquests aren’t mandatory&r, they’re designed to be a fun guide through your adventure, carefully balanced to be achievable and engaging. "
+				""
+				"&rFor a deeper understanding of the mods don’t miss the dedicated quest lines."
+				""
+				"&7Ready to dive in? Start your journey and uncover all the secrets &aThe Last War&r has to offer. "
+				""
+				"&6Good luck, adventurer!&r"
+			]
+			hide_dependency_lines: true
+			icon: "ftbquests:book"
+			id: "4BCDE28C61B050A6"
+			rewards: [{
+				id: "3802627A4199C7A7"
+				item: "ftbquests:book"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "&7Your guide to becoming a true adventurer..."
+			tasks: [{
+				id: "0421DF28FA1ADAF5"
+				title: "Quests"
+				type: "checkmark"
+			}]
+			title: "&6&lMastering the Quests!"
+			x: -1.5d
+			y: 1.0d
+		}
+	]
+	title: "&7 Welcome Adventurer!"
+}

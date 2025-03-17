@@ -1,0 +1,11 @@
+{
+	id: "343EAA13D37E2978"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ count: 2, item: "deeperdarker:soul_dust", random_bonus: 3 }
+		{ count: 3, item: "deeperdarker:resonarium", random_bonus: 9 }
+		{ item: "deeperdarker:warden_carapace", random_bonus: 3, weight: 0.6666666f }
+	]
+	title: "voids_watch"
+}

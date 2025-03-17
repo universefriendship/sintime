@@ -1,0 +1,556 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_and_its_forms"
+	group: "31FB61CF8D7636BB"
+	icon: "ars_nouveau:jar_of_light"
+	id: "142A396215524AE7"
+	images: [
+		{
+			height: 2.0d
+			image: "minecraft:textures/gui/quests/0.png"
+			rotation: 0.0d
+			width: 3.5555555555555554d
+			x: 7.105427357601002E-15d
+			y: -1.7999999999999972d
+		}
+		{
+			dependency: "5B690ADAF9FB6947"
+			height: 1.0d
+			image: "minecraft:textures/gui/quests/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependency: "5B690ADAF9FB6947"
+			height: 1.0d
+			image: "minecraft:textures/gui/quests/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 5.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["09C93F4C67945379"]
+			dependency_requirement: "one_started"
+			description: ["&fWelcome to &bArs Nouveau&r, where arcane knowledge meets creativity. Learn to craft &nspellbooks&r, channel magical power, and master the arts of &bautomation&r and &bsorcery&r. The arcane arts are vast, and this is just the beginning of your magical journey. &aAre you ready to explore the mysteries of magic?&r"]
+			hide_until_deps_complete: true
+			icon: "ars_nouveau:worn_notebook"
+			id: "5B690ADAF9FB6947"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37DBF77654E06448"
+				table_id: 331839253138532122L
+				type: "random"
+			}]
+			subtitle: "&7Embrace the magic within you..."
+			tasks: [{
+				id: "1E1B7A24E3DF23DF"
+				type: "checkmark"
+			}]
+			title: "&b&lAwaken the Arcane&r"
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5B690ADAF9FB6947"]
+			description: ["&fThe &bNovice Spell Book&r is your gateway to learning magic in Ars Nouveau. Create it to start casting tier 1 glyphs and explore the world of spellcrafting. Next, use the &bScribe's Table&r to unlock and view new glyph requirements for your spells. Lastly, the &bDowsing Rod&r will help you discover magical creatures and amethyst hidden through blocks. Get ready to explore the depths of magic and discovery! &aCraft your tools and begin!&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "ars_nouveau:novice_spell_book"
+			id: "2A3B4B9E2C0F4B53"
+			rewards: [
+				{
+					id: "62BCF8C267A7D128"
+					type: "xp"
+					xp: 5
+				}
+				{
+					count: 2
+					id: "1754B3BD9F193175"
+					item: "ars_nouveau:source_gem"
+					type: "item"
+				}
+			]
+			subtitle: "&7Your journey into magic begins..."
+			tasks: [
+				{
+					id: "042A66AC47ADCCB0"
+					item: "ars_nouveau:novice_spell_book"
+					type: "item"
+				}
+				{
+					id: "5CB571523A131F73"
+					item: "ars_nouveau:scribes_table"
+					type: "item"
+				}
+				{
+					id: "0F314E0456350451"
+					item: {
+						Count: 1
+						id: "ars_nouveau:dowsing_rod"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&b&lNovice Spellcrafting&r"
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2A3B4B9E2C0F4B53"]
+			description: ["&fThe &6Imbuement Chamber&r is your gateway to creating powerful magical artifacts. By combining this with &5Arcane Pedestals&r and utilizing the &5Enchanting Apparatus&r, you can craft enchanted items that tap into the very essence of mana and resources. Set up your chamber with the pedestals, and unleash its full potential. Whether you're crafting for protection or power, this setup will ensure you unlock your arcane might."]
+			icon: "ars_nouveau:enchanting_apparatus"
+			id: "3598FD7CB7015EF6"
+			rewards: [
+				{
+					id: "0735347E60BD3971"
+					type: "xp"
+					xp: 24
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7658F9CE8B77D8F9"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+			]
+			subtitle: "&7Create magical items with ease...&r"
+			tasks: [
+				{
+					id: "22D28ECD3A5773F7"
+					item: "ars_nouveau:imbuement_chamber"
+					type: "item"
+				}
+				{
+					id: "7C34D711B1E0E161"
+					item: "ars_nouveau:source_jar"
+					type: "item"
+				}
+				{
+					id: "7C9891026D742833"
+					item: "ars_nouveau:enchanting_apparatus"
+					type: "item"
+				}
+				{
+					id: "24996E04338F2BD2"
+					item: "ars_nouveau:arcane_pedestal"
+					type: "item"
+				}
+			]
+			title: "&6&lPower Awaits&r"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3598FD7CB7015EF6"]
+			description: ["&fThe &2Magebloom Seed&r is your entry point into the magic of &5&nArs Nouveau&r. Plant the seed, grow your Magebloom, and harvest the fibers to craft magical items. Pair this with the &dSource Gem&r, the core of mana-based crafting, and you're set to unlock powerful spells and tools. &aA new magical journey begins!&r"]
+			icon: "ars_nouveau:source_gem"
+			id: "7ED601E095072DAE"
+			rewards: [
+				{
+					id: "2BB58228B47DB9F3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "6BAFC3299421ACF0"
+					item: "ars_nouveau:potion_diffuser"
+					type: "item"
+				}
+			]
+			subtitle: "&7A magical seed for new beginnings...&r"
+			tasks: [
+				{
+					id: "50841DE4CE4EE673"
+					item: "ars_nouveau:source_gem"
+					type: "item"
+				}
+				{
+					id: "38407517617B561C"
+					item: "ars_nouveau:magebloom_crop"
+					type: "item"
+				}
+			]
+			title: "&2&lMagebloom Awakening&r"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7ED601E095072DAE"]
+			description: ["&fCreate &5Magebloom Fibers&r to craft magical robes. Perfect for weaving power into your outfits. &aAre you ready to don the new look of magic?&r"]
+			icon: {
+				Count: 1
+				id: "ars_nouveau:arcanist_hood"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3ACFC30291D8F9F0"
+			rewards: [
+				{
+					id: "5FA837C2DAFC5AAC"
+					type: "xp"
+					xp: 20
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0F796331EB27BB7C"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+			]
+			subtitle: "&7A mage's new attire...&r"
+			tasks: [
+				{
+					id: "1B61CDA42A206747"
+					item: "ars_nouveau:magebloom_fiber"
+					type: "item"
+				}
+				{
+					id: "2FDC81F3466AB995"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:mage_armors"
+						}
+					}
+					title: "Mage Armors"
+					type: "item"
+				}
+			]
+			title: "&d&lMage’s Robes of Power&r"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7ED601E095072DAE"]
+			description: ["&fUse the &dAlteration Table&r to imbue your magical equipment with special threads. From enhancing abilities to adding protection, the possibilities are endless. &aLet’s weave some magic into your gear!&r"]
+			icon: "ars_nouveau:alteration_table"
+			id: "493770EA521F20DA"
+			rewards: [
+				{
+					id: "0DF42021C8AE6EDB"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "35A1BED7E6256A45"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "549BE5D1EFD6C6C9"
+					item: "ars_nouveau:blank_thread"
+					type: "item"
+				}
+			]
+			subtitle: "&7Alter your magic gear...&r"
+			tasks: [
+				{
+					id: "3AFD70C108CEA7A3"
+					item: "ars_nouveau:alteration_table"
+					type: "item"
+				}
+				{
+					id: "7190148D64C9AC48"
+					item: "ars_nouveau:blank_thread"
+					type: "item"
+				}
+				{
+					id: "5C62882CE3B43D31"
+					item: "ars_nouveau:blank_parchment"
+					type: "item"
+				}
+			]
+			title: "&d&lThread of Fate&r"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7ED601E095072DAE"]
+			description: ["&fUse the &9Warp Scroll&r for a quick teleportation back to safety. Never get caught in a dangerous situation again. &aEscape with just a click!&r"]
+			id: "67373F0115BF3E1D"
+			rewards: [
+				{
+					id: "70A4804BEE395E17"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6BA18D98C1BCC9DA"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+			]
+			subtitle: "&7Return in an instant...&r"
+			tasks: [{
+				id: "709FD72EC7C1D5BA"
+				item: {
+					Count: 1
+					id: "ars_nouveau:warp_scroll"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "&9&lQuick Escape&r"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7ED601E095072DAE"
+				"493770EA521F20DA"
+			]
+			dependency_requirement: "one_completed"
+			description: ["&fCraft &6Arcane Weapons&r to elevate your spellcasting. Whether you're wielding a staff or enchanted weapon, these tools are designed to enhance your magical potential. Infuse them with powerful glyphs and take control of the arcane forces. From casting spells to shooting enchanted projectiles, the choice is yours. &aUnleash the might of magic!&r"]
+			id: "3B457F055BF81163"
+			rewards: [
+				{
+					id: "0AF663D882B22840"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5BAC2DFD04BDE1DE"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+			]
+			subtitle: "&7Unleash the full potential of magic...&r"
+			tasks: [{
+				id: "63ECECBFA7242E21"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:mage_weapons"
+					}
+				}
+				title: "Mage Weapons"
+				type: "item"
+			}]
+			title: "&6&lArcane Arsenal&r"
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5B690ADAF9FB6947"]
+			description: ["&fIn &6Ars Nouveau&r, fruits aren’t just for eating, they’re magical! Collect these singular fruits to harness their unique powers. &bSourceberries&r restore magic, &cBlazing Berries&r can fuel your flames, and there’s more to discover. Who said magic can’t be delicious? &aGet ready to savor the arcane!&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "468450AB5EF5C830"
+			rewards: [
+				{
+					id: "379D016308306958"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32AB9B80DCDA1B82"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+				{
+					id: "38EEE3D8DF463179"
+					item: "ars_elemental:water_upstream"
+					type: "item"
+				}
+			]
+			subtitle: "&7Discover the mystical power of fruits...&r"
+			tasks: [
+				{
+					id: "0D615CE4BB86F614"
+					item: "ars_nouveau:bombegranate_pod"
+					type: "item"
+				}
+				{
+					id: "5A9257343811C0E1"
+					item: "ars_nouveau:frostaya_pod"
+					type: "item"
+				}
+				{
+					id: "1E0B743DCF7E1AD6"
+					item: "ars_nouveau:bastion_pod"
+					type: "item"
+				}
+				{
+					id: "5E0DD06BF2270AA8"
+					item: "ars_nouveau:mendosteen_pod"
+					type: "item"
+				}
+			]
+			title: "&6&lTaste the Magic!&r"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7ED601E095072DAE"]
+			description: ["&fThe &5Ritual Brazier&r is essential for performing &6powerful rituals&r and &6invocations&r. Harness the arcane energy to unlock ancient powers and summon entities from beyond. &aLet the rituals begin!&r"]
+			id: "43D0C6D2F518263A"
+			rewards: [
+				{
+					id: "3E2C01E0D5E28A33"
+					type: "xp"
+					xp: 15
+				}
+				{
+					exclude_from_claim_all: true
+					id: "56F51C3582FE4DAF"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+				{
+					id: "378B325EEAE8EEEA"
+					item: "ars_nouveau:ritual_binding"
+					type: "item"
+				}
+				{
+					id: "557370DA39448CB1"
+					item: "ars_nouveau:ritual_sunrise"
+					type: "item"
+				}
+			]
+			subtitle: "&7Fuel the magic within..."
+			tasks: [{
+				id: "79ABADB257B1386F"
+				item: "ars_nouveau:ritual_brazier"
+				type: "item"
+			}]
+			title: "&5&lArcane Flames&r"
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["43D0C6D2F518263A"]
+			description: ["&fThe &cWilden Chimera&r is a fearsome boss, unlocked after an invocation. Defeating this creature rewards you with the &cWilden Tribute&r, a testament to your bravery and power. The battle will push your limits, &aonly the strongest prevail, will you?&r"]
+			id: "693EDF76830F77E9"
+			rewards: [
+				{
+					id: "1307C990E08F44D7"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C3518E97462253D"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+			]
+			subtitle: "&7A trial of strength and courage..."
+			tasks: [{
+				id: "626793D372EE114C"
+				item: "ars_nouveau:wilden_tribute"
+				type: "item"
+			}]
+			title: "&4&lTest of Valor&r"
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["693EDF76830F77E9"]
+			description: ["&fThe &6Mark of Mastery&r signifies that a true arcane master has been born. With this emblem, your magical prowess is unmatched. &aBecome the true master of spells and glyphs!&r"]
+			id: "2B567682BE970674"
+			rewards: [
+				{
+					id: "083B02A2F0CB454F"
+					type: "xp"
+					xp: 200
+				}
+				{
+					exclude_from_claim_all: true
+					id: "491F213C42D29A95"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+				{
+					id: "3012554A38786DFF"
+					item: "ars_nouveau:ring_of_greater_discount"
+					type: "item"
+				}
+				{
+					id: "066956D64D6ED7AF"
+					item: "ars_elemental:magma_upstream"
+					type: "item"
+				}
+			]
+			subtitle: "&7A symbol of arcane excellence..."
+			tasks: [{
+				id: "5F9278077A2B297E"
+				item: "ars_elemental:mark_of_mastery"
+				type: "item"
+			}]
+			title: "&6&lMaster's Emblem&r"
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2A3B4B9E2C0F4B53"]
+			description: ["&fIn Ars Nouveau, &dSourcelinks&r generate &bSource&r, the core energy for crafting and spellcasting. Use a &dSource Jar&r to store this energy and a &6Dominion Wand&r to link Source production devices, optimizing your magical network. Choose the best Source Link for your needs and ensure a smooth flow of power!&r"]
+			icon: "ars_nouveau:source_jar"
+			id: "302A69803546F94C"
+			rewards: [
+				{
+					id: "77955BE578FB7340"
+					type: "xp"
+					xp: 12
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1FFD947ECB3E8B76"
+					table_id: 4311560389524893448L
+					type: "random"
+				}
+			]
+			subtitle: "&7Channel the power of the Source..."
+			tasks: [
+				{
+					id: "01BB8C58D2DDE0A8"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:sourcelinks"
+						}
+					}
+					title: "Sourcelinks"
+					type: "item"
+				}
+				{
+					id: "6BDD8187D09E2F2C"
+					item: "ars_nouveau:source_jar"
+					type: "item"
+				}
+				{
+					id: "6E818A51EFEC8639"
+					item: {
+						Count: 1
+						id: "ars_nouveau:dominion_wand"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "&d&lSource Mastery&r"
+			x: -1.0d
+			y: 2.0d
+		}
+	]
+	title: "&7 Magic \\&\\ its forms"
+}

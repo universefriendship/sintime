@@ -1,0 +1,10 @@
+{
+	chapter_groups: [
+		{ id: "4F7AFFE81C16E584", title: "&7&l&n« Introduction »&r        " }
+		{ id: "2A474218240CB83B", title: "&2&l&n« World Mysteries »&r" }
+		{ id: "31FB61CF8D7636BB", title: "&7&l&n« Tools \\&\\ Weapons »&r " }
+		{ id: "5A1C9B76656CC2FE", title: "&6&l&n« Exploration »&r" }
+		{ id: "29555EBAB4C2D307", title: "&9&l&n« Technology »&r" }
+		{ id: "0548899F1471F2FF", title: "&7&l&n« Outside the box »&r" }
+	]
+}

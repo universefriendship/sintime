@@ -1,0 +1,14 @@
+{
+	id: "611456F01F5A6AD8"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ item: "ad_astra:earth_globe", weight: 1.25f }
+		{ item: "ad_astra:moon_globe" }
+		{ item: "ad_astra:mars_globe" }
+		{ item: "ad_astra:mercury_globe" }
+		{ item: "ad_astra:venus_globe" }
+		{ item: "ad_astra:glacio_globe" }
+	]
+	title: "Star trouper"
+}

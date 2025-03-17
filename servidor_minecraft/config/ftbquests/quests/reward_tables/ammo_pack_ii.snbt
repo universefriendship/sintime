@@ -1,0 +1,125 @@
+{
+	icon: {
+		Count: 1
+		id: "tacz:ammo_box"
+		tag: {
+			Creative: 1b
+		}
+	}
+	id: "1FDD5A709FCD1C9E"
+	loot_size: 4
+	order_index: 16
+	rewards: [
+		{
+			count: 12
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:12g"
+				}
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:30_06"
+				}
+			}
+		}
+		{
+			count: 12
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:68x51fury"
+				}
+			}
+		}
+		{
+			count: 12
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "lradd:m993"
+				}
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:50bmg"
+				}
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "lradd:arrow"
+				}
+			}
+		}
+		{
+			count: 22
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "lradd:flintlock_bullet"
+				}
+			}
+		}
+		{
+			count: 6
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "lradd:fusion_cell"
+				}
+			}
+		}
+		{
+			count: 18
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:762x25"
+				}
+			}
+		}
+		{
+			count: 6
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:40mm"
+				}
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:45acp"
+				}
+			}
+		}
+	]
+	title: "Ammo Pack II"
+}

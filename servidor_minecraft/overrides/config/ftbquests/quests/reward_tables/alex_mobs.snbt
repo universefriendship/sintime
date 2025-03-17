@@ -1,0 +1,10 @@
+{
+	id: "124EFEFBB7CD9BFE"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ count: 36, item: "alexsmobs:shrimp_fried_rice" }
+		{ item: "alexsmobs:warped_mixture" }
+	]
+	title: "Alex mobs"
+}

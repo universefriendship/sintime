@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "919d09c9da113c4b9c009663445f08e2"
+	name: "Nifthy575#919d09c9"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

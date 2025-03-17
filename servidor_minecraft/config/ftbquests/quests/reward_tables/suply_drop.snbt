@@ -1,0 +1,90 @@
+{
+	icon: "ironchest:trapped_diamond_chest"
+	id: "198F1F1D1C94BCCB"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "tacz:scope_elcan_4x"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "lradd:nsic_sight"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "tacz:grip_vertical_ranger"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "tacz:muzzle_silencer_ursus"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "tacz:light_extended_mag_2"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "tacz:ammo_box"
+				tag: {
+					Level: 1
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "tacz:muzzle_brake_cthulhu"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "tacz:oem_stock_light"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "tacz:extended_mag_3"
+				}
+			}
+		}
+	]
+	title: "Suply Drop"
+}

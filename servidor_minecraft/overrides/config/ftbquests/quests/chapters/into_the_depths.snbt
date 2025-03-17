@@ -1,0 +1,584 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "into_the_depths"
+	group: "2A474218240CB83B"
+	icon: "deeperdarker:heart_of_the_deep"
+	id: "69FC15056B9B28B6"
+	images: [
+		{
+			height: 5.0d
+			image: "minecraft:textures/gui/quests/2.png"
+			rotation: 0.0d
+			width: 5.859375d
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			height: 6.0d
+			image: "minecraft:textures/gui/quests/3.png"
+			rotation: 0.0d
+			width: 5.9523809523809526d
+			x: 6.416108630952387d
+			y: 2.107142857142861d
+		}
+		{
+			height: 5.0d
+			image: "minecraft:textures/gui/quests/9.png"
+			rotation: 0.0d
+			width: 4.838709677419355d
+			x: 0.5d
+			y: 5.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2AB1A0F3233B390A"]
+			description: ["&fBeneath the surface, the &8Otherside&r awaits. An endless void filled with shadows and secrets. &7Few dare enter&r, but those who do might unlock unimaginable power. &aWill you step into the darkness?&r"]
+			hide_until_deps_complete: true
+			icon: "deeperdarker:heart_of_the_deep"
+			id: "28D33A19EDF910E2"
+			subtitle: "&7The void whispers your name..."
+			tasks: [{
+				id: "5E46A1595FF3211B"
+				title: "&7The void whispers your name..."
+				type: "checkmark"
+			}]
+			title: "&8&lEchoes of the Abyss&r"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["28D33A19EDF910E2"]
+			description: ["&fDescend into the &8Ancient City&r, where the &8Warden&r reigns, guarding treasures and horrors in equal measure. &cOnly the brave survive.&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:reinforced_deepslate"
+			id: "3DA3448D61E93650"
+			rewards: [
+				{
+					id: "246DD641AC82CED8"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 2
+					id: "2F592DAEF7999A4A"
+					item: "minecraft:candle"
+					random_bonus: 6
+					type: "item"
+				}
+			]
+			subtitle: "&7The darkness watches you...&r"
+			tasks: [
+				{
+					icon: "minecraft:reinforced_deepslate"
+					id: "7003AF3922A7B125"
+					structure: "minecraft:ancient_city"
+					title: "Find the place where the portal is"
+					type: "structure"
+				}
+				{
+					id: "14EDF8C307940421"
+					item: "deeperdarker:heart_of_the_deep"
+					type: "item"
+				}
+			]
+			title: "&8&lInto the Depths&r"
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3DA3448D61E93650"]
+			description: ["&fCraft the &bReinforced Echo Shard&r to unlock powerful items with deep ties to the &2darkest depths&r. This shard carries remnants of ancient strength. &aUse it wisely.&r"]
+			icon: "deeperdarker:warden_upgrade_smithing_template"
+			id: "5A4FD4ACF8051C00"
+			rewards: [
+				{
+					id: "45ADBD8891B0A29F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6766DD88919D1CEE"
+					table_id: 3764633340657674616L
+					type: "random"
+				}
+				{
+					id: "01E9B0DC55B955A9"
+					item: "deeperdarker:resonarium_plate"
+					random_bonus: 1
+					type: "item"
+				}
+			]
+			size: 0.8d
+			subtitle: "&7An echo of ancient power..."
+			tasks: [
+				{
+					id: "1D61259C9B1446BE"
+					item: "deeperdarker:reinforced_echo_shard"
+					type: "item"
+				}
+				{
+					id: "6827AE6C1E2CDEA0"
+					item: "deeperdarker:warden_upgrade_smithing_template"
+					type: "item"
+				}
+			]
+			title: "&b&lBeyond the Shadows&r"
+			x: 2.4d
+			y: 1.6d
+		}
+		{
+			dependencies: ["5A4FD4ACF8051C00"]
+			description: ["&fThe &8Warden's Set&r provides unmatched protection and a deep connection to the shadows. Gear up with this powerful set and embrace the darkness. &aAre you ready to command the night?&r"]
+			icon: {
+				Count: 1
+				id: "deeperdarker:warden_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "717D78095193ED56"
+			rewards: [
+				{
+					id: "1AF139582DC5560D"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "5BFA34BC5328E990"
+					item: "plushies:warden_plushie"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "584A4B88174E053E"
+					table_id: 3764633340657674616L
+					type: "random"
+				}
+			]
+			size: 0.8d
+			subtitle: "&7Craft armor from the depths..."
+			tasks: [
+				{
+					id: "3CFF806D33710961"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "646FFB05F423B889"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "312C9B677ACC2BD6"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "647ADFA27B002BE9"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&1&lWarden's Set&r"
+			x: 3.6d
+			y: 2.8d
+		}
+		{
+			dependencies: ["717D78095193ED56"]
+			description: ["&fThe &8Soul Elytra&r is imbued with the energy of the lost souls from the deepest darkness. With this mystical gear, you'll soar through the skies like never before, channeling the power of the underworld. &aTake flight and embrace the shadows!&r"]
+			id: "36BEA488E737B198"
+			optional: true
+			rewards: [
+				{
+					id: "370C30907393AEE9"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "398826D2F2D61C75"
+					item: "minecraft:reinforced_deepslate"
+					type: "item"
+				}
+			]
+			size: 0.7d
+			subtitle: "&7Harness the power of souls..."
+			tasks: [{
+				id: "371AB10FAF7E5527"
+				item: {
+					Count: 1
+					id: "deeperdarker:soul_elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&8&lWings of the Depths&r"
+			x: 5.773251488095241d
+			y: 2.9642857142857153d
+		}
+		{
+			dependencies: ["3DA3448D61E93650"]
+			description: ["&fCraft the &bResonarium Plate&r, a key component for harnessing the latent power of &7Resonarium&r. Combine it with the right tools to unlock new energy pathways. &aLet’s resonate with the universe!&r"]
+			id: "7DA0F95DE63BF862"
+			rewards: [
+				{
+					id: "2495D5CA8A1F3F91"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48420526508B3360"
+					table_id: 3764633340657674616L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "4CE21317E287BB18"
+					item: "deeperdarker:resonarium_plate"
+					random_bonus: 4
+					type: "item"
+				}
+			]
+			size: 0.8d
+			subtitle: "&7Harmonize with the deepest vibrations..."
+			tasks: [{
+				id: "160E070B72C7B888"
+				item: "deeperdarker:resonarium_plate"
+				type: "item"
+			}]
+			title: "&b&lResonarium Creation&r"
+			x: -0.4d
+			y: 2.8d
+		}
+		{
+			dependencies: ["7DA0F95DE63BF862"]
+			description: ["&fThis &bResonarium Armor Set&r grants you incredible protection and boosts your &amagical capabilities&r. Equip yourself to dominate in &bresonance-based combat&r and face the deepest challenges."]
+			icon: {
+				Count: 1
+				id: "deeperdarker:resonarium_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "17E88217E16D2661"
+			rewards: [{
+				id: "5687A45C7061CD68"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			size: 0.8d
+			subtitle: "&7Harness the power of resonance..."
+			tasks: [
+				{
+					id: "75A1D369D83B0CE6"
+					item: {
+						Count: 1
+						id: "deeperdarker:resonarium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B6F946D3B789C0C"
+					item: {
+						Count: 1
+						id: "deeperdarker:resonarium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1EA1D784277DA948"
+					item: {
+						Count: 1
+						id: "deeperdarker:resonarium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C857D30FFB7926F"
+					item: {
+						Count: 1
+						id: "deeperdarker:resonarium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&b&lResonarium Set&r"
+			x: -0.4d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3DA3448D61E93650"]
+			description: ["&fA realm that feels like home but isn’t. The &3Echo Log&r reveals glimpses of a dimension that mirrors our own, but with mysterious differences. &aWhat secrets does this world hold?&r"]
+			id: "6867B33D642CBCC0"
+			rewards: [
+				{
+					id: "784E45356852D51B"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 3
+					id: "0178621B1F3EE289"
+					item: "deeperdarker:resonarium_plate"
+					random_bonus: 5
+					type: "item"
+				}
+			]
+			subtitle: "&7A world that echoes the familiar..."
+			tasks: [{
+				id: "3E84A47EC95E0B15"
+				item: "deeperdarker:echo_log"
+				type: "item"
+			}]
+			title: "&3&lEchoes of a Lost World&r"
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6867B33D642CBCC0"]
+			description: ["&fOn the other side, ores look familiar but hold different secrets. Observe and gather what this dimension has to offer. &aWhat mysteries will you uncover?&r"]
+			icon: "deeperdarker:sculk_stone"
+			id: "0518688BF7064053"
+			optional: true
+			rewards: [
+				{
+					id: "1D6DCEA6CC162C38"
+					type: "xp"
+					xp: 500
+				}
+				{
+					exclude_from_claim_all: true
+					id: "58544DA67ECAFCAE"
+					table_id: 3764633340657674616L
+					type: "random"
+				}
+			]
+			subtitle: "&7The same, yet different..."
+			tasks: [
+				{
+					icon: "deeperdarker:sculk_stone_coal_ore"
+					id: "1984324F618E69CA"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new coal ore"
+					to_observe: "deeperdarker:sculk_stone_coal_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:sculk_stone_iron_ore"
+					id: "397DE71928F6C0F2"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new iron ore"
+					to_observe: "deeperdarker:sculk_stone_iron_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:sculk_stone_copper_ore"
+					id: "7DCE03CD00EEF198"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new copper ore"
+					to_observe: "deeperdarker:sculk_stone_copper_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:sculk_stone_gold_ore"
+					id: "3CC3B371C4B7B8F3"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new gold ore"
+					to_observe: "deeperdarker:sculk_stone_gold_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:sculk_stone_redstone_ore"
+					id: "3D63B4B8C3DA4991"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new redstone ore"
+					to_observe: "deeperdarker:sculk_stone_redstone_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:sculk_stone_emerald_ore"
+					id: "2CE6A104F855BDF1"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new emerald ore"
+					to_observe: "deeperdarker:sculk_stone_emerald_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:sculk_stone_lapis_ore"
+					id: "12E786C540BE4A73"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new lapis ore"
+					to_observe: "deeperdarker:sculk_stone_lapis_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:sculk_stone_diamond_ore"
+					id: "076294E413556235"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new diamond ore"
+					to_observe: "deeperdarker:sculk_stone_diamond_ore"
+					type: "observation"
+				}
+			]
+			title: "&8&lA Parallel World&r"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6867B33D642CBCC0"]
+			description: ["&7The deeper you go, the richer the world gets. Discover the unique ores of the other side. &aDig deep and uncover the hidden wealth!&r"]
+			icon: "deeperdarker:gloomslate"
+			id: "3262A34C1EE15E20"
+			optional: true
+			rewards: [
+				{
+					id: "189750825B2F8F55"
+					type: "xp"
+					xp: 500
+				}
+				{
+					exclude_from_claim_all: true
+					id: "431E8EB713F0FED5"
+					table_id: 3764633340657674616L
+					type: "random"
+				}
+				{
+					id: "629A20583802512D"
+					item: "mysticalagradditions:nether_star_shard"
+					type: "item"
+				}
+			]
+			subtitle: "&8A parallel reality of rich ores..."
+			tasks: [
+				{
+					icon: "deeperdarker:gloomslate_coal_ore"
+					id: "172EB750B6019845"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new coal ore"
+					to_observe: "deeperdarker:gloomslate_coal_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:gloomslate_iron_ore"
+					id: "7403979AA2BBC9C0"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new iron ore"
+					to_observe: "deeperdarker:gloomslate_iron_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:gloomslate_copper_ore"
+					id: "1788009BA7F7ADCF"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new copper ore"
+					to_observe: "deeperdarker:gloomslate_copper_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:gloomslate_gold_ore"
+					id: "0B213186DD91E8D5"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new gold ore"
+					to_observe: "deeperdarker:gloomslate_gold_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:gloomslate_redstone_ore"
+					id: "72E72B733F92624C"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new redstone ore"
+					to_observe: "deeperdarker:gloomslate_redstone_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:gloomslate_emerald_ore"
+					id: "05360BDA0B4EC979"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new emerald ore"
+					to_observe: "deeperdarker:gloomslate_emerald_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:gloomslate_lapis_ore"
+					id: "5F9C9A5C8ECE8F14"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new lapis ore"
+					to_observe: "deeperdarker:gloomslate_lapis_ore"
+					type: "observation"
+				}
+				{
+					icon: "deeperdarker:gloomslate_diamond_ore"
+					id: "650D282637E25ACA"
+					observe_type: 0
+					timer: 0L
+					title: "Observe a new diamond ore"
+					to_observe: "deeperdarker:gloomslate_diamond_ore"
+					type: "observation"
+				}
+			]
+			title: "&9&lDeeper Ores&r"
+			x: 2.5d
+			y: 3.5d
+		}
+	]
+	title: "&7 Into the depths"
+}

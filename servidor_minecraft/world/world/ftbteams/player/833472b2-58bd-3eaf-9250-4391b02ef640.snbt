@@ -1,0 +1,17 @@
+{
+	id: "833472b2-58bd-3eaf-9250-4391b02ef640"
+	type: "player"
+	player_name: "ari_fl08"
+	ranks: {
+		833472b2-58bd-3eaf-9250-4391b02ef640: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ari_fl08"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6EFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
