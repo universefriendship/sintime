@@ -6571,7 +6571,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-16 22:24:29 +0000",
-      "minecraft:creeper": "2025-03-14 21:35:45 +0000"
+      "minecraft:creeper": "2025-03-14 21:35:45 +0000",
+      "minecraft:zombie": "2025-03-17 23:29:03 +0000"
     },
     "done": false
   },
@@ -14123,6 +14124,18 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-17 00:28:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-17 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-17 23:32:16 +0000"
     },
     "done": true
   },
