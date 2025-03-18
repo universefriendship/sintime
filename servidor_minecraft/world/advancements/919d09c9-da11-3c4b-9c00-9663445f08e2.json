@@ -15042,6 +15042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-18 02:52:10 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shapeless/purple_vane": {
     "criteria": {
       "has_obsidian": "2025-03-18 01:41:04 +0000"
@@ -15198,6 +15204,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-18 02:46:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-03-18 02:40:41 +0000"
@@ -15225,6 +15237,18 @@
   "mca:marriage": {
     "criteria": {
       "iron": "2025-03-18 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-03-18 02:52:10 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-03-18 02:49:43 +0000"
     },
     "done": true
   },
@@ -15537,6 +15561,12 @@
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-18 02:52:10 +0000"
     },
     "done": true
   },
