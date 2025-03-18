@@ -4207,3 +4207,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 01:52:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> [name:"blaze", x:-352, y:76, z:-432, dim:minecraft:the_nether]
 [18Mar2025 01:54:25.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
 [18Mar2025 01:55:01.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [The broken Nether's warmachine]
+[18Mar2025 01:56:42.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> soulium
+[18Mar2025 01:57:55.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Live Drive]
+[18Mar2025 02:03:20.224] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/109218, l='ServerLevel[world]', x=3.00, y=31.00, z=-292.00] as it would cause deadlock
+[18Mar2025 02:03:35.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=60, z=-107} BlockPos{x=82, y=62, z=-107}
+[18Mar2025 02:03:36.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=60, z=-107} BlockPos{x=82, y=62, z=-107}
+[18Mar2025 02:03:36.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=60, z=-107} BlockPos{x=82, y=62, z=-107}
+[18Mar2025 02:03:36.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=60, z=-107} BlockPos{x=82, y=62, z=-107}
+[18Mar2025 02:05:07.245] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/125084, l='ServerLevel[world]', x=140.00, y=31.00, z=-393.00] as it would cause deadlock
+[18Mar2025 02:05:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Nightmare Fuel]
+[18Mar2025 02:05:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> [name:"portal", x:72, y:96, z:-32, dim:minecraft:the_nether]
+[18Mar2025 02:07:14.677] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/142438, l='ServerLevel[world]', x=-273.00, y=31.00, z=-353.00] as it would cause deadlock
+[18Mar2025 02:08:05.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=45, z=-255} BlockPos{x=-106, y=46, z=-257}
+[18Mar2025 02:09:57.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=86, z=-139} BlockPos{x=-124, y=85, z=-139}
+[18Mar2025 02:09:58.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=86, z=-139} BlockPos{x=-124, y=85, z=-139}
+[18Mar2025 02:10:07.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=84, z=-139} BlockPos{x=-138, y=83, z=-139}
+[18Mar2025 02:10:21.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Dancer in the Dark]
+[18Mar2025 02:12:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Tricking a Rock Into Thinking]
+[18Mar2025 02:13:00.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Those Were the Days]
+[18Mar2025 02:13:34.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [War Pigs]
+[18Mar2025 02:14:09.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 9.550966095951765,-2.818395789318103,-2.0576492147781096
+[18Mar2025 02:15:34.869] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/192428, l='ServerLevel[world]', x=-488.00, y=31.00, z=-417.00] as it would cause deadlock
+[18Mar2025 02:15:44.582] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/194047, l='ServerLevel[world]', x=-518.00, y=31.00, z=-183.00] as it would cause deadlock

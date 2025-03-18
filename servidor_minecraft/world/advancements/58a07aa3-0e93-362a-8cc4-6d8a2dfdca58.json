@@ -3679,14 +3679,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-10 01:36:38 +0000",
+      "minecraft:hoglin": "2025-03-18 02:13:28 +0000",
       "minecraft:vindicator": "2025-03-10 04:33:36 +0000",
       "minecraft:spider": "2025-03-10 03:22:45 +0000",
+      "minecraft:piglin_brute": "2025-03-18 02:13:30 +0000",
       "minecraft:creeper": "2025-03-14 17:18:33 +0000",
       "minecraft:evoker": "2025-03-14 17:54:51 +0000",
       "minecraft:witch": "2025-03-10 04:22:55 +0000",
       "minecraft:wither_skeleton": "2025-03-10 17:49:02 +0000",
       "minecraft:husk": "2025-03-12 03:59:07 +0000",
       "minecraft:cave_spider": "2025-03-10 02:12:15 +0000",
+      "minecraft:piglin": "2025-03-18 02:13:32 +0000",
       "minecraft:enderman": "2025-03-10 01:32:22 +0000",
       "minecraft:stray": "2025-03-10 17:41:33 +0000",
       "minecraft:silverfish": "2025-03-11 02:12:15 +0000",
@@ -18930,6 +18933,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-18 02:05:00 +0000",
       "minecraft:nether_wastes": "2025-03-18 01:39:16 +0000"
     },
     "done": false
@@ -18940,9 +18944,21 @@
     },
     "done": true
   },
+  "divinerpg:recipes/blasting/torridite_ingot_from_raw_torridite": {
+    "criteria": {
+      "has_raw_torridite": "2025-03-18 02:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-03-18 01:52:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:57:40 +0000"
     },
     "done": true
   },
@@ -18952,9 +18968,81 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/raw_torridite_block": {
+    "criteria": {
+      "has_raw_torridite": "2025-03-18 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-03-18 01:39:16 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/smelting/torridite_ingot_from_raw_torridite": {
+    "criteria": {
+      "has_raw_torridite": "2025-03-18 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_whispering_trapdoor": {
+    "criteria": {
+      "has_stems": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin": {
+    "criteria": {
+      "hoglin_sirloin": "2025-03-18 02:13:33 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/nether_quartz_knife": {
+    "criteria": {
+      "has_gems/quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/hellspider_pumpkin": {
+    "criteria": {
+      "has_shards": "2025-03-18 02:11:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_swamp_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
     },
     "done": true
   },
@@ -18970,6 +19058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-03-18 01:49:12 +0000"
@@ -18979,6 +19073,36 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-03-18 01:52:55 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/molten_stone": {
+    "criteria": {
+      "has_shards": "2025-03-18 02:11:57 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_palisade": {
+    "criteria": {
+      "has_log": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2025-03-18 02:03:01 +0000"
     },
     "done": true
   },
@@ -18994,15 +19118,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_polished_blackstone_slab": "2025-03-18 01:52:56 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-03-18 01:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-03-18 02:13:34 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-03-18 01:55:01 +0000"
     },
     "done": true
   },
@@ -19024,6 +19178,24 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_barred": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-18 01:39:16 +0000"
@@ -19033,6 +19205,12 @@
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-03-18 01:52:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_ranch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
     },
     "done": true
   },
@@ -19066,15 +19244,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/crimson_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-03-18 01:52:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-18 01:48:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
     },
     "done": true
   },
@@ -19090,9 +19292,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/crimson/crimson_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-03-18 01:41:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
     },
     "done": true
   },
@@ -19102,9 +19328,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/rock_candy": {
     "criteria": {
       "has_rose_quartz": "2025-03-18 01:48:55 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/polished_basalt_slab": {
+    "criteria": {
+      "has_polished_basalt": "2025-03-18 01:55:47 +0000"
     },
     "done": true
   },
@@ -19132,9 +19370,93 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-03-18 01:41:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-03-18 02:13:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-03-18 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-03-18 02:06:02 +0000"
     },
     "done": true
   },
@@ -19144,9 +19466,51 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-03-18 02:13:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_mystic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/nether_wart_block_slab": {
+    "criteria": {
+      "has_nether_wart_block": "2025-03-18 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-18 01:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-18 01:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-18 02:13:00 +0000"
     },
     "done": true
   },
