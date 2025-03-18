@@ -5,3 +5,27 @@
 [18Mar2025 00:28:00.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Drop Pop Candy]
 [18Mar2025 00:32:30.291] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [18Mar2025 00:34:42.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [A Metallur-what?]
+[18Mar2025 00:46:53.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzz
+[18Mar2025 00:57:19.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 833472b2-58bd-3eaf-9250-4391b02ef640 timed out
+[18Mar2025 00:57:19.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ari_fl08
+[18Mar2025 00:57:19.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[18Mar2025 00:57:59.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 lost connection: Timed out
+[18Mar2025 00:57:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 left the game
+[18Mar2025 00:57:59.202] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ari_fl08
+[18Mar2025 00:57:59.264] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Mar2025 00:59:06.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ari_fl08[/127.136.253.89:33017] logged in with entity id 142645 at (-422.62494937028515, 24.0, -487.14472481171236)
+[18Mar2025 00:59:06.944] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ari_fl08
+[18Mar2025 00:59:06.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ari_fl08
+[18Mar2025 00:59:06.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ari_fl08
+[18Mar2025 00:59:06.946] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ari_fl08
+[18Mar2025 00:59:06.948] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ari_fl08
+[18Mar2025 00:59:06.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ari_fl08
+[18Mar2025 00:59:06.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ari_fl08
+[18Mar2025 00:59:06.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 joined the game
+[18Mar2025 00:59:07.084] [Server thread/INFO] [Jade/]: Syncing config to ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640)
+[18Mar2025 00:59:07.733] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ari_fl08 (18)
+[18Mar2025 00:59:07.734] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[18Mar2025 00:59:26.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 833472b2-58bd-3eaf-9250-4391b02ef640
+[18Mar2025 00:59:27.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 833472b2-58bd-3eaf-9250-4391b02ef640
+[18Mar2025 00:59:27.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640) successfully connected to voice chat
+[18Mar2025 01:01:17.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> [name:"Bresorure", x:384, y:65, z:240, dim:minecraft:overworld]
