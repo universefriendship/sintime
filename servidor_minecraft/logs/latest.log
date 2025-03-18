@@ -4298,3 +4298,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 03:36:16.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Timed out
 [18Mar2025 03:36:16.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
 [18Mar2025 03:36:16.557] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[18Mar2025 03:40:29.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.221.161.189:51487] logged in with entity id 906120 at (-58.82490316048122, 68.0, 168.89879351685533)
+[18Mar2025 03:40:29.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[18Mar2025 03:40:29.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[18Mar2025 03:40:29.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[18Mar2025 03:40:29.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[18Mar2025 03:40:29.445] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[18Mar2025 03:40:29.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[18Mar2025 03:40:29.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[18Mar2025 03:40:29.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[18Mar2025 03:40:29.577] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[18Mar2025 03:40:30.020] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[18Mar2025 03:40:30.021] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[18Mar2025 03:40:46.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 03:40:47.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 03:40:47.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[18Mar2025 03:41:14.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> mescuchas?
+[18Mar2025 03:41:19.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> do
+[18Mar2025 03:41:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> a
