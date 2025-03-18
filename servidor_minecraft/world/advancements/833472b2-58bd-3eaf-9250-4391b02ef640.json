@@ -2493,7 +2493,9 @@
       "minecraft:frozen_river": "2025-03-11 03:31:22 +0000",
       "minecraft:cherry_grove": "2025-03-14 17:55:57 +0000",
       "minecraft:sunflower_plains": "2025-03-15 01:55:30 +0000",
+      "minecraft:birch_forest": "2025-03-18 03:57:26 +0000",
       "minecraft:beach": "2025-03-10 01:36:30 +0000",
+      "minecraft:dark_forest": "2025-03-18 03:59:10 +0000",
       "minecraft:river": "2025-03-10 04:23:35 +0000",
       "minecraft:snowy_plains": "2025-03-11 03:37:17 +0000",
       "minecraft:stony_shore": "2025-03-14 22:57:14 +0000",
@@ -3833,6 +3835,7 @@
       "maple_woods": "2025-03-10 17:25:56 +0000",
       "crystalline_chasm": "2025-03-17 23:45:30 +0000",
       "orchard": "2025-03-10 04:23:57 +0000",
+      "field": "2025-03-18 04:02:27 +0000",
       "lavender_forest": "2025-03-15 01:55:17 +0000",
       "moor": "2025-03-15 01:42:11 +0000",
       "coniferous_forest": "2025-03-12 04:26:20 +0000",
@@ -15808,7 +15811,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-03-11 15:30:08 +0000",
-      "in_better_spider_dungeon": "2025-03-15 02:12:07 +0000"
+      "in_better_spider_dungeon": "2025-03-15 02:12:07 +0000",
+      "in_better_monster_room": "2025-03-18 03:54:01 +0000"
     },
     "done": false
   },
@@ -20477,6 +20481,24 @@
     },
     "done": true
   },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-03-18 03:58:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-18 03:59:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2025-03-18 04:00:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_pink_flower_bud": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
@@ -20498,6 +20520,12 @@
   "botania:recipes/misc/cosmetic_lusitanic_shield": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-03-18 03:59:44 +0000"
     },
     "done": true
   },
@@ -20549,6 +20577,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-03-18 03:59:44 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-03-18 03:54:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_red_ribbons": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
@@ -20582,6 +20622,12 @@
   "buildinggadgets2:recipes/misc/gadget_cut_paste": {
     "criteria": {
       "has_shear": "2025-03-18 02:43:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-18 03:58:01 +0000"
     },
     "done": true
   },
@@ -20795,6 +20841,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-18 03:59:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_red_glasses": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
@@ -20888,6 +20940,12 @@
   "botania:recipes/misc/manaweave_cloth": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-18 03:59:44 +0000"
     },
     "done": true
   },
@@ -21002,6 +21060,12 @@
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-03-18 03:15:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-18 04:00:07 +0000"
     },
     "done": true
   },
