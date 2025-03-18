@@ -14922,15 +14922,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-03-18 01:39:01 +0000"
     },
     "done": false
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shapeless/darkstone": {
     "criteria": {
       "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
     },
     "done": true
   },
@@ -14940,9 +14994,51 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2025-03-18 01:40:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-03-18 02:34:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
     },
     "done": true
   },
@@ -14952,9 +15048,129 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "mekanism:infused_alloy": {
     "criteria": {
       "alloy_infused": "2025-03-18 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-03-18 02:42:58 +0000"
     },
     "done": true
   },
@@ -14964,9 +15180,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shapeless/blue_vane": {
     "criteria": {
       "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
     },
     "done": true
   },
@@ -14976,9 +15228,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-18 01:39:00 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
     },
     "done": true
   },
@@ -14988,9 +15264,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_gold_block_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
     },
     "done": true
   },
@@ -15006,9 +15306,141 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gold_block_slab": {
+    "criteria": {
+      "has_gold_block": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/ice_ring_from_freezing": {
     "criteria": {
       "has_ring": "2025-03-18 02:22:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_ore_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
     },
     "done": true
   },
@@ -15024,15 +15456,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shapeless/yellow_vane": {
     "criteria": {
       "has_obsidian": "2025-03-18 01:41:04 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2025-03-18 01:46:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
     },
     "done": true
   },
@@ -15048,9 +15600,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-18 02:40:41 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/slime_sword": {
     "criteria": {
       "has_sword": "2025-03-18 02:24:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-03-18 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-03-18 02:40:41 +0000"
     },
     "done": true
   },
