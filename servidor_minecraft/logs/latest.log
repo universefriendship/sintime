@@ -4124,3 +4124,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 14:54:37.477] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [18Mar2025 14:54:37.477] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [18Mar2025 15:06:17.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzz
+[18Mar2025 15:37:03.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arsen'/160359, l='ServerLevel[world]', x=753.99, y=80.00, z=1119.48] died, message: 'Arsen was pricked to death'
+[18Mar2025 15:37:03.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Arsen'/160359, l='ServerLevel[world]', x=753.99, y=80.00, z=1119.48] died: Arsen was pricked to death
