@@ -20506,6 +20506,12 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-03-18 03:04:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_witch_pin": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"

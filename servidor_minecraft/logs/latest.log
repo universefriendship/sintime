@@ -4260,3 +4260,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 03:01:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzz
 [18Mar2025 03:01:57.788] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/574863, l='ServerLevel[world]', x=-161.50, y=76.00, z=390.50]
 [18Mar2025 03:04:35.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Inner Arts]
+[18Mar2025 03:10:49.805] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[18Mar2025 03:10:49.805] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[18Mar2025 03:13:25.868] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[18Mar2025 03:13:52.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[18Mar2025 03:13:52.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[18Mar2025 03:13:52.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[18Mar2025 03:14:31.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Timed out
+[18Mar2025 03:14:31.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[18Mar2025 03:14:31.515] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[18Mar2025 03:14:31.576] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Mar2025 03:15:31.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.221.161.189:47741] logged in with entity id 658526 at (-4.754643176945919, 77.34253480609938, 15.324977011651718)
+[18Mar2025 03:15:31.507] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[18Mar2025 03:15:31.507] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[18Mar2025 03:15:31.507] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[18Mar2025 03:15:31.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[18Mar2025 03:15:31.509] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[18Mar2025 03:15:31.511] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[18Mar2025 03:15:31.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[18Mar2025 03:15:31.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[18Mar2025 03:15:31.608] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[18Mar2025 03:15:32.164] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[18Mar2025 03:15:32.165] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[18Mar2025 03:15:46.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 03:15:47.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 03:15:47.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[18Mar2025 03:15:57.015] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[18Mar2025 03:16:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Mage's Spell Book]
