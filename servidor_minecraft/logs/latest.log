@@ -4234,3 +4234,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 16:55:45.012] [Worker-Main-75/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/187064, l='ServerLevel[world]', x=240.50, y=-53.00, z=1371.50] as it would cause deadlock
 [18Mar2025 16:55:48.543] [Worker-Main-75/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=208, y=21, z=1209}
 [18Mar2025 16:55:48.544] [Worker-Main-75/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=208, y=21, z=1209}
+[18Mar2025 17:02:15.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Spooky Scary Skeleton]
+[18Mar2025 17:02:16.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nifthy575[/127.63.103.119:52519] logged in with entity id 192255 at (-60.04264952393159, 68.0, 170.93960903542782)
+[18Mar2025 17:02:16.329] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nifthy575
+[18Mar2025 17:02:16.329] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nifthy575
+[18Mar2025 17:02:16.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nifthy575
+[18Mar2025 17:02:16.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nifthy575
+[18Mar2025 17:02:16.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nifthy575
+[18Mar2025 17:02:16.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nifthy575
+[18Mar2025 17:02:16.335] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nifthy575
+[18Mar2025 17:02:16.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 joined the game
+[18Mar2025 17:02:16.464] [Server thread/INFO] [Jade/]: Syncing config to Nifthy575 (919d09c9-da11-3c4b-9c00-9663445f08e2)
+[18Mar2025 17:02:17.891] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nifthy575 (18)
+[18Mar2025 17:02:17.892] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nifthy575
+[18Mar2025 17:02:30.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 919d09c9-da11-3c4b-9c00-9663445f08e2
+[18Mar2025 17:02:31.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 919d09c9-da11-3c4b-9c00-9663445f08e2
+[18Mar2025 17:02:31.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nifthy575 (919d09c9-da11-3c4b-9c00-9663445f08e2) successfully connected to voice chat
+[18Mar2025 17:03:10.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Mar2025 17:03:23.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[18Mar2025 17:03:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> franchis hay gruoe
+[18Mar2025 17:03:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzz
+[18Mar2025 17:04:59.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Mar2025 17:06:16.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
