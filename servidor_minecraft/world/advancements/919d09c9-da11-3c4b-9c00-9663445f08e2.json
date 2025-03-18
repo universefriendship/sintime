@@ -5210,7 +5210,9 @@
       "cooked_mutton": "2025-03-14 22:51:35 +0000",
       "cooked_beef": "2025-03-14 21:29:37 +0000",
       "baked_potato": "2025-03-14 23:11:58 +0000",
+      "mutton": "2025-03-18 22:53:56 +0000",
       "bread": "2025-03-14 22:28:33 +0000",
+      "golden_apple": "2025-03-18 22:53:46 +0000",
       "rotten_flesh": "2025-03-17 00:10:19 +0000",
       "golden_carrot": "2025-03-16 23:38:49 +0000"
     },
@@ -15702,15 +15704,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_deepslate": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_item": "2025-03-18 17:42:10 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dreamwood_wand": {
-    "criteria": {
-      "has_item": "2025-03-18 17:42:10 +0000"
+      "has_diamond_backpack": "2025-03-18 17:08:56 +0000"
     },
     "done": true
   },
@@ -15720,21 +15716,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_mossy": {
-    "criteria": {
-      "has_item": "2025-03-18 17:42:10 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-18 17:21:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-03-18 17:08:56 +0000"
     },
     "done": true
   },
@@ -15753,12 +15737,6 @@
   "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
       "has_brown_mushroom": "2025-03-18 17:21:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/twig_wand": {
-    "criteria": {
-      "has_item": "2025-03-18 17:42:10 +0000"
     },
     "done": true
   },
@@ -15795,18 +15773,6 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2025-03-18 17:21:18 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-03-18 17:24:16 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/misc/spawner_frame": {
-    "criteria": {
-      "has_spawner_fragment": "2025-03-18 17:24:49 +0000"
     },
     "done": true
   },
@@ -15870,15 +15836,63 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_default": {
+  "lootr:50loot": {
     "criteria": {
-      "has_item": "2025-03-18 17:42:10 +0000"
+      "loot_stat": "2025-03-18 17:24:16 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-03-18 17:24:49 +0000"
     },
     "done": true
   },
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2025-03-18 17:41:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-18 22:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-18 22:55:42 +0000"
     },
     "done": true
   },
