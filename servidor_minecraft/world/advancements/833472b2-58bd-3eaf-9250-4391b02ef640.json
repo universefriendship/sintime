@@ -2508,6 +2508,7 @@
       "minecraft:ocean": "2025-03-10 02:04:52 +0000",
       "minecraft:snowy_beach": "2025-03-11 03:31:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-10 17:00:58 +0000",
+      "minecraft:deep_dark": "2025-03-18 01:11:26 +0000",
       "minecraft:meadow": "2025-03-15 01:58:07 +0000",
       "minecraft:plains": "2025-03-10 01:13:53 +0000"
     },
@@ -20363,6 +20364,18 @@
   "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-03-18 00:54:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-03-18 01:02:59 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-18 01:11:26 +0000"
     },
     "done": true
   },
