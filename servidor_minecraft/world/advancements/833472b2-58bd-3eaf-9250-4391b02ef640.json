@@ -20398,5 +20398,29 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/lapis_block_slab": {
+    "criteria": {
+      "has_lapis_block": "2025-03-18 01:53:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/temperance_stone": {
+    "criteria": {
+      "has_item": "2025-03-18 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_lapis_block_from_lapis_block": {
+    "criteria": {
+      "has_lapis_block": "2025-03-18 01:53:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dirt_rod": {
+    "criteria": {
+      "has_item": "2025-03-18 01:50:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

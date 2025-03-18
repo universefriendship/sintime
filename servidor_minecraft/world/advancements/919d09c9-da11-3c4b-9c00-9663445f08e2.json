@@ -2512,6 +2512,7 @@
       "minecraft:river": "2025-03-14 21:55:36 +0000",
       "minecraft:forest": "2025-03-14 21:23:48 +0000",
       "minecraft:lush_caves": "2025-03-14 23:12:39 +0000",
+      "minecraft:ocean": "2025-03-18 01:48:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-14 23:01:11 +0000",
       "minecraft:plains": "2025-03-14 21:18:44 +0000"
     },
@@ -6816,6 +6817,7 @@
       "rocky_shrubland": "2025-03-14 21:55:46 +0000",
       "highland": "2025-03-14 23:14:20 +0000",
       "field": "2025-03-14 23:12:40 +0000",
+      "orchard": "2025-03-18 01:50:24 +0000",
       "coniferous_forest": "2025-03-14 22:05:19 +0000",
       "redwood_forest": "2025-03-14 21:50:31 +0000",
       "grassland": "2025-03-14 21:55:14 +0000"
@@ -14910,6 +14912,96 @@
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-03-18 01:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-18 01:39:01 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/darkstone": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-03-18 01:39:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-18 01:40:27 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/purple_vane": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/cyan_vane": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/blue_vane": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-18 01:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-18 01:39:00 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/yellow_vane": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-03-18 01:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-18 01:41:04 +0000"
     },
     "done": true
   },

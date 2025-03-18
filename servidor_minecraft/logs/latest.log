@@ -4142,3 +4142,68 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 01:33:42.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> holi
 [18Mar2025 01:33:44.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> hay grupo
 [18Mar2025 01:33:58.245] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2557, l='ServerLevel[world]', x=-10.50, y=75.00, z=576.50]
+[18Mar2025 01:35:34.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[18Mar2025 01:35:58.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8443ms or 168 ticks behind
+[18Mar2025 01:36:09.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Andres'/2151, l='ServerLevel[world]', x=183.07, y=66.00, z=656.90] died, message: 'Andres was shot by ari_fl08'
+[18Mar2025 01:36:09.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Andres'/2151, l='ServerLevel[world]', x=183.07, y=66.00, z=656.90] died: Andres was shot by ari_fl08
+[18Mar2025 01:36:11.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ingrid'/2025, l='ServerLevel[world]', x=183.50, y=66.04, z=655.68] died, message: 'Ingrid was shot by ari_fl08'
+[18Mar2025 01:36:11.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ingrid'/2025, l='ServerLevel[world]', x=183.50, y=66.04, z=655.68] died: Ingrid was shot by ari_fl08
+[18Mar2025 01:36:23.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10591ms or 211 ticks behind
+[18Mar2025 01:36:53.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.221.161.189:43239] logged in with entity id 3592 at (-91.98471562221566, 67.0625, 185.20317425781795)
+[18Mar2025 01:36:53.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[18Mar2025 01:36:53.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[18Mar2025 01:36:53.194] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[18Mar2025 01:36:53.194] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[18Mar2025 01:36:53.196] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[18Mar2025 01:36:53.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[18Mar2025 01:36:53.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[18Mar2025 01:36:53.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[18Mar2025 01:36:53.450] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[18Mar2025 01:36:54.728] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[18Mar2025 01:36:54.729] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[18Mar2025 01:37:03.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 01:37:04.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 01:37:04.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[18Mar2025 01:37:07.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
+[18Mar2025 01:37:44.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[18Mar2025 01:37:55.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[18Mar2025 01:37:55.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[18Mar2025 01:37:55.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[18Mar2025 01:37:56.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 01:37:57.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 01:37:57.131] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[18Mar2025 01:38:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzz
+[18Mar2025 01:38:07.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> mescuahn
+[18Mar2025 01:38:14.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> no
+[18Mar2025 01:38:20.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[18Mar2025 01:38:20.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[18Mar2025 01:38:20.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[18Mar2025 01:38:21.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 7.586178836884656,0.059993971213415875,6.691366456371384
+[18Mar2025 01:38:24.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 01:38:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> hace rato si pero ahorita no
+[18Mar2025 01:38:25.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 01:38:25.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[18Mar2025 01:38:27.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzzzzzzzz
+[18Mar2025 01:39:00.238] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[18Mar2025 01:39:00.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [We Need to Go Deeper]
+[18Mar2025 01:39:02.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[18Mar2025 01:39:16.234] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[18Mar2025 01:39:16.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [We Need to Go Deeper]
+[18Mar2025 01:39:21.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4147ms or 82 ticks behind
+[18Mar2025 01:39:34.535] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Kersti}[style={}] has been infected
+[18Mar2025 01:39:37.336] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Kersti}[style={}] has been infected
+[18Mar2025 01:39:40.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kersti'/1577, l='ServerLevel[world]', x=152.39, y=61.00, z=599.71] died, message: 'Kersti was slain by Zombie'
+[18Mar2025 01:39:40.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kersti'/1577, l='ServerLevel[world]', x=152.39, y=61.00, z=599.71] died: Kersti was slain by Zombie
+[18Mar2025 01:40:10.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [A Terrible Fortress]
+[18Mar2025 01:40:21.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Mar2025 01:41:04.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Ice Bucket Challenge]
+[18Mar2025 01:45:16.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved too quickly! 8.311261779260178,-3.5773655609537798,-5.105430466923622
+[18Mar2025 01:47:48.011] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[18Mar2025 01:48:14.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The Soul Forge]
+[18Mar2025 01:49:26.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzz
+[18Mar2025 01:50:28.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 6.864029561752723,-2.914535792361143,-6.8972314123220215
+[18Mar2025 01:51:48.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[18Mar2025 01:51:56.895] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25341, l='ServerLevel[world]', x=-456.50, y=76.00, z=-57.50]
+[18Mar2025 01:52:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> [name:"blaze", x:-352, y:76, z:-432, dim:minecraft:the_nether]
+[18Mar2025 01:54:25.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[18Mar2025 01:55:01.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [The broken Nether's warmachine]
