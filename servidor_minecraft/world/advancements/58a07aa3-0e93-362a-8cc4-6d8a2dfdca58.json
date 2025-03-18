@@ -18975,6 +18975,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-18 02:54:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_blaze": {
     "criteria": {
       "has_item": "2025-03-18 01:57:40 +0000"
@@ -19155,6 +19161,18 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-18 02:54:02 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/lava_bricks": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-18 02:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_polished_blackstone_slab": "2025-03-18 01:52:56 +0000"
@@ -19242,6 +19260,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-18 01:39:16 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/lava_lamp": {
+    "criteria": {
+      "has_lava": "2025-03-18 02:54:02 +0000"
     },
     "done": true
   },
@@ -19452,6 +19476,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-03-18 01:52:55 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/blasting_sail": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-18 02:54:02 +0000"
     },
     "done": true
   },

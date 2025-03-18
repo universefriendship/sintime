@@ -4252,3 +4252,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 02:56:28.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [18Mar2025 02:56:29.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [18Mar2025 02:56:29.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[18Mar2025 02:59:38.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Imagination Forest]
+[18Mar2025 02:59:39.789] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/563730, l='ServerLevel[world]', x=-3.50, y=74.00, z=662.50]
+[18Mar2025 03:00:45.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzzzzz
+[18Mar2025 03:00:49.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzzzzzzz
+[18Mar2025 03:00:58.942] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/570178, l='ServerLevel[world]', x=-50.50, y=73.00, z=433.50]
+[18Mar2025 03:01:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzz
+[18Mar2025 03:01:57.788] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/574863, l='ServerLevel[world]', x=-161.50, y=76.00, z=390.50]
+[18Mar2025 03:04:35.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Inner Arts]
