@@ -21300,5 +21300,245 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/yellow_blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/yellow_blueprint_block_from_yellow_dye": {
+    "criteria": {
+      "has_dyed_item": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/fertilizer_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 23:07:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_fertilizer": {
+    "criteria": {
+      "has_base_block": "2025-03-18 23:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
