@@ -4129,3 +4129,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 15:56:47.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [What a Deal!]
 [18Mar2025 16:15:14.266] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4, y=-42, z=1145}
 [18Mar2025 16:22:34.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Marion'/169213, l='ServerLevel[world]', x=613.22, y=2.56, z=961.68] died: Marion was pricked to death
+[18Mar2025 16:29:08.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.221.161.189:60103] logged in with entity id 173113 at (-60.89010100526556, 68.0, 138.5365455056321)
+[18Mar2025 16:29:08.263] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[18Mar2025 16:29:08.264] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[18Mar2025 16:29:08.265] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[18Mar2025 16:29:08.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[18Mar2025 16:29:08.274] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[18Mar2025 16:29:08.276] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[18Mar2025 16:29:08.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[18Mar2025 16:29:08.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[18Mar2025 16:29:08.463] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[18Mar2025 16:29:10.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[18Mar2025 16:29:10.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[18Mar2025 16:29:18.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 16:29:19.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[18Mar2025 16:29:19.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[18Mar2025 16:29:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> hola perre
+[18Mar2025 16:30:21.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> hay grupe
+[18Mar2025 16:30:43.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> hole perre
+[18Mar2025 16:32:25.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> [name:"mujeres al poder", x:683, y:67, z:1062, dim:minecraft:overworld]
+[18Mar2025 16:34:38.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 2.7133718862937144,-4.559059790985884,9.303585740584367
+[18Mar2025 16:34:48.236] [Worker-Main-48/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/176792, l='ServerLevel[world]', x=328.50, y=9.00, z=1240.50] as it would cause deadlock
+[18Mar2025 16:34:48.880] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=271, y=-43, z=1213}
+[18Mar2025 16:34:48.880] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=270, y=-43, z=1211}
+[18Mar2025 16:34:48.880] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=270, y=-42, z=1212}
+[18Mar2025 16:34:48.880] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=271, y=-43, z=1213}
+[18Mar2025 16:34:48.881] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=270, y=-43, z=1211}
+[18Mar2025 16:34:48.881] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=270, y=-42, z=1212}
+[18Mar2025 16:34:49.967] [Worker-Main-75/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=312, y=-3, z=1251}
+[18Mar2025 16:34:49.968] [Worker-Main-75/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=311, y=-3, z=1251}
+[18Mar2025 16:34:49.968] [Worker-Main-75/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=312, y=-3, z=1251}
+[18Mar2025 16:34:49.968] [Worker-Main-75/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=311, y=-3, z=1251}
+[18Mar2025 16:34:50.788] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=250, y=22, z=1225}
+[18Mar2025 16:34:50.789] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=250, y=22, z=1225}
+[18Mar2025 16:34:50.816] [Worker-Main-81/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/176841, l='ServerLevel[world]', x=244.50, y=-53.00, z=1257.50] as it would cause deadlock
+[18Mar2025 16:34:53.327] [Worker-Main-75/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/176899, l='ServerLevel[world]', x=236.50, y=-53.00, z=1257.50] as it would cause deadlock
+[18Mar2025 16:34:54.972] [Worker-Main-82/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/176952, l='ServerLevel[world]', x=282.50, y=-53.00, z=1288.50] as it would cause deadlock
+[18Mar2025 16:34:56.137] [Worker-Main-83/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=292, y=-42, z=1307}
+[18Mar2025 16:34:56.138] [Worker-Main-83/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=291, y=-41, z=1307}
+[18Mar2025 16:34:56.138] [Worker-Main-83/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=292, y=-42, z=1307}
+[18Mar2025 16:34:56.138] [Worker-Main-83/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=291, y=-41, z=1307}
+[18Mar2025 16:34:56.186] [Worker-Main-81/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/177012, l='ServerLevel[world]', x=280.50, y=-41.00, z=1304.50] as it would cause deadlock

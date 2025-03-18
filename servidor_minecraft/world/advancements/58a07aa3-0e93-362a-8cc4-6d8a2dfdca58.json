@@ -20697,15 +20697,15 @@
     },
     "done": true
   },
-  "ars_nouveau:ritual_brazier": {
-    "criteria": {
-      "has_ritual_brazier": "2025-03-18 04:31:51 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-03-18 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-03-18 04:31:51 +0000"
     },
     "done": true
   },
@@ -20715,21 +20715,15 @@
     },
     "done": true
   },
-  "ars_nouveau:alteration_table": {
-    "criteria": {
-      "has_alteration_table": "2025-03-18 04:42:11 +0000"
-    },
-    "done": true
-  },
   "super_ore_block:recipes/building_blocks/super_lapis_block_from_lapis_block": {
     "criteria": {
       "has_lapis_block": "2025-03-18 04:33:32 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "voluntary_exile": "2025-03-18 04:38:55 +0000"
+      "has_lapis_block": "2025-03-18 04:33:32 +0000"
     },
     "done": true
   },
@@ -20745,15 +20739,21 @@
     },
     "done": true
   },
-  "aether:recipes/tools/wooden_hoe_repairing": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_wooden_hoe": "2025-03-18 04:45:24 +0000"
+      "voluntary_exile": "2025-03-18 04:38:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
+  "ars_nouveau:alteration_table": {
     "criteria": {
-      "has_lapis_block": "2025-03-18 04:33:32 +0000"
+      "has_alteration_table": "2025-03-18 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_hoe_repairing": {
+    "criteria": {
+      "has_wooden_hoe": "2025-03-18 04:45:24 +0000"
     },
     "done": true
   },
