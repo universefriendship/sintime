@@ -13303,7 +13303,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-03-10 17:21:56 +0000",
-      "entered_deep_crypt": "2025-03-11 16:15:59 +0000"
+      "entered_deep_crypt": "2025-03-11 16:15:59 +0000",
+      "entered_ruined_building": "2025-03-18 03:20:35 +0000"
     },
     "done": false
   },
@@ -20446,6 +20447,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/milky_lamp": {
+    "criteria": {
+      "has_milk": "2025-03-18 03:15:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/purple_shiny_flower": {
     "criteria": {
       "has_item": "2025-03-18 01:57:43 +0000"
@@ -20476,6 +20483,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-03-18 03:16:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_devil_tail": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
@@ -20485,6 +20498,12 @@
   "botania:recipes/misc/cosmetic_lusitanic_shield": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-18 03:15:41 +0000"
     },
     "done": true
   },
@@ -20548,6 +20567,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-18 03:15:41 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/oak_leaves_slab": {
     "criteria": {
       "has_oak_leaves": "2025-03-18 02:43:17 +0000"
@@ -20596,6 +20621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-18 03:23:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/temperance_stone": {
     "criteria": {
       "has_item": "2025-03-18 01:50:59 +0000"
@@ -20626,6 +20657,12 @@
     },
     "done": true
   },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-03-18 03:20:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/spark_upgrade_dominant": {
     "criteria": {
       "has_alt_item": "2025-03-18 01:57:55 +0000"
@@ -20644,9 +20681,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-03-18 03:15:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-03-18 03:23:36 +0000"
+    },
+    "done": true
+  },
   "super_ore_block:recipes/building_blocks/super_lapis_block_from_lapis_block": {
     "criteria": {
       "has_lapis_block": "2025-03-18 01:53:24 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/cheese": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-18 03:15:41 +0000"
     },
     "done": true
   },
@@ -20659,6 +20714,12 @@
   "botania:main/terrasteel_pickup": {
     "criteria": {
       "terrasteel": "2025-03-18 02:10:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-03-18 03:23:36 +0000"
     },
     "done": true
   },
@@ -20692,6 +20753,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-18 03:15:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_thick_eyebrows": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
@@ -20701,6 +20768,12 @@
   "botania:recipes/misc/cosmetic_orange_shades": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-18 03:23:36 +0000"
     },
     "done": true
   },
@@ -20752,6 +20825,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-18 03:23:36 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-03-18 03:16:52 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/hay_block_slab": {
+    "criteria": {
+      "has_hay_block": "2025-03-18 03:20:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terra_sword": {
     "criteria": {
       "has_item": "2025-03-18 02:10:21 +0000"
@@ -20779,6 +20870,12 @@
   "botania:recipes/misc/cosmetic_puffy_scarf": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-03-18 03:23:36 +0000"
     },
     "done": true
   },
@@ -20827,6 +20924,12 @@
   "botania:recipes/decorations/purple_petal_block": {
     "criteria": {
       "has_item": "2025-03-18 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-03-18 03:20:41 +0000"
     },
     "done": true
   },
@@ -20896,6 +20999,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-18 03:15:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/mana_glass_pane": {
     "criteria": {
       "has_item": "2025-03-18 03:03:47 +0000"
@@ -20929,6 +21038,12 @@
   "botania:recipes/misc/cosmetic_wicked_eyepatch": {
     "criteria": {
       "has_item": "2025-03-18 03:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-18 03:20:41 +0000"
     },
     "done": true
   },

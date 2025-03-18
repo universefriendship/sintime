@@ -4287,3 +4287,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 03:15:47.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
 [18Mar2025 03:15:57.015] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [18Mar2025 03:16:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Mage's Spell Book]
+[18Mar2025 03:18:23.248] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:bee that already existed from f68bbd40-5ce6-4eb2-b82f-71ad4b04e3ca to 8eecffd2-6b43-465d-8f34-ff410c40298c
+[18Mar2025 03:24:35.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzz
