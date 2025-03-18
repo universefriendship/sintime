@@ -14970,6 +14970,12 @@
     },
     "done": true
   },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-03-18 02:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-18 01:39:00 +0000"
@@ -15033,6 +15039,18 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-03-18 02:24:32 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/slime_sword": {
+    "criteria": {
+      "has_sword": "2025-03-18 02:24:32 +0000"
     },
     "done": true
   },
