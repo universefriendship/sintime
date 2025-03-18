@@ -14127,6 +14127,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/osmium_knife": {
+    "criteria": {
+      "has_ingots/osmium": "2025-03-18 00:34:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-03-17 23:58:32 +0000"
@@ -14646,6 +14652,12 @@
   "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-03-17 23:50:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-03-18 00:34:42 +0000"
     },
     "done": true
   },

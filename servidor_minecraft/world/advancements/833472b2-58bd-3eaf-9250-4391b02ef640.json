@@ -19220,6 +19220,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/aura_ring": {
+    "criteria": {
+      "has_item": "2025-03-18 00:39:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-03-18 00:14:12 +0000"
@@ -19286,6 +19292,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-03-18 00:31:55 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/balustrade_granite_bridge": {
     "criteria": {
       "has_planks": "2025-03-17 23:35:02 +0000"
@@ -19307,6 +19319,12 @@
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2025-03-17 23:35:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/terra_plate": {
+    "criteria": {
+      "has_item": "2025-03-18 00:28:00 +0000"
     },
     "done": true
   },
@@ -19346,6 +19364,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2025-03-18 00:38:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-18 00:11:11 +0000"
@@ -19361,6 +19385,12 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-18 00:11:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/smelt_rod": {
+    "criteria": {
+      "has_item": "2025-03-18 00:28:00 +0000"
     },
     "done": true
   },
@@ -19388,6 +19418,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-18 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cobble_rod": {
+    "criteria": {
+      "has_item": "2025-03-18 00:28:00 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2025-03-17 23:47:33 +0000"
@@ -19409,6 +19451,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-18 00:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-18 00:31:49 +0000"
     },
     "done": true
   },
@@ -19436,6 +19484,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2025-03-18 00:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-03-17 23:35:02 +0000"
@@ -19448,6 +19502,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/water_rod": {
+    "criteria": {
+      "has_item": "2025-03-18 00:37:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-03-17 23:49:41 +0000"
@@ -19457,6 +19517,12 @@
   "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
     "criteria": {
       "has_granite": "2025-03-17 23:35:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2025-03-18 00:38:36 +0000"
     },
     "done": true
   },
@@ -19496,6 +19562,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_tablet": {
+    "criteria": {
+      "has_item": "2025-03-18 00:38:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-17 23:35:02 +0000"
@@ -19505,6 +19577,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-03-18 00:11:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-03-18 00:34:36 +0000"
     },
     "done": true
   },
@@ -19772,6 +19850,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2025-03-18 00:34:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2025-03-18 00:38:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-17 23:35:02 +0000"
@@ -19829,6 +19919,12 @@
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-18 00:11:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2025-03-18 00:38:36 +0000"
     },
     "done": true
   },
@@ -19946,6 +20042,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-03-18 00:35:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-17 23:35:02 +0000"
@@ -19979,6 +20081,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-17 23:35:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar": {
+    "criteria": {
+      "has_item": "2025-03-18 00:38:36 +0000"
     },
     "done": true
   },
@@ -20084,6 +20192,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/fire_rod": {
+    "criteria": {
+      "has_item": "2025-03-18 00:28:00 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_red": {
     "criteria": {
       "has_item": "2025-03-17 23:47:33 +0000"
@@ -20123,6 +20237,12 @@
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-17 23:35:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2025-03-18 00:38:36 +0000"
     },
     "done": true
   },
@@ -20186,6 +20306,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2025-03-18 00:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-03-17 23:51:27 +0000"
@@ -20207,6 +20333,12 @@
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-17 23:35:02 +0000"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2025-03-18 00:28:00 +0000"
     },
     "done": true
   },
