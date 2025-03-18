@@ -3018,6 +3018,7 @@
       "minecraft:evoker": "2025-03-14 22:58:33 +0000",
       "minecraft:witch": "2025-03-11 03:37:41 +0000",
       "minecraft:wither_skeleton": "2025-03-10 17:48:31 +0000",
+      "minecraft:husk": "2025-03-18 01:16:32 +0000",
       "minecraft:cave_spider": "2025-03-10 04:10:42 +0000",
       "minecraft:enderman": "2025-03-10 05:22:09 +0000",
       "minecraft:silverfish": "2025-03-10 18:00:35 +0000",
@@ -20376,6 +20377,24 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-03-18 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-03-18 01:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-18 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-03-18 01:16:37 +0000"
     },
     "done": true
   },

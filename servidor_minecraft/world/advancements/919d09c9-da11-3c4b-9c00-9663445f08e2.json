@@ -14253,6 +14253,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-03-18 01:12:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-03-17 23:58:32 +0000"
@@ -14298,6 +14304,12 @@
   "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-03-17 23:58:32 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-03-18 01:12:04 +0000"
     },
     "done": true
   },
@@ -14364,6 +14376,12 @@
   "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-03-17 23:50:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-03-18 01:12:04 +0000"
     },
     "done": true
   },
@@ -14481,6 +14499,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-03-18 01:12:04 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2025-03-18 01:06:16 +0000"
@@ -14508,6 +14532,12 @@
   "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-03-17 23:50:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-03-18 01:12:04 +0000"
     },
     "done": true
   },
