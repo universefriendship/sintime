@@ -6572,6 +6572,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-16 22:24:29 +0000",
+      "minecraft:vindicator": "2025-03-18 02:17:30 +0000",
       "minecraft:creeper": "2025-03-14 21:35:45 +0000",
       "minecraft:zombie": "2025-03-17 23:29:03 +0000"
     },
@@ -14915,6 +14916,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_ring": "2025-03-18 02:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-03-18 01:39:01 +0000"
@@ -14945,6 +14952,12 @@
     },
     "done": true
   },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-03-18 02:18:39 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shapeless/cyan_vane": {
     "criteria": {
       "has_obsidian": "2025-03-18 01:41:04 +0000"
@@ -14963,6 +14976,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_ring": "2025-03-18 02:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-18 01:41:04 +0000"
@@ -14978,6 +14997,12 @@
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-03-18 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-03-18 02:22:34 +0000"
     },
     "done": true
   },

@@ -4229,3 +4229,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 02:14:09.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 9.550966095951765,-2.818395789318103,-2.0576492147781096
 [18Mar2025 02:15:34.869] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/192428, l='ServerLevel[world]', x=-488.00, y=31.00, z=-417.00] as it would cause deadlock
 [18Mar2025 02:15:44.582] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/194047, l='ServerLevel[world]', x=-518.00, y=31.00, z=-183.00] as it would cause deadlock
+[18Mar2025 02:16:51.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has completed the challenge [Hunted]
+[18Mar2025 02:18:39.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [The Alloy That Started it All]
+[18Mar2025 02:20:05.981] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/236531, l='ServerLevel[world]', x=-593.00, y=31.00, z=-287.10] as it would cause deadlock
+[18Mar2025 02:20:27.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -10.02079872394063,0.0,-0.43614599990397096
+[18Mar2025 02:21:38.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Into Fire]

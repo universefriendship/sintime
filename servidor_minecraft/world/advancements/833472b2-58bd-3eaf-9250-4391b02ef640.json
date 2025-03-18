@@ -20482,6 +20482,12 @@
     },
     "done": true
   },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-03-18 02:16:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/spark_upgrade_isolated": {
     "criteria": {
       "has_alt_item": "2025-03-18 01:57:55 +0000"
