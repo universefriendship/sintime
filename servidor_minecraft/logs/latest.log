@@ -4127,3 +4127,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 15:37:03.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arsen'/160359, l='ServerLevel[world]', x=753.99, y=80.00, z=1119.48] died, message: 'Arsen was pricked to death'
 [18Mar2025 15:37:03.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Arsen'/160359, l='ServerLevel[world]', x=753.99, y=80.00, z=1119.48] died: Arsen was pricked to death
 [18Mar2025 15:56:47.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [What a Deal!]
+[18Mar2025 16:15:14.266] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4, y=-42, z=1145}
