@@ -3685,6 +3685,7 @@
       "minecraft:skeleton": "2025-03-10 01:36:38 +0000",
       "minecraft:hoglin": "2025-03-18 02:13:28 +0000",
       "minecraft:vindicator": "2025-03-10 04:33:36 +0000",
+      "minecraft:magma_cube": "2025-03-18 17:12:23 +0000",
       "minecraft:spider": "2025-03-10 03:22:45 +0000",
       "minecraft:piglin_brute": "2025-03-18 02:13:30 +0000",
       "minecraft:creeper": "2025-03-14 17:18:33 +0000",
@@ -20964,6 +20965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-18 17:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-03-18 17:02:15 +0000"
@@ -20994,9 +21001,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-18 17:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-03-18 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-18 17:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-03-18 17:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-18 17:20:22 +0000"
     },
     "done": true
   },
