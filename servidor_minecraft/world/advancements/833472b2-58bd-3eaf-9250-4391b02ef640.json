@@ -21336,6 +21336,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/orange_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-18 23:07:07 +0000"
@@ -21402,6 +21408,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
     "criteria": {
       "has_yellow_dye": "2025-03-18 23:07:07 +0000"
@@ -21435,6 +21447,12 @@
   "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_orange": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:08 +0000"
     },
     "done": true
   },
@@ -21531,6 +21549,18 @@
   "handcrafted:recipes/misc/yellow_crockery_combo": {
     "criteria": {
       "has_yellow_crockery_combo": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_thermalily": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:08 +0000"
     },
     "done": true
   },
