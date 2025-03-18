@@ -20380,15 +20380,15 @@
     },
     "done": true
   },
-  "botania:recipes/tools/water_ring": {
-    "criteria": {
-      "has_item": "2025-03-18 01:16:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-03-18 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-03-18 01:16:37 +0000"
     },
     "done": true
   },
