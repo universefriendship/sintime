@@ -4289,3 +4289,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 03:16:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Mage's Spell Book]
 [18Mar2025 03:18:23.248] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:bee that already existed from f68bbd40-5ce6-4eb2-b82f-71ad4b04e3ca to 8eecffd2-6b43-465d-8f34-ff410c40298c
 [18Mar2025 03:24:35.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzz
+[18Mar2025 03:28:14.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nifthy575 lost connection: Disconnected
+[18Mar2025 03:28:14.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 left the game
+[18Mar2025 03:28:14.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nifthy575
+[18Mar2025 03:35:30.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[18Mar2025 03:35:30.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[18Mar2025 03:35:30.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[18Mar2025 03:36:16.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Timed out
+[18Mar2025 03:36:16.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[18Mar2025 03:36:16.557] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
