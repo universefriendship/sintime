@@ -21318,6 +21318,12 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "flower": "2025-03-18 23:16:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
     "criteria": {
       "forge:dyes/yellow": "2025-03-18 23:07:07 +0000"
@@ -21477,6 +21483,12 @@
   "ad_astra:recipes/misc/yellow_industrial_lamp": {
     "criteria": {
       "has_yellow_industrial_lamp": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_exoflame": {
+    "criteria": {
+      "has_item": "2025-03-18 23:16:45 +0000"
     },
     "done": true
   },
