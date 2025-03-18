@@ -2,3 +2,4 @@
 [18Mar2025 00:05:08.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nikolai'/15470, l='ServerLevel[world]', x=232.50, y=53.56, z=546.50] died: Nikolai was pricked to death
 [18Mar2025 00:06:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [The Soul Forge]
 [18Mar2025 00:07:25.864] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/18278, l='ServerLevel[world]', x=301.00, y=31.00, z=-58.00] as it would cause deadlock
+[18Mar2025 00:28:00.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Drop Pop Candy]
