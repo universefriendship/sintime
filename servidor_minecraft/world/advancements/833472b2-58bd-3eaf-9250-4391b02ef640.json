@@ -2489,6 +2489,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-03-11 03:20:11 +0000",
+      "minecraft:taiga": "2025-03-18 17:11:01 +0000",
       "minecraft:deep_ocean": "2025-03-10 04:20:02 +0000",
       "minecraft:frozen_river": "2025-03-11 03:31:22 +0000",
       "minecraft:cherry_grove": "2025-03-14 17:55:57 +0000",
