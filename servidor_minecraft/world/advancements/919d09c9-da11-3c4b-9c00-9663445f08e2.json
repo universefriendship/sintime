@@ -2506,6 +2506,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-18 17:37:00 +0000",
       "minecraft:taiga": "2025-03-14 23:10:00 +0000",
       "minecraft:birch_forest": "2025-03-14 23:06:57 +0000",
       "minecraft:beach": "2025-03-14 21:23:33 +0000",
@@ -6576,6 +6577,7 @@
       "minecraft:vindicator": "2025-03-18 02:17:30 +0000",
       "minecraft:spider": "2025-03-18 17:19:44 +0000",
       "minecraft:creeper": "2025-03-14 21:35:45 +0000",
+      "minecraft:cave_spider": "2025-03-18 17:39:04 +0000",
       "minecraft:stray": "2025-03-18 17:32:23 +0000",
       "minecraft:zombie": "2025-03-17 23:29:03 +0000"
     },
@@ -15699,9 +15701,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-03-18 17:21:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
     },
     "done": true
   },
@@ -15732,6 +15752,12 @@
   "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
       "has_brown_mushroom": "2025-03-18 17:21:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
     },
     "done": true
   },
@@ -15840,6 +15866,18 @@
   "botania:recipes/decorations/mushroom_9": {
     "criteria": {
       "has_alt_item": "2025-03-18 17:21:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-03-18 17:42:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-03-18 17:41:42 +0000"
     },
     "done": true
   },
