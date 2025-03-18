@@ -20253,6 +20253,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/milky_lamp": {
+    "criteria": {
+      "has_milk": "2025-03-18 04:05:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2025-03-18 03:59:46 +0000"
@@ -20298,6 +20304,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-03-18 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-18 04:05:19 +0000"
     },
     "done": true
   },
@@ -20397,6 +20409,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-03-18 04:05:19 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/cheese": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-18 04:05:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-18 03:59:46 +0000"
@@ -20472,6 +20496,12 @@
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-18 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-18 04:05:19 +0000"
     },
     "done": true
   },
@@ -20610,6 +20640,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-18 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-18 04:05:19 +0000"
     },
     "done": true
   },
