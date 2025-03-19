@@ -16673,77 +16673,27 @@
     },
     "done": true
   },
-  "create_dd:recipes/create_dd.palettes/small_amethyst_block_brick_wall_from_stone_types_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/birch_palisade": {
-    "criteria": {
-      "has_log": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "justaraftmod:recipes/transportation/birch_raft": {
-    "criteria": {
-      "has_log": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "create_dd:recipes/create_dd.palettes/polished_cut_amethyst_block_from_stone_types_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bale": {
-    "criteria": {
-      "has_rice_panicle": "2025-03-19 17:56:45 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-03-19 16:28:50 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/amethyst_slab": {
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
-      "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+      "has_bow": "2025-03-19 16:28:50 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "cabbage": "2025-03-19 17:40:57 +0000",
-      "onion": "2025-03-19 17:43:26 +0000",
-      "sweet_berries": "2025-03-19 17:43:33 +0000",
-      "tomato": "2025-03-19 17:39:58 +0000",
-      "rice": "2025-03-19 17:55:56 +0000",
-      "beetroot": "2025-03-19 17:48:21 +0000",
-      "wheat": "2025-03-19 17:37:28 +0000",
-      "melon": "2025-03-19 17:39:25 +0000",
-      "pumpkin": "2025-03-19 17:41:27 +0000"
+      "has_bow": "2025-03-19 16:28:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "paraglider:statues_bargain": {
-    "criteria": {
-      "bargain": "2025-03-19 17:22:31 +0000"
     },
     "done": true
   },
@@ -16753,21 +16703,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
+      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_amethyst_block_brick_wall_from_stone_types_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_amethyst_block_from_stone_types_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-03-19 17:01:20 +0000"
     },
     "done": true
   },
   "create_dd:recipes/create_dd.palettes/amethyst_block_pillar_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:soulpyre": {
-    "criteria": {
-      "requirement": "2025-03-19 17:53:09 +0000"
     },
     "done": true
   },
@@ -16783,75 +16775,15 @@
     },
     "done": true
   },
-  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
-    "criteria": {
-      "has_beetroot": "2025-03-19 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-03-19 17:04:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-19 17:47:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-03-19 17:18:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-03-19 16:28:50 +0000"
-    },
-    "done": true
-  },
   "create_dd:recipes/create_dd.palettes/cut_amethyst_block_brick_stairs_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-03-19 17:29:04 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-03-19 17:29:02 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-19 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2025-03-19 17:47:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-03-19 17:18:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-03-19 17:18:45 +0000"
     },
     "done": true
   },
@@ -16867,63 +16799,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
-    },
-    "done": true
-  },
   "create_dd:recipes/create_dd.palettes/cut_amethyst_block_brick_wall_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_white": {
-    "criteria": {
-      "has_item": "2025-03-19 17:27:34 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/birch": {
-    "criteria": {
-      "has_planks": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
     },
     "done": true
   },
@@ -16933,21 +16811,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_rice": {
-    "criteria": {
-      "plant_rice": "2025-03-19 17:55:56 +0000"
-    },
-    "done": true
-  },
   "create_dd:recipes/create_dd.palettes/small_amethyst_block_bricks_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -16981,27 +16847,9 @@
     },
     "done": true
   },
-  "ars_nouveau:source_jar": {
-    "criteria": {
-      "has_source_jar": "2025-03-19 17:31:20 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
   "create_dd:recipes/create_dd.palettes/cut_amethyst_block_wall_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-03-19 18:00:52 +0000"
     },
     "done": true
   },
@@ -17017,57 +16865,9 @@
     },
     "done": true
   },
-  "galosphere:recipes/decorations/amethyst_lamp": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-03-19 17:43:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-03-19 17:43:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-03-19 16:28:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-03-19 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
   "create_dd:recipes/create_dd.palettes/polished_cut_amethyst_block_wall_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -17077,13 +16877,55 @@
     },
     "done": true
   },
-  "supplementaries:recipes/crystal_display": {
+  "create_dd:recipes/create_dd.palettes/layered_amethyst_block_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
-      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
     },
     "done": true
   },
-  "create_dd:recipes/create_dd.palettes/layered_amethyst_block_from_stone_types_amethyst_block_stonecutting": {
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/building_blocks/amethyst_block_from_stone_types_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_amethyst_block_bricks_from_stone_types_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_amethyst_block_brick_slab_from_stone_types_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_amethyst_block_slab_from_stone_types_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_amethyst_block_brick_stairs_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
     },
@@ -17095,33 +16937,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-19 17:04:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
       "has_cod": "2025-03-19 17:18:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+      "has_cod": "2025-03-19 17:18:45 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_logs": "2025-03-19 17:28:50 +0000"
+      "has_cod": "2025-03-19 17:18:45 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_amethyst_block": "2025-03-19 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/white_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-19 17:27:34 +0000"
+      "has_cod": "2025-03-19 17:18:45 +0000"
     },
     "done": true
   },
@@ -17131,9 +16973,111 @@
     },
     "done": true
   },
-  "create_dd:recipes/building_blocks/amethyst_block_from_stone_types_amethyst_block_stonecutting": {
+  "paraglider:statues_bargain": {
     "criteria": {
-      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+      "bargain": "2025-03-19 17:22:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-03-19 17:27:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-19 17:27:34 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "justaraftmod:recipes/transportation/birch_raft": {
+    "criteria": {
+      "has_log": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -17149,21 +17093,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/rice": {
-    "criteria": {
-      "has_rice_panicle": "2025-03-19 17:56:45 +0000"
-    },
-    "done": true
-  },
   "new_slab_variants:recipes/building_blocks/birch_log_slab": {
     "criteria": {
       "has_birch_log": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "create_dd:recipes/create_dd.palettes/cut_amethyst_block_bricks_from_stone_types_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
     },
     "done": true
   },
@@ -17173,27 +17105,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-03-19 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-03-19 17:29:04 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-19 17:28:50 +0000"
-    },
-    "done": true
-  },
-  "create_dd:recipes/create_dd.palettes/small_amethyst_block_brick_slab_from_stone_types_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
     },
     "done": true
   },
@@ -17221,15 +17135,59 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-19 17:29:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-19 17:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-19 17:29:04 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-03-19 17:31:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-03-19 17:40:57 +0000",
+      "onion": "2025-03-19 17:43:26 +0000",
+      "sweet_berries": "2025-03-19 17:43:33 +0000",
+      "tomato": "2025-03-19 17:39:58 +0000",
+      "rice": "2025-03-19 17:55:56 +0000",
+      "beetroot": "2025-03-19 17:48:21 +0000",
+      "wheat": "2025-03-19 17:37:28 +0000",
+      "melon": "2025-03-19 17:39:25 +0000",
+      "pumpkin": "2025-03-19 17:41:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-03-19 17:37:28 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+      "has_oxeye_daisy": "2025-03-19 17:43:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-19 17:43:56 +0000"
     },
     "done": true
   },
@@ -17239,21 +17197,63 @@
     },
     "done": true
   },
-  "create_dd:recipes/create_dd.palettes/polished_cut_amethyst_block_slab_from_stone_types_amethyst_block_stonecutting": {
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
-      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+      "has_any_ingredient": "2025-03-19 17:47:49 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
-      "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+      "has_cabbage": "2025-03-19 17:47:49 +0000"
     },
     "done": true
   },
-  "create_dd:recipes/create_dd.palettes/small_amethyst_block_brick_stairs_from_stone_types_amethyst_block_stonecutting": {
+  "simplyswords:soulpyre": {
     "criteria": {
-      "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+      "requirement": "2025-03-19 17:53:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-03-19 17:55:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-03-19 17:56:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-03-19 17:56:45 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2025-03-19 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-19 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-19 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-19 18:00:52 +0000"
     },
     "done": true
   },
