@@ -23030,6 +23030,12 @@
     },
     "done": true
   },
+  "ars_nouveau:whirlisprig_charm": {
+    "criteria": {
+      "has_whirlisprig_charm": "2025-03-19 17:30:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-19 17:34:19 +0000"
@@ -23039,12 +23045,6 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-19 17:34:19 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:whirlisprig_charm": {
-    "criteria": {
-      "has_whirlisprig_charm": "2025-03-19 17:30:50 +0000"
     },
     "done": true
   },

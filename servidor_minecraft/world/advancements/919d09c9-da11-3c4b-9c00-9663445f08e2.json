@@ -17257,5 +17257,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-19 23:47:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

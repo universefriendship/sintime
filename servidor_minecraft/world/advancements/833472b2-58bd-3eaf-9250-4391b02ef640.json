@@ -22319,9 +22319,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-19 23:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-03-19 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_from_log": {
+    "criteria": {
+      "has_log": "2025-03-19 23:39:31 +0000"
     },
     "done": true
   },
@@ -22340,6 +22358,12 @@
   "botania:recipes/misc/conversions/terrasteel_from_nugget": {
     "criteria": {
       "has_item": "2025-03-19 23:27:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-03-19 23:43:02 +0000"
     },
     "done": true
   },
@@ -22376,6 +22400,18 @@
   "botania:recipes/misc/conversions/terrasteel_to_nugget": {
     "criteria": {
       "has_the_recipe": "2025-03-19 23:27:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-03-19 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-19 23:43:02 +0000"
     },
     "done": true
   },
@@ -22418,6 +22454,30 @@
   "botania:recipes/building_blocks/glimmering_livingwood": {
     "criteria": {
       "has_item": "2025-03-19 23:29:12 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/ender_lamp": {
+    "criteria": {
+      "has_eye": "2025-03-19 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-03-19 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/horde_horn": {
+    "criteria": {
+      "has_ender_eye": "2025-03-19 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-03-19 23:43:02 +0000"
     },
     "done": true
   },
