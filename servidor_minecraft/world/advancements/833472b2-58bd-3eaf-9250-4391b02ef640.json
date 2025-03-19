@@ -21310,81 +21310,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_light_gray_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_cyan_double": {
-    "criteria": {
-      "has_item": "2025-03-19 00:03:05 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-03-19 02:41:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-03-18 23:07:07 +0000"
     },
     "done": true
   },
-  "simplyswords:thunderbrand": {
-    "criteria": {
-      "requirement": "2025-03-19 01:14:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-03-19 00:03:15 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_bath": {
-    "criteria": {
-      "has_cyan_dye": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/cyan_industrial_lamp": {
-    "criteria": {
-      "has_cyan_industrial_lamp": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_gray_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/cyan_toilet": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "botania:main/functional_flower": {
-    "criteria": {
-      "flower": "2025-03-18 23:16:45 +0000"
     },
     "done": true
   },
@@ -21400,9 +21334,393 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_candle": {
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
     "criteria": {
-      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/yellow_blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/yellow_blueprint_block_from_yellow_dye": {
+    "criteria": {
+      "has_dyed_item": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/fertilizer_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 23:07:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_fertilizer": {
+    "criteria": {
+      "has_base_block": "2025-03-18 23:07:57 +0000"
+    },
+    "done": true
+  },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "flower": "2025-03-18 23:16:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_exoflame": {
+    "criteria": {
+      "has_item": "2025-03-18 23:16:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_orange": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_thermalily": {
+    "criteria": {
+      "has_item": "2025-03-18 23:38:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan_double": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_blue": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue_double": {
+    "criteria": {
+      "has_alt_item": "2025-03-19 00:03:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_cyan": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_hydroangeas": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:33 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2025-03-19 00:25:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-03-19 00:53:47 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:thunderbrand": {
+    "criteria": {
+      "requirement": "2025-03-19 01:14:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-03-19 01:19:06 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-03-19 01:19:06 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-03-19 01:19:06 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-03-19 01:22:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig_smithing": {
+    "criteria": {
+      "has_pig": "2025-03-19 01:31:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-03-19 02:03:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_bath": {
+    "criteria": {
+      "has_cyan_dye": "2025-03-19 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/cyan_industrial_lamp": {
+    "criteria": {
+      "has_cyan_industrial_lamp": "2025-03-19 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_toilet": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:40:23 +0000"
     },
     "done": true
   },
@@ -21424,18 +21742,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/orange_petal_block": {
-    "criteria": {
-      "has_item": "2025-03-18 23:38:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_gray_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/cyan_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-19 02:40:23 +0000"
@@ -21448,69 +21754,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/light_blue_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-19 02:41:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_hydroangeas": {
-    "criteria": {
-      "has_item": "2025-03-19 00:03:33 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
-    "criteria": {
-      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/building_blocks/rose_gold_block": {
-    "criteria": {
-      "has_item": "2025-03-19 02:56:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
-    "criteria": {
-      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
-    "criteria": {
-      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-03-19 02:41:03 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/smart_cyan": {
     "criteria": {
       "has_dyes/black": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_bath": {
-    "criteria": {
-      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_blue": {
-    "criteria": {
-      "has_item": "2025-03-19 00:03:10 +0000"
     },
     "done": true
   },
@@ -21520,117 +21766,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/keep_ivy": {
-    "criteria": {
-      "has_item": "2025-03-19 03:12:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_plate": {
-    "criteria": {
-      "has_yellow_plate": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_gray_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pig_smithing": {
-    "criteria": {
-      "has_pig": "2025-03-19 01:31:19 +0000"
-    },
-    "done": true
-  },
   "create_dd:recipes/create_dd.palettes/crafting/decor/cyan_blueprint_block": {
     "criteria": {
       "has_dyed_item": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
-    "criteria": {
-      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
-    "criteria": {
-      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-03-19 01:19:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_gray_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "create_dd:recipes/create_dd.palettes/crafting/decor/yellow_blueprint_block": {
-    "criteria": {
-      "has_dyed_item": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2025-03-19 02:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:you_da_bomby": {
-    "criteria": {
-      "tamed_creeper_minion": "2025-03-19 00:25:07 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_light_gray_industrial_lamp": {
-    "criteria": {
-      "has_small_light_gray_industrial_lamp": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
-    "criteria": {
-      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
-    "criteria": {
-      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
     },
     "done": true
   },
@@ -21640,69 +21778,9 @@
     },
     "done": true
   },
-  "create_dd:recipes/create_dd.palettes/crafting/decor/yellow_blueprint_block_from_yellow_dye": {
-    "criteria": {
-      "has_dyed_item": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_cyan": {
-    "criteria": {
-      "has_item": "2025-03-19 00:03:15 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/cyan_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_gray_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/red_string": {
-    "criteria": {
-      "has_item": "2025-03-19 03:12:14 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon_smithing": {
-    "criteria": {
-      "has_melon": "2025-03-19 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot": {
-    "criteria": {
-      "has_item": "2025-03-19 02:56:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
-    "criteria": {
-      "forge:dyes/light_gray": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_orange_double": {
-    "criteria": {
-      "has_item": "2025-03-18 23:38:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
     },
     "done": true
   },
@@ -21712,21 +21790,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
     },
     "done": true
   },
@@ -21739,66 +21805,6 @@
   "ae2:recipes/misc/network/cables/dense_covered_cyan": {
     "criteria": {
       "has_dyes/black": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
-    "criteria": {
-      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_gray_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_gloves_repairing": {
-    "criteria": {
-      "has_diamond_gloves": "2025-03-19 00:53:47 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/fertilizer_dye": {
-    "criteria": {
-      "has_the_recipe": "2025-03-18 23:07:54 +0000"
-    },
-    "done": true
-  },
-  "create_dd:recipes/create_dd.palettes/crafting/decor/light_gray_blueprint_block": {
-    "criteria": {
-      "has_dyed_item": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/villager_tracker": {
-    "criteria": {
-      "has_item": "2025-03-19 02:56:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_orange": {
-    "criteria": {
-      "has_item": "2025-03-18 23:38:08 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-03-18 23:07:07 +0000"
     },
     "done": true
   },
@@ -21826,69 +21832,9 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/red_string_fertilizer": {
-    "criteria": {
-      "has_base_block": "2025-03-18 23:07:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-03-19 00:03:11 +0000"
-    },
-    "done": true
-  },
-  "mca:adventure/scythe_kill": {
-    "criteria": {
-      "iron": "2025-03-19 02:43:40 +0000"
-    },
-    "done": true
-  },
-  "botania:main/ender_air_make": {
-    "criteria": {
-      "air": "2025-03-19 03:12:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_gray_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/cyan_petal_block": {
-    "criteria": {
-      "has_item": "2025-03-19 00:03:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:skeleton_dungeon": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-03-19 01:22:57 +0000"
     },
     "done": true
   },
@@ -21904,69 +21850,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_blue_double": {
-    "criteria": {
-      "has_alt_item": "2025-03-19 00:03:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_bowl": {
-    "criteria": {
-      "has_yellow_bowl": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
-    "criteria": {
-      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-03-19 01:19:06 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/cyan_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/blue_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-19 00:03:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/yellow_industrial_lamp": {
-    "criteria": {
-      "has_yellow_industrial_lamp": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot_smelting": {
-    "criteria": {
-      "has_the_recipe": "2025-03-19 02:56:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/corporea_spark": {
-    "criteria": {
-      "has_item": "2025-03-19 03:12:14 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2025-03-19 02:41:06 +0000"
     },
     "done": true
   },
@@ -21976,51 +21862,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/floating_exoflame": {
-    "criteria": {
-      "has_item": "2025-03-18 23:16:45 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_smart_cyan": {
     "criteria": {
       "has_dyes/black": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_blue": {
-    "criteria": {
-      "has_item": "2025-03-19 02:41:15 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_gray_toilet": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
-    "criteria": {
-      "has_small_yellow_industrial_lamp": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-03-19 01:19:06 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2025-03-19 02:41:06 +0000"
     },
     "done": true
   },
@@ -22030,9 +21874,189 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
     "criteria": {
-      "has_needed_dye": "2025-03-18 23:07:07 +0000"
+      "has_cyan_dye": "2025-03-19 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cyan_dye": "2025-03-19 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_cyan_dye": "2025-03-19 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-03-19 02:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-03-19 02:41:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_light_gray_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
+    "criteria": {
+      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_bath": {
+    "criteria": {
+      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_light_gray_industrial_lamp": {
+    "criteria": {
+      "has_small_light_gray_industrial_lamp": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
+    "criteria": {
+      "forge:dyes/light_gray": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/light_gray_blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_toilet": {
+    "criteria": {
+      "has_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-03-19 02:41:06 +0000"
     },
     "done": true
   },
@@ -22048,33 +22072,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/light_gray_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_cup": {
-    "criteria": {
-      "has_yellow_cup": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
-    "criteria": {
-      "has_cyan_dye": "2025-03-19 02:40:23 +0000"
     },
     "done": true
   },
@@ -22084,45 +22084,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/yellow_crockery_combo": {
-    "criteria": {
-      "has_yellow_crockery_combo": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/red_string_alt": {
-    "criteria": {
-      "has_item": "2025-03-19 03:12:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_thermalily": {
-    "criteria": {
-      "has_item": "2025-03-18 23:38:19 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_blue": {
-    "criteria": {
-      "has_item": "2025-03-19 00:03:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/spawner_claw": {
-    "criteria": {
-      "has_item": "2025-03-19 03:12:14 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_cyan_dye": "2025-03-19 02:40:23 +0000"
     },
     "done": true
   },
@@ -22132,45 +22096,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
-    "criteria": {
-      "has_cyan_dye": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-03-18 23:38:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
-    "criteria": {
-      "has_yellow_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-03-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/cyan_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:40:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_storage_cabinet": {
     "criteria": {
       "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/cyan_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-19 02:40:23 +0000"
     },
     "done": true
   },
@@ -22186,21 +22114,93 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-19 02:41:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2025-03-19 02:41:15 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2025-03-19 02:43:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-03-19 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/rose_gold_block": {
+    "criteria": {
+      "has_item": "2025-03-19 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-03-19 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/villager_tracker": {
+    "criteria": {
+      "has_item": "2025-03-19 02:56:34 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/civil_registry": {
     "criteria": {
       "has_item": "2025-03-19 02:56:34 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+  "botania:recipes/misc/keep_ivy": {
     "criteria": {
-      "has_dye": "2025-03-18 23:07:07 +0000"
+      "has_item": "2025-03-19 03:12:14 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/blue_petal_block": {
+  "botania:recipes/misc/red_string": {
     "criteria": {
-      "has_item": "2025-03-19 00:03:10 +0000"
+      "has_item": "2025-03-19 03:12:14 +0000"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2025-03-19 03:12:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/corporea_spark": {
+    "criteria": {
+      "has_item": "2025-03-19 03:12:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/red_string_alt": {
+    "criteria": {
+      "has_item": "2025-03-19 03:12:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spawner_claw": {
+    "criteria": {
+      "has_item": "2025-03-19 03:12:14 +0000"
     },
     "done": true
   },
