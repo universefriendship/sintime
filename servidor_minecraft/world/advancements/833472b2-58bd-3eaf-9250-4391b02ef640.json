@@ -22313,15 +22313,117 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingwood_stairs": {
+    "criteria": {
+      "has_item": "2025-03-19 23:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_wall": {
+    "criteria": {
+      "has_item": "2025-03-19 23:29:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_slab": {
+    "criteria": {
+      "has_item": "2025-03-19 23:29:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/terrasteel_from_nugget": {
     "criteria": {
       "has_item": "2025-03-19 23:27:53 +0000"
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/hellspider_pumpkin": {
+    "criteria": {
+      "has_shards": "2025-03-19 23:35:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-03-19 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/molten_stone": {
+    "criteria": {
+      "has_shards": "2025-03-19 23:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/terrasteel_to_nugget": {
     "criteria": {
       "has_the_recipe": "2025-03-19 23:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-03-19 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood": {
+    "criteria": {
+      "has_item": "2025-03-19 23:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
     },
     "done": true
   },
