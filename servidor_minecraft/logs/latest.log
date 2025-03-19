@@ -4130,3 +4130,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Mar2025 16:24:43.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... title ""El gran dragón" ha aparecido<--[HERE]
 [19Mar2025 16:28:13.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
 [19Mar2025 16:28:13.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... title ""La Parca" tomará venganza"<--[HERE]
+[19Mar2025 16:30:47.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ari_fl08[/127.136.253.89:35301] logged in with entity id 2226 at (-60.744215501108314, 68.0, 167.02985423332538)
+[19Mar2025 16:30:47.278] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ari_fl08
+[19Mar2025 16:30:47.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ari_fl08
+[19Mar2025 16:30:47.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ari_fl08
+[19Mar2025 16:30:47.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ari_fl08
+[19Mar2025 16:30:47.282] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ari_fl08
+[19Mar2025 16:30:47.286] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ari_fl08
+[19Mar2025 16:30:47.286] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ari_fl08
+[19Mar2025 16:30:47.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 joined the game
+[19Mar2025 16:30:47.619] [Server thread/INFO] [Jade/]: Syncing config to ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640)
+[19Mar2025 16:30:52.475] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ari_fl08 (18)
+[19Mar2025 16:30:52.476] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[19Mar2025 16:30:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Mar2025 16:30:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: > /title @a title "La Parca tomará venganza"<--[HERE]
+[19Mar2025 16:31:12.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 833472b2-58bd-3eaf-9250-4391b02ef640
+[19Mar2025 16:31:13.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 833472b2-58bd-3eaf-9250-4391b02ef640
+[19Mar2025 16:31:13.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640) successfully connected to voice chat
+[19Mar2025 16:31:20.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new title for 2 players
+[19Mar2025 16:32:52.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> holi
+[19Mar2025 16:33:11.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> hay grupo
+[19Mar2025 16:33:17.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Friendship Found]
