@@ -16715,6 +16715,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-03-19 17:40:57 +0000",
+      "onion": "2025-03-19 17:43:26 +0000",
+      "sweet_berries": "2025-03-19 17:43:33 +0000",
+      "tomato": "2025-03-19 17:39:58 +0000",
+      "wheat": "2025-03-19 17:37:28 +0000",
+      "melon": "2025-03-19 17:39:25 +0000",
+      "pumpkin": "2025-03-19 17:41:27 +0000"
+    },
+    "done": false
+  },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
@@ -16967,9 +16979,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-19 17:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-19 17:43:56 +0000"
     },
     "done": true
   },
@@ -17135,9 +17159,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-19 17:37:28 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-19 17:43:56 +0000"
     },
     "done": true
   },
