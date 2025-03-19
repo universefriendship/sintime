@@ -16703,6 +16703,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-03-19 17:56:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-03-19 16:28:50 +0000"
@@ -16774,6 +16780,12 @@
   "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2025-03-19 18:00:52 +0000"
     },
     "done": true
   },
@@ -16987,6 +16999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-19 18:00:52 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_amethyst_block_stairs_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
@@ -17026,6 +17044,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-19 16:28:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-19 18:00:52 +0000"
     },
     "done": true
   },
@@ -17125,6 +17149,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-03-19 17:56:45 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/birch_log_slab": {
     "criteria": {
       "has_birch_log": "2025-03-19 17:28:50 +0000"
@@ -17140,6 +17170,12 @@
   "mcwtrpdoors:recipes/print_paper": {
     "criteria": {
       "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-19 18:00:52 +0000"
     },
     "done": true
   },
