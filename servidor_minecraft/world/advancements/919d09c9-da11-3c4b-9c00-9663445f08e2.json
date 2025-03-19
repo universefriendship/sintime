@@ -16721,6 +16721,8 @@
       "onion": "2025-03-19 17:43:26 +0000",
       "sweet_berries": "2025-03-19 17:43:33 +0000",
       "tomato": "2025-03-19 17:39:58 +0000",
+      "rice": "2025-03-19 17:55:56 +0000",
+      "beetroot": "2025-03-19 17:48:21 +0000",
       "wheat": "2025-03-19 17:37:28 +0000",
       "melon": "2025-03-19 17:39:25 +0000",
       "pumpkin": "2025-03-19 17:41:27 +0000"
@@ -16757,6 +16759,12 @@
     },
     "done": true
   },
+  "simplyswords:soulpyre": {
+    "criteria": {
+      "requirement": "2025-03-19 17:53:09 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
       "has_amethyst_block": "2025-03-19 17:01:20 +0000"
@@ -16772,6 +16780,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-03-19 17:04:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-19 17:47:49 +0000"
     },
     "done": true
   },
@@ -16808,6 +16822,12 @@
   "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-03-19 17:47:49 +0000"
     },
     "done": true
   },
@@ -16898,6 +16918,12 @@
   "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-03-19 17:55:56 +0000"
     },
     "done": true
   },

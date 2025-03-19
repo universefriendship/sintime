@@ -4205,3 +4205,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Mar2025 17:50:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzzzzzzzz
 [19Mar2025 17:50:21.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzzzzzzzz
 [19Mar2025 17:50:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> sssszzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[19Mar2025 17:50:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> krysztof
+[19Mar2025 17:51:37.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Crops of the Wild]
+[19Mar2025 17:53:09.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Burner of Souls]
+[19Mar2025 17:57:38.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=68, z=137} BlockPos{x=-72, y=66, z=137}
