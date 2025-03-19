@@ -4125,3 +4125,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Mar2025 16:14:04.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nifthy575 (919d09c9-da11-3c4b-9c00-9663445f08e2) successfully connected to voice chat
 [19Mar2025 16:17:43.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
 [19Mar2025 16:17:43.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... @a title El fin se acerca...<--[HERE]
+[19Mar2025 16:19:51.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new title for Nifthy575
+[19Mar2025 16:24:43.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[19Mar2025 16:24:43.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... title ""El gran dragón" ha aparecido<--[HERE]
+[19Mar2025 16:28:13.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[19Mar2025 16:28:13.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... title ""La Parca" tomará venganza"<--[HERE]
