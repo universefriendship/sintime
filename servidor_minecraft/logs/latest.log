@@ -282,3 +282,8 @@
 [19Mar2025 01:42:53.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzzzzzzzzzzzzzzz
 [19Mar2025 01:55:51.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rafał'/151, l='ServerLevel[world]', x=-59.27, y=66.55, z=189.41] died, message: 'Rafał was slain by Zombie'
 [19Mar2025 01:55:51.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rafał'/151, l='ServerLevel[world]', x=-59.27, y=66.55, z=189.41] died: Rafał was slain by Zombie
+[19Mar2025 02:00:40.532] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-62, y=66, z=198} in minecraft:overworld
+[19Mar2025 02:00:40.532] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 20828
+[19Mar2025 02:00:40.535] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[19Mar2025 02:02:05.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['pancracio'/146, l='ServerLevel[world]', x=-56.25, y=65.00, z=185.75] died: pancracio was struck by lightning
+[19Mar2025 02:03:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Beat Death]
