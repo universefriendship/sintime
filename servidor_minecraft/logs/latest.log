@@ -4153,3 +4153,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Mar2025 16:33:17.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Friendship Found]
 [19Mar2025 16:40:45.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> gaia seeds
 [19Mar2025 16:49:55.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzzzz
+[19Mar2025 17:06:20.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.243.72.158:53201] logged in with entity id 173926 at (-56.18652879554373, 68.0, 169.1918112401839)
+[19Mar2025 17:06:20.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[19Mar2025 17:06:20.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[19Mar2025 17:06:20.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[19Mar2025 17:06:20.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[19Mar2025 17:06:20.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[19Mar2025 17:06:20.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[19Mar2025 17:06:20.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[19Mar2025 17:06:21.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[19Mar2025 17:06:21.146] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[19Mar2025 17:06:24.436] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[19Mar2025 17:06:24.436] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[19Mar2025 17:06:33.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 17:06:34.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 17:06:34.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[19Mar2025 17:07:54.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[19Mar2025 17:07:54.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[19Mar2025 17:07:54.388] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[19Mar2025 17:08:07.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.243.72.158:59887] logged in with entity id 175112 at (-59.76919392512578, 68.0, 170.60653194971476)
+[19Mar2025 17:08:07.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[19Mar2025 17:08:07.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[19Mar2025 17:08:07.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[19Mar2025 17:08:07.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[19Mar2025 17:08:07.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[19Mar2025 17:08:07.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[19Mar2025 17:08:07.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[19Mar2025 17:08:08.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[19Mar2025 17:08:08.134] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[19Mar2025 17:08:08.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[19Mar2025 17:08:08.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[19Mar2025 17:08:22.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 17:08:23.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 17:08:23.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
