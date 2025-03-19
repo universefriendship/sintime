@@ -21652,6 +21652,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-03-19 02:48:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-18 23:07:07 +0000"
