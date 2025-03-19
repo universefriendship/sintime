@@ -319,3 +319,20 @@
 [19Mar2025 02:33:45.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
 [19Mar2025 02:36:16.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tiborné'/956142, l='ServerLevel[world]', x=-749.42, y=70.56, z=-151.08] died, message: 'Tiborné was pricked to death'
 [19Mar2025 02:36:16.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tiborné'/956142, l='ServerLevel[world]', x=-749.42, y=70.56, z=-151.08] died: Tiborné was pricked to death
+[19Mar2025 02:37:43.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Called Your Bluff]
+[19Mar2025 02:38:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Smashing Success]
+[19Mar2025 02:38:55.348] [Worker-Main-103/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/967950, l='ServerLevel[world]', x=-1621.50, y=22.00, z=-336.50] as it would cause deadlock
+[19Mar2025 02:39:18.070] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1554, y=-42, z=-407}
+[19Mar2025 02:39:18.071] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1554, y=-42, z=-407}
+[19Mar2025 02:39:18.996] [Worker-Main-133/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/969545, l='ServerLevel[world]', x=-1581.50, y=22.00, z=-424.50] as it would cause deadlock
+[19Mar2025 02:39:19.608] [Worker-Main-133/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1578, y=-29, z=-446}
+[19Mar2025 02:39:19.609] [Worker-Main-133/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1578, y=-29, z=-446}
+[19Mar2025 02:39:19.613] [Worker-Main-133/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/969596, l='ServerLevel[world]', x=-1581.50, y=22.00, z=-432.50] as it would cause deadlock
+[19Mar2025 02:39:22.521] [Worker-Main-135/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/969787, l='ServerLevel[world]', x=-1526.50, y=-3.00, z=-454.50] as it would cause deadlock
+[19Mar2025 02:39:22.523] [Worker-Main-135/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/969789, l='ServerLevel[world]', x=-1534.50, y=-3.00, z=-454.50] as it would cause deadlock
+[19Mar2025 02:39:36.821] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1679, y=20, z=-353}
+[19Mar2025 02:39:36.821] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1679, y=20, z=-353}
+[19Mar2025 02:39:37.016] [Worker-Main-136/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/970769, l='ServerLevel[world]', x=-1674.50, y=-56.00, z=-404.50] as it would cause deadlock
+[19Mar2025 02:39:39.891] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/970927, l='ServerLevel[world]', x=-1686.50, y=-53.00, z=-359.50] as it would cause deadlock
+[19Mar2025 02:43:40.240] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bogusław'/966044, l='ServerLevel[world]', x=-1471.81, y=98.00, z=-152.04] died, message: 'Bogusław was slain by ari_fl08'
+[19Mar2025 02:43:40.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Become the Grim Reaper]
