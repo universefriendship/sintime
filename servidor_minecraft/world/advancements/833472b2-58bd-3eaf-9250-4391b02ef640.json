@@ -15817,9 +15817,10 @@
     "criteria": {
       "in_better_zombie_dungeon": "2025-03-11 15:30:08 +0000",
       "in_better_spider_dungeon": "2025-03-15 02:12:07 +0000",
-      "in_better_monster_room": "2025-03-18 03:54:01 +0000"
+      "in_better_monster_room": "2025-03-18 03:54:01 +0000",
+      "in_better_skeleton_dungeon": "2025-03-19 01:22:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
@@ -21320,6 +21321,12 @@
     },
     "done": true
   },
+  "simplyswords:thunderbrand": {
+    "criteria": {
+      "requirement": "2025-03-19 01:14:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-19 00:03:15 +0000"
@@ -21392,6 +21399,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig_smithing": {
+    "criteria": {
+      "has_pig": "2025-03-19 01:31:19 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_yellow": {
     "criteria": {
       "has_dyes/black": "2025-03-18 23:07:07 +0000"
@@ -21401,6 +21414,12 @@
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-03-19 01:19:06 +0000"
     },
     "done": true
   },
@@ -21536,6 +21555,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-03-19 01:22:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_blue_double": {
     "criteria": {
       "has_alt_item": "2025-03-19 00:03:11 +0000"
@@ -21551,6 +21576,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
     "criteria": {
       "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-03-19 01:19:06 +0000"
     },
     "done": true
   },
@@ -21587,6 +21618,12 @@
   "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-03-19 01:19:06 +0000"
     },
     "done": true
   },
