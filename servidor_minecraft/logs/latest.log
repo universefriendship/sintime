@@ -287,3 +287,10 @@
 [19Mar2025 02:00:40.535] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
 [19Mar2025 02:02:05.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['pancracio'/146, l='ServerLevel[world]', x=-56.25, y=65.00, z=185.75] died: pancracio was struck by lightning
 [19Mar2025 02:03:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Beat Death]
+[19Mar2025 02:08:49.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=66, z=179} BlockPos{x=-50, y=65, z=180}
+[19Mar2025 02:12:06.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[19Mar2025 02:12:06.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[19Mar2025 02:12:06.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[19Mar2025 02:12:12.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 02:12:13.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 02:12:13.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
