@@ -21904,6 +21904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-19 01:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2025-03-19 01:43:51 +0000"
@@ -21913,6 +21919,12 @@
   "botania:recipes/tools/water_ring": {
     "criteria": {
       "has_item": "2025-03-19 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-19 01:49:12 +0000"
     },
     "done": true
   },
