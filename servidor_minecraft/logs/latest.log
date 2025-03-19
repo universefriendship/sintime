@@ -350,3 +350,21 @@
 [19Mar2025 02:54:46.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [19Mar2025 02:54:47.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [19Mar2025 02:54:47.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[19Mar2025 02:57:48.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[19Mar2025 02:57:48.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[19Mar2025 02:57:48.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[19Mar2025 02:57:50.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 02:57:51.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 02:57:51.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[19Mar2025 02:58:19.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> rafał
+[19Mar2025 03:01:00.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 9.960883555274734,-2.2397862695289064,2.1189918723161725
+[19Mar2025 03:02:10.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> Krzysztof
+[19Mar2025 03:04:11.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[19Mar2025 03:04:11.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[19Mar2025 03:04:11.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[19Mar2025 03:04:14.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 03:04:15.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 03:04:15.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[19Mar2025 03:04:49.624] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1015807, l='ServerLevel[world]', x=-644.50, y=74.00, z=143.50]
+[19Mar2025 03:04:57.324] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1017076, l='ServerLevel[world]', x=-646.50, y=74.00, z=145.50]
+[19Mar2025 03:04:58.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1017333, l='ServerLevel[world]', x=-586.50, y=71.00, z=164.50]

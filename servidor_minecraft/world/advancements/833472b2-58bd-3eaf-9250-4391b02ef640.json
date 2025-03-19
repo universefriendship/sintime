@@ -21472,6 +21472,12 @@
     },
     "done": true
   },
+  "mca:recipes/building_blocks/rose_gold_block": {
+    "criteria": {
+      "has_item": "2025-03-19 02:56:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
     "criteria": {
       "has_light_gray_dye": "2025-03-19 02:41:06 +0000"
@@ -21658,6 +21664,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-03-19 02:56:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-18 23:07:07 +0000"
@@ -21757,6 +21769,12 @@
   "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/villager_tracker": {
+    "criteria": {
+      "has_item": "2025-03-19 02:56:34 +0000"
     },
     "done": true
   },
@@ -21913,6 +21931,12 @@
   "ad_astra:recipes/misc/yellow_industrial_lamp": {
     "criteria": {
       "has_yellow_industrial_lamp": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 02:56:33 +0000"
     },
     "done": true
   },
@@ -22123,6 +22147,12 @@
   "refurbished_furniture:recipes/decorations/light_gray_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-19 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/civil_registry": {
+    "criteria": {
+      "has_item": "2025-03-19 02:56:34 +0000"
     },
     "done": true
   },
