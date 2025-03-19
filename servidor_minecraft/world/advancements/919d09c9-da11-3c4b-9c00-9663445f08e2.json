@@ -5211,6 +5211,7 @@
       "cooked_beef": "2025-03-14 21:29:37 +0000",
       "baked_potato": "2025-03-14 23:11:58 +0000",
       "beef": "2025-03-19 00:23:08 +0000",
+      "potato": "2025-03-19 17:25:19 +0000",
       "mutton": "2025-03-18 22:53:56 +0000",
       "bread": "2025-03-14 22:28:33 +0000",
       "golden_apple": "2025-03-18 22:53:46 +0000",
@@ -16678,6 +16679,24 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "justaraftmod:recipes/transportation/birch_raft": {
+    "criteria": {
+      "has_log": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_amethyst_block_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
@@ -16702,9 +16721,21 @@
     },
     "done": true
   },
+  "paraglider:statues_bargain": {
+    "criteria": {
+      "bargain": "2025-03-19 17:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -16732,6 +16763,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-03-19 17:18:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-03-19 16:28:50 +0000"
@@ -16744,9 +16781,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-19 17:29:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-19 17:29:02 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-19 17:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-19 17:18:45 +0000"
     },
     "done": true
   },
@@ -16762,6 +16823,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
@@ -16771,6 +16838,42 @@
   "create_dd:recipes/create_dd.palettes/cut_amethyst_block_brick_wall_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-03-19 17:27:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -16789,6 +16892,12 @@
   "create_dd:recipes/create_dd.palettes/small_amethyst_block_bricks_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -16819,6 +16928,18 @@
   "galosphere:recipes/building_blocks/amethyst_stairs": {
     "criteria": {
       "has_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-03-19 17:31:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -16858,9 +16979,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_amethyst_block_wall_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -16888,9 +17021,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-19 17:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-03-19 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -16900,9 +17045,39 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-19 17:27:34 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-03-19 17:18:45 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/building_blocks/amethyst_block_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/birch_log_slab": {
+    "criteria": {
+      "has_birch_log": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },
@@ -16912,9 +17087,51 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-19 17:29:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_amethyst_block_brick_slab_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-19 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-19 17:28:50 +0000"
     },
     "done": true
   },

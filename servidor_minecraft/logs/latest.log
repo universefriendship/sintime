@@ -4191,3 +4191,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Mar2025 17:13:33.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 [19Mar2025 17:14:00.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> zzzz
 [19Mar2025 17:14:39.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [The Harbinger]
+[19Mar2025 17:22:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has reached the goal [Statue's Bargain]
+[19Mar2025 17:26:35.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/192781, l='ServerLevel[world]', x=-170.50, y=75.00, z=379.50]
+[19Mar2025 17:28:30.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Margus'/194015, l='ServerLevel[world]', x=262.16, y=66.00, z=672.04] died, message: 'Margus was poked to death by a sweet berry bush'
+[19Mar2025 17:28:30.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Margus'/194015, l='ServerLevel[world]', x=262.16, y=66.00, z=672.04] died: Margus was poked to death by a sweet berry bush
+[19Mar2025 17:29:02.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Pic-A-Nic Basket?]
+[19Mar2025 17:30:50.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Whirli]
+[19Mar2025 17:31:20.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Not a Fluid!]
+[19Mar2025 17:37:28.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [A Seedy Place]
+[19Mar2025 17:38:22.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzzz
