@@ -22264,6 +22264,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 17:12:14 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_lime": {
     "criteria": {
       "has_item": "2025-03-19 17:04:18 +0000"
