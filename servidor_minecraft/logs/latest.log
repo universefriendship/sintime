@@ -368,3 +368,24 @@
 [19Mar2025 03:04:49.624] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1015807, l='ServerLevel[world]', x=-644.50, y=74.00, z=143.50]
 [19Mar2025 03:04:57.324] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1017076, l='ServerLevel[world]', x=-646.50, y=74.00, z=145.50]
 [19Mar2025 03:04:58.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1017333, l='ServerLevel[world]', x=-586.50, y=71.00, z=164.50]
+[19Mar2025 03:09:32.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The End?]
+[19Mar2025 03:09:34.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4904ms or 98 ticks behind
+[19Mar2025 03:09:34.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 2356.420218708476,59.251073963560344,-1551.8825253159337
+[19Mar2025 03:09:34.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved too quickly! 2.8336935196704687,0.0,9.73994740726343
+[19Mar2025 03:09:36.870] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[19Mar2025 03:09:36.872] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[19Mar2025 03:09:37.505] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[19Mar2025 03:09:37.505] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[19Mar2025 03:09:47.693] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[19Mar2025 03:09:47.694] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[19Mar2025 03:10:17.850] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[19Mar2025 03:10:34.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [You Need a Mint]
+[19Mar2025 03:10:34.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Imitation Air]
+[19Mar2025 03:11:01.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[19Mar2025 03:11:01.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[19Mar2025 03:11:01.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[19Mar2025 03:11:05.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -8.440893788719803,-1.5565283797218967,5.203238104982443
+[19Mar2025 03:11:07.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 03:11:08.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 03:11:08.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[19Mar2025 03:12:14.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Imitation Air]

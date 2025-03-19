@@ -22106,6 +22106,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-03-19 03:10:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-19 02:41:21 +0000"
@@ -22175,6 +22181,12 @@
   "travelersbackpack:recipes/building_blocks/dye_cyan_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-03-19 02:40:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/keep_ivy": {
+    "criteria": {
+      "has_item": "2025-03-19 03:10:34 +0000"
     },
     "done": true
   },
@@ -22283,6 +22295,12 @@
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-19 02:41:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/red_string": {
+    "criteria": {
+      "has_item": "2025-03-19 03:10:34 +0000"
     },
     "done": true
   },
@@ -22442,6 +22460,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-19 03:09:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_cyan_dye": "2025-03-19 02:40:36 +0000"
@@ -22544,6 +22568,12 @@
     },
     "done": true
   },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2025-03-19 03:10:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-19 02:01:43 +0000"
@@ -22598,6 +22628,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-19 03:09:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
     "criteria": {
       "has_cyan_dye": "2025-03-19 02:40:36 +0000"
@@ -22619,6 +22655,12 @@
   "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
       "has_item": "2025-03-19 02:56:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/corporea_spark": {
+    "criteria": {
+      "has_item": "2025-03-19 03:10:34 +0000"
     },
     "done": true
   },
@@ -22856,6 +22898,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/red_string_alt": {
+    "criteria": {
+      "has_item": "2025-03-19 03:10:34 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/light_blue_industrial_lamp": {
     "criteria": {
       "has_light_blue_industrial_lamp": "2025-03-19 02:41:27 +0000"
@@ -22871,6 +22919,12 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-19 02:01:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spawner_claw": {
+    "criteria": {
+      "has_item": "2025-03-19 03:10:34 +0000"
     },
     "done": true
   },
