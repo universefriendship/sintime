@@ -5210,6 +5210,7 @@
       "cooked_mutton": "2025-03-14 22:51:35 +0000",
       "cooked_beef": "2025-03-14 21:29:37 +0000",
       "baked_potato": "2025-03-14 23:11:58 +0000",
+      "beef": "2025-03-19 00:23:08 +0000",
       "mutton": "2025-03-18 22:53:56 +0000",
       "bread": "2025-03-14 22:28:33 +0000",
       "golden_apple": "2025-03-18 22:53:46 +0000",
@@ -15885,6 +15886,12 @@
     },
     "done": true
   },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-03-19 00:27:37 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/rupee_helmet": {
     "criteria": {
       "has_rupee_ingot": "2025-03-19 00:17:08 +0000"
@@ -15963,6 +15970,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-19 00:29:13 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-03-18 23:35:59 +0000"
@@ -15990,6 +16003,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-18 23:44:18 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_planks": {
+    "criteria": {
+      "has_logs": "2025-03-19 00:29:08 +0000"
     },
     "done": true
   },
@@ -16038,6 +16057,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-18 23:44:18 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-19 00:29:13 +0000"
     },
     "done": true
   },
@@ -16101,6 +16126,18 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-19 00:29:13 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_door": {
+    "criteria": {
+      "has_planks": "2025-03-19 00:29:13 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/rupee_rapier": {
     "criteria": {
       "has_rupee_ingot": "2025-03-19 00:17:08 +0000"
@@ -16140,6 +16177,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-18 23:44:18 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_button": {
+    "criteria": {
+      "has_planks": "2025-03-19 00:29:13 +0000"
     },
     "done": true
   },
@@ -16245,6 +16288,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_wood": {
+    "criteria": {
+      "has_log": "2025-03-19 00:29:08 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shapeless/shadow_bar": {
     "criteria": {
       "has_rupee": "2025-03-19 00:17:08 +0000"
@@ -16302,6 +16351,12 @@
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2025-03-18 23:19:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/ecologics/sign_post_coconut": {
+    "criteria": {
+      "has_item": "2025-03-19 00:29:13 +0000"
     },
     "done": true
   },
@@ -16371,6 +16426,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_slab": {
+    "criteria": {
+      "has_planks": "2025-03-19 00:29:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
       "has_the_recipe": "2025-03-18 23:19:49 +0000"
@@ -16398,6 +16459,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-03-18 22:55:42 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-19 00:29:13 +0000"
     },
     "done": true
   },
@@ -16434,6 +16501,24 @@
   "divinerpg:recipes/shaped/rupee_shield": {
     "criteria": {
       "has_ingot": "2025-03-19 00:17:08 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_sign": {
+    "criteria": {
+      "has_planks": "2025-03-19 00:29:13 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_fence": {
+    "criteria": {
+      "has_planks": "2025-03-19 00:29:13 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/coconut_curry_no_ginger": {
+    "criteria": {
+      "has_coconut": "2025-03-19 00:29:09 +0000"
     },
     "done": true
   },

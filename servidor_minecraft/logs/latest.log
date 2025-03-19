@@ -42,3 +42,61 @@
 [19Mar2025 00:19:11.870] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/243001, l='ServerLevel[world]', x=-195.50, y=74.00, z=913.50]
 [19Mar2025 00:19:14.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 was blown up by Mutant Creeper
 [19Mar2025 00:19:19.706] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Mar2025 00:23:35.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.221.161.189:58745] logged in with entity id 261936 at (56.265056615653094, 34.0, 666.2229992876667)
+[19Mar2025 00:23:35.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[19Mar2025 00:23:35.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[19Mar2025 00:23:35.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[19Mar2025 00:23:35.058] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[19Mar2025 00:23:35.061] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[19Mar2025 00:23:35.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[19Mar2025 00:23:35.064] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[19Mar2025 00:23:35.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[19Mar2025 00:23:35.189] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[19Mar2025 00:23:36.649] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[19Mar2025 00:23:36.650] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[19Mar2025 00:23:47.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 00:23:48.195] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 00:23:48.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[19Mar2025 00:24:36.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> OLA ZORRAS
+[19Mar2025 00:24:47.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> unete al grupo
+[19Mar2025 00:25:07.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [You da Bomby]
+[19Mar2025 00:25:49.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> MESCICHASN?
+[19Mar2025 00:25:56.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> no
+[19Mar2025 00:26:05.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> a
+[19Mar2025 00:26:06.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[19Mar2025 00:26:06.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[19Mar2025 00:26:06.352] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[19Mar2025 00:27:37.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Smashing Success]
+[19Mar2025 00:28:40.622] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281595, l='ServerLevel[world]', x=-126.50, y=72.00, z=856.50]
+[19Mar2025 00:29:00.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.221.161.189:41655] logged in with entity id 282755 at (35.301870091499964, 67.0, 599.9989317094513)
+[19Mar2025 00:29:00.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[19Mar2025 00:29:00.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[19Mar2025 00:29:00.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[19Mar2025 00:29:00.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[19Mar2025 00:29:00.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[19Mar2025 00:29:00.802] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[19Mar2025 00:29:00.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[19Mar2025 00:29:00.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[19Mar2025 00:29:00.919] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[19Mar2025 00:29:01.431] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[19Mar2025 00:29:01.431] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[19Mar2025 00:29:08.201] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/283519, l='ServerLevel[world]', x=-55.50, y=70.00, z=890.50]
+[19Mar2025 00:29:18.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 00:29:19.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 00:29:19.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[19Mar2025 00:30:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Mine? Mine? Mine?]
+[19Mar2025 00:30:40.466] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/293416, l='ServerLevel[world]', x=-189.50, y=75.00, z=898.50]
+[19Mar2025 00:30:55.370] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/295089, l='ServerLevel[world]', x=-201.50, y=76.00, z=894.50]
+[19Mar2025 00:30:58.823] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/295470, l='ServerLevel[world]', x=-194.50, y=74.00, z=911.50]
+[19Mar2025 00:31:03.570] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/296017, l='ServerLevel[world]', x=-214.50, y=72.00, z=897.50]
+[19Mar2025 00:31:03.722] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/296034, l='ServerLevel[world]', x=-187.50, y=75.00, z=900.50]
+[19Mar2025 00:31:08.121] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/296514, l='ServerLevel[world]', x=-182.50, y=72.00, z=1003.50]
+[19Mar2025 00:31:22.224] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/298095, l='ServerLevel[world]', x=-214.50, y=71.00, z=963.50]
+[19Mar2025 00:31:23.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[19Mar2025 00:31:23.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[19Mar2025 00:31:23.045] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[19Mar2025 00:31:44.871] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/300597, l='ServerLevel[world]', x=-195.50, y=74.00, z=911.50]
+[19Mar2025 00:32:54.421] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/308671, l='ServerLevel[world]', x=-187.50, y=75.00, z=898.50]
+[19Mar2025 00:32:56.167] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/308861, l='ServerLevel[world]', x=-181.50, y=72.00, z=1003.50]
+[19Mar2025 00:33:24.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/311995, l='ServerLevel[world]', x=-181.50, y=74.00, z=872.50]
+[19Mar2025 00:33:25.624] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/312122, l='ServerLevel[world]', x=-158.50, y=71.00, z=1001.50]

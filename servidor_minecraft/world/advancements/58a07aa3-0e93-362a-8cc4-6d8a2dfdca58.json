@@ -20969,6 +20969,114 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-03-18 16:52:35 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-03-18 16:52:58 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-03-18 16:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-03-18 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-18 17:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-18 17:02:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-18 17:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-03-18 17:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-18 17:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-18 17:20:22 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-18 17:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-18 17:20:22 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:catacomb": {
+    "criteria": {
+      "in_catacomb": "2025-03-18 17:47:47 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:explore_structures": {
+    "criteria": {
+      "in_catacomb": "2025-03-18 17:47:47 +0000"
+    },
+    "done": false
+  },
+  "new_slab_variants:recipes/building_blocks/chiseled_polished_blackstone_slab": {
+    "criteria": {
+      "has_chiseled_polished_blackstone": "2025-03-18 17:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-18 17:54:36 +0000"
@@ -20980,19 +21088,6 @@
       "has_netherite_ingot": "2025-03-18 17:54:36 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-03-18 17:20:22 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_piglins": {
-    "criteria": {
-      "nova_structures:piglin_outstation": "2025-03-18 18:02:37 +0000",
-      "nova_structures:piglin_camp": "2025-03-18 17:59:55 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/tools/netherite_machete_smithing": {
     "criteria": {
@@ -21012,75 +21107,15 @@
     },
     "done": true
   },
-  "nova_structures:nether/find_piglin_outpost": {
-    "criteria": {
-      "nova_structures:piglin_outstation": "2025-03-18 18:02:37 +0000"
-    },
-    "done": true
-  },
-  "bygonenether:catacomb": {
-    "criteria": {
-      "in_catacomb": "2025-03-18 17:47:47 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:archmage_spell_book": {
-    "criteria": {
-      "has_archmage_spell_book": "2025-03-18 18:04:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-03-18 17:57:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/prism": {
-    "criteria": {
-      "has_item": "2025-03-18 18:06:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-18 17:54:36 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-03-18 17:02:15 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/cracked_polished_blackstone_bricks_slab": {
-    "criteria": {
-      "has_cracked_polished_blackstone_bricks": "2025-03-18 17:56:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-03-18 17:02:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_brush_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-18 17:54:36 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2025-03-18 17:57:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-03-18 18:09:54 +0000"
     },
     "done": true
   },
@@ -21102,51 +21137,15 @@
     },
     "done": true
   },
-  "bygonenether:explore_structures": {
-    "criteria": {
-      "in_catacomb": "2025-03-18 17:47:47 +0000"
-    },
-    "done": false
-  },
   "galosphere:recipes/combat/sterling_boots_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-03-18 17:54:36 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-03-18 16:52:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-03-18 17:01:06 +0000"
-    },
-    "done": true
-  },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2025-03-18 16:53:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-03-18 17:20:22 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/combat/sterling_horse_armor_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-03-18 17:54:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-03-18 17:01:06 +0000"
     },
     "done": true
   },
@@ -21168,54 +21167,6 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
-    "criteria": {
-      "has_ancient_debris": "2025-03-18 17:20:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/codebreaker": {
-    "criteria": {
-      "has_nether_star": "2025-03-18 17:57:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-03-18 17:15:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-03-18 17:56:29 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/tackle_box": {
-    "criteria": {
-      "has_items": "2025-03-18 18:09:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-03-18 18:09:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-03-18 18:09:54 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-03-18 18:06:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-18 17:54:36 +0000"
@@ -21231,18 +21182,6 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-03-18 17:54:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-03-18 18:06:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-03-18 17:20:22 +0000"
     },
     "done": true
   },
@@ -21264,18 +21203,6 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/chiseled_polished_blackstone_slab": {
-    "criteria": {
-      "has_chiseled_polished_blackstone": "2025-03-18 17:54:02 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/stone_sword_repairing": {
-    "criteria": {
-      "has_stone_sword": "2025-03-18 17:01:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-18 17:54:36 +0000"
@@ -21294,9 +21221,33 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/wither": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-03-18 17:02:15 +0000"
+      "summoned": "2025-03-18 17:56:29 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_polished_blackstone_bricks_slab": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2025-03-18 17:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-18 17:57:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-03-18 17:57:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-03-18 17:57:25 +0000"
     },
     "done": true
   },
@@ -21306,15 +21257,64 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/nether": {
+  "nova_structures:nether/find_piglins": {
     "criteria": {
-      "has_nether_wart": "2025-03-18 17:01:06 +0000"
+      "nova_structures:piglin_outstation": "2025-03-18 18:02:37 +0000",
+      "nova_structures:piglin_camp": "2025-03-18 17:59:55 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_piglin_outpost": {
+    "criteria": {
+      "nova_structures:piglin_outstation": "2025-03-18 18:02:37 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+  "ars_nouveau:archmage_spell_book": {
     "criteria": {
-      "has_silver_nugget": "2025-03-18 16:52:58 +0000"
+      "has_archmage_spell_book": "2025-03-18 18:04:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-03-18 18:06:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-18 18:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-18 18:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-18 18:09:54 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-03-18 18:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-18 18:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-18 18:09:54 +0000"
     },
     "done": true
   },
