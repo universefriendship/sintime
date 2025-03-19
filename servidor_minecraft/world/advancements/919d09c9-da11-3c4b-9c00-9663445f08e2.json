@@ -16161,6 +16161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-18 23:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-18 23:35:59 +0000"
@@ -16182,6 +16188,12 @@
   "mca:grow_child": {
     "criteria": {
       "baby": "2025-03-18 23:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-18 23:59:35 +0000"
     },
     "done": true
   },

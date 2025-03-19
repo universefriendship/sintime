@@ -21306,9 +21306,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_cyan_double": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:15 +0000"
     },
     "done": true
   },
@@ -21342,6 +21354,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_hydroangeas": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-18 23:07:07 +0000"
@@ -21357,6 +21375,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
     "criteria": {
       "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_blue": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:10 +0000"
     },
     "done": true
   },
@@ -21399,6 +21423,12 @@
   "create_dd:recipes/create_dd.palettes/crafting/decor/yellow_blueprint_block_from_yellow_dye": {
     "criteria": {
       "has_dyed_item": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_cyan": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:15 +0000"
     },
     "done": true
   },
@@ -21468,6 +21498,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-18 23:07:07 +0000"
@@ -21480,6 +21522,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_blue_double": {
+    "criteria": {
+      "has_alt_item": "2025-03-19 00:03:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/yellow_bowl": {
     "criteria": {
       "has_yellow_bowl": "2025-03-18 23:07:07 +0000"
@@ -21489,6 +21537,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
     "criteria": {
       "has_yellow_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:01 +0000"
     },
     "done": true
   },
@@ -21558,6 +21612,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-18 23:38:08 +0000"
@@ -21579,6 +21639,12 @@
   "refurbished_furniture:recipes/decorations/yellow_toilet": {
     "criteria": {
       "has_dye": "2025-03-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-19 00:03:10 +0000"
     },
     "done": true
   },
