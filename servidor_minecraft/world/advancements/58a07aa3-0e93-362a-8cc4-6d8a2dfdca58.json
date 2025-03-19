@@ -21322,6 +21322,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-19 01:07:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-19 00:46:33 +0000"
@@ -21343,6 +21349,12 @@
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-03-19 00:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-19 01:07:05 +0000"
     },
     "done": true
   },
@@ -21424,6 +21436,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-19 01:07:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plate_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-19 00:46:33 +0000"
@@ -21487,6 +21505,12 @@
   "stoneworks:recipes/building_blocks/sandstone_shingle_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-19 00:46:33 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-19 01:07:05 +0000"
     },
     "done": true
   },
@@ -21781,6 +21805,12 @@
   "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-19 00:46:33 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-19 01:07:05 +0000"
     },
     "done": true
   },
