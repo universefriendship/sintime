@@ -21476,6 +21476,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-03-19 00:53:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/fertilizer_dye": {
     "criteria": {
       "has_the_recipe": "2025-03-18 23:07:54 +0000"
