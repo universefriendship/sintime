@@ -100,3 +100,116 @@
 [19Mar2025 00:32:56.167] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/308861, l='ServerLevel[world]', x=-181.50, y=72.00, z=1003.50]
 [19Mar2025 00:33:24.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/311995, l='ServerLevel[world]', x=-181.50, y=74.00, z=872.50]
 [19Mar2025 00:33:25.624] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/312122, l='ServerLevel[world]', x=-158.50, y=71.00, z=1001.50]
+[19Mar2025 00:33:54.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/315261, l='ServerLevel[world]', x=-203.50, y=76.00, z=894.50]
+[19Mar2025 00:33:57.868] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/315664, l='ServerLevel[world]', x=-214.50, y=73.00, z=915.50]
+[19Mar2025 00:34:00.423] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/315954, l='ServerLevel[world]', x=-203.50, y=76.00, z=892.50]
+[19Mar2025 00:34:14.369] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/317506, l='ServerLevel[world]', x=-193.50, y=74.00, z=912.50]
+[19Mar2025 00:34:56.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/322245, l='ServerLevel[world]', x=-196.50, y=69.00, z=1023.50]
+[19Mar2025 00:35:03.469] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/323044, l='ServerLevel[world]', x=-179.50, y=74.00, z=872.50]
+[19Mar2025 00:35:25.421] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/325474, l='ServerLevel[world]', x=-201.50, y=76.00, z=893.50]
+[19Mar2025 00:35:28.424] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/325803, l='ServerLevel[world]', x=-182.50, y=72.00, z=1001.50]
+[19Mar2025 00:35:29.367] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/325903, l='ServerLevel[world]', x=-215.50, y=71.00, z=963.50]
+[19Mar2025 00:35:32.769] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/326280, l='ServerLevel[world]', x=-160.50, y=70.00, z=1046.50]
+[19Mar2025 00:35:42.222] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/327329, l='ServerLevel[world]', x=-150.50, y=69.00, z=1049.50]
+[19Mar2025 00:35:48.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/327988, l='ServerLevel[world]', x=-213.50, y=71.00, z=963.50]
+[19Mar2025 00:35:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 was slain by Rotatick
+[19Mar2025 00:35:58.484] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Mar2025 00:36:09.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nifthy575 lost connection: Disconnected
+[19Mar2025 00:36:09.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 left the game
+[19Mar2025 00:36:09.682] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nifthy575
+[19Mar2025 00:38:14.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.221.161.189:45177] logged in with entity id 343832 at (-65.00777658101018, 67.0, 185.14154962505634)
+[19Mar2025 00:38:14.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[19Mar2025 00:38:14.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[19Mar2025 00:38:14.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[19Mar2025 00:38:14.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[19Mar2025 00:38:14.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[19Mar2025 00:38:14.649] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[19Mar2025 00:38:14.650] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[19Mar2025 00:38:14.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[19Mar2025 00:38:14.789] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[19Mar2025 00:38:17.546] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[19Mar2025 00:38:17.547] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[19Mar2025 00:38:26.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 00:38:27.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[19Mar2025 00:38:27.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[19Mar2025 00:40:51.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> [name:"Aqui", x:-167, y:-4, z:923, dim:minecraft:overworld]
+[19Mar2025 00:42:07.770] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/370694, l='ServerLevel[world]', x=-201.50, y=76.00, z=892.50]
+[19Mar2025 00:42:21.237] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-294, y=-29, z=1220}
+[19Mar2025 00:42:21.237] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-293, y=-28, z=1220}
+[19Mar2025 00:42:21.237] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-294, y=-29, z=1220}
+[19Mar2025 00:42:21.237] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-293, y=-28, z=1220}
+[19Mar2025 00:42:22.637] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-303, y=-29, z=1234}
+[19Mar2025 00:42:22.637] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-303, y=-29, z=1234}
+[19Mar2025 00:42:22.806] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-348, y=-32, z=1233}
+[19Mar2025 00:42:22.807] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-348, y=-32, z=1232}
+[19Mar2025 00:42:22.807] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-348, y=-31, z=1233}
+[19Mar2025 00:42:22.807] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-349, y=-31, z=1233}
+[19Mar2025 00:42:22.807] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-348, y=-32, z=1233}
+[19Mar2025 00:42:22.807] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-348, y=-32, z=1232}
+[19Mar2025 00:42:22.807] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-348, y=-31, z=1233}
+[19Mar2025 00:42:22.807] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-349, y=-31, z=1233}
+[19Mar2025 00:42:22.817] [Worker-Main-103/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/372875, l='ServerLevel[world]', x=-341.50, y=22.00, z=1247.50] as it would cause deadlock
+[19Mar2025 00:42:22.858] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-325, y=-31, z=1240}
+[19Mar2025 00:42:22.858] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-325, y=-31, z=1240}
+[19Mar2025 00:42:22.867] [Worker-Main-53/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/372886, l='ServerLevel[world]', x=-333.50, y=22.00, z=1247.50] as it would cause deadlock
+[19Mar2025 00:42:24.132] [Worker-Main-102/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/373052, l='ServerLevel[world]', x=-357.50, y=22.00, z=1251.50] as it would cause deadlock
+[19Mar2025 00:42:24.149] [Worker-Main-53/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/373054, l='ServerLevel[world]', x=-331.50, y=-53.00, z=1257.50] as it would cause deadlock
+[19Mar2025 00:42:24.173] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/373070, l='ServerLevel[world]', x=-339.50, y=-53.00, z=1257.50] as it would cause deadlock
+[19Mar2025 00:42:25.598] [Worker-Main-103/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/373296, l='ServerLevel[world]', x=-333.50, y=22.00, z=1272.50] as it would cause deadlock
+[19Mar2025 00:42:25.779] [Worker-Main-103/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/373314, l='ServerLevel[world]', x=-341.50, y=22.00, z=1272.50] as it would cause deadlock
+[19Mar2025 00:42:26.234] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-294, y=-60, z=1281}
+[19Mar2025 00:42:26.235] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-294, y=-60, z=1282}
+[19Mar2025 00:42:26.235] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-294, y=-60, z=1281}
+[19Mar2025 00:42:26.235] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-294, y=-60, z=1282}
+[19Mar2025 00:42:36.001] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-270, y=-5, z=1434}
+[19Mar2025 00:42:36.001] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-271, y=-5, z=1434}
+[19Mar2025 00:42:38.855] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-276, y=-8, z=1456}
+[19Mar2025 00:42:42.731] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-328, y=-29, z=1396}
+[19Mar2025 00:42:42.731] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-328, y=-28, z=1398}
+[19Mar2025 00:42:42.731] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-328, y=-29, z=1396}
+[19Mar2025 00:42:42.732] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-328, y=-28, z=1398}
+[19Mar2025 00:42:46.435] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-339, y=21, z=1333}
+[19Mar2025 00:42:46.435] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-338, y=21, z=1334}
+[19Mar2025 00:42:46.435] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-338, y=22, z=1333}
+[19Mar2025 00:42:46.436] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-339, y=21, z=1333}
+[19Mar2025 00:42:46.436] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-338, y=21, z=1334}
+[19Mar2025 00:42:46.436] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-338, y=22, z=1333}
+[19Mar2025 00:42:46.437] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-351, y=8, z=1336}
+[19Mar2025 00:42:46.437] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-350, y=9, z=1336}
+[19Mar2025 00:42:46.437] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-351, y=8, z=1336}
+[19Mar2025 00:42:46.437] [Worker-Main-102/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-350, y=9, z=1336}
+[19Mar2025 00:42:46.496] [Worker-Main-136/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/377218, l='ServerLevel[world]', x=-340.50, y=-3.00, z=1325.50] as it would cause deadlock
+[19Mar2025 00:42:49.132] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-375, y=-29, z=1318}
+[19Mar2025 00:42:49.133] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-375, y=-29, z=1318}
+[19Mar2025 00:42:52.654] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-409, y=-11, z=1207}
+[19Mar2025 00:42:52.655] [Worker-Main-103/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-409, y=-11, z=1207}
+[19Mar2025 00:42:53.245] [Worker-Main-136/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/378748, l='ServerLevel[world]', x=-428.50, y=-3.00, z=1240.50] as it would cause deadlock
+[19Mar2025 00:42:53.313] [Worker-Main-136/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-426, y=-54, z=1211}
+[19Mar2025 00:42:53.313] [Worker-Main-136/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-426, y=-54, z=1213}
+[19Mar2025 00:42:53.314] [Worker-Main-136/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-426, y=-53, z=1212}
+[19Mar2025 00:42:53.314] [Worker-Main-136/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-426, y=-54, z=1211}
+[19Mar2025 00:42:53.314] [Worker-Main-136/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-426, y=-54, z=1213}
+[19Mar2025 00:42:53.314] [Worker-Main-136/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-426, y=-53, z=1212}
+[19Mar2025 00:42:54.905] [Worker-Main-53/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/379053, l='ServerLevel[world]', x=-436.50, y=-3.00, z=1240.50] as it would cause deadlock
+[19Mar2025 00:42:55.331] [Worker-Main-102/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/379164, l='ServerLevel[world]', x=-432.50, y=-53.00, z=1191.50] as it would cause deadlock
+[19Mar2025 00:43:10.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> q paso
+[19Mar2025 00:43:38.751] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-202, y=-29, z=1735}
+[19Mar2025 00:43:42.765] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-49, y=13, z=1617}
+[19Mar2025 00:43:42.765] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-49, y=13, z=1615}
+[19Mar2025 00:43:44.404] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-132, y=-19, z=1810}
+[19Mar2025 00:43:44.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-130, y=-19, z=1810}
+[19Mar2025 00:43:44.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Bewitched]
+[19Mar2025 00:45:15.783] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/393572, l='ServerLevel[world]', x=-126.50, y=72.00, z=854.50]
+[19Mar2025 00:45:40.632] [Worker-Main-135/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[19Mar2025 00:45:43.072] [Worker-Main-133/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[19Mar2025 00:45:48.883] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/394393, l='ServerLevel[world]', x=-123.50, y=74.00, z=844.50]
+[19Mar2025 00:45:49.865] [Worker-Main-133/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[19Mar2025 00:45:55.283] [Worker-Main-133/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[19Mar2025 00:48:51.221] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/396920, l='ServerLevel[world]', x=-181.50, y=72.00, z=1002.50]
+[19Mar2025 00:49:35.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[19Mar2025 00:49:41.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[19Mar2025 00:51:20.668] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/399688, l='ServerLevel[world]', x=-157.50, y=71.00, z=1001.50]
+[19Mar2025 00:51:50.124] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/400054, l='ServerLevel[world]', x=-162.50, y=70.00, z=1047.50]
+[19Mar2025 00:51:55.970] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/400095, l='ServerLevel[world]', x=-161.50, y=70.00, z=1045.50]
+[19Mar2025 00:51:58.423] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/400143, l='ServerLevel[world]', x=-148.50, y=78.00, z=863.50]
+[19Mar2025 00:53:01.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/400859, l='ServerLevel[world]', x=-194.50, y=69.00, z=1023.50]

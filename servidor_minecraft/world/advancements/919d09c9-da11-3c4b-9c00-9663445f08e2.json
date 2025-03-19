@@ -15886,6 +15886,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:loot_vase_broken": {
     "criteria": {
       "criteria": "2025-03-19 00:27:37 +0000"
@@ -15907,6 +15925,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-18 23:35:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-03-19 00:30:42 +0000"
     },
     "done": true
   },
@@ -16132,6 +16156,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_door": {
     "criteria": {
       "has_planks": "2025-03-19 00:29:13 +0000"
@@ -16156,9 +16186,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_leggings": {
     "criteria": {
       "has_item": "2025-03-18 23:48:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-19 00:30:15 +0000"
     },
     "done": true
   },
@@ -16189,6 +16231,12 @@
   "new_slab_variants:recipes/building_blocks/moss_block_slab": {
     "criteria": {
       "has_moss_block": "2025-03-18 23:28:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
     },
     "done": true
   },
@@ -16270,6 +16318,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-18 23:44:18 +0000"
@@ -16291,6 +16351,12 @@
   "ecologics:recipes/ecologics/coconut_wood": {
     "criteria": {
       "has_log": "2025-03-19 00:29:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
     },
     "done": true
   },
@@ -16318,9 +16384,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-03-18 23:35:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
     },
     "done": true
   },
@@ -16372,6 +16450,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-03-18 23:19:42 +0000"
@@ -16396,6 +16480,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/rupee_axe": {
     "criteria": {
       "has_ingot": "2025-03-19 00:17:08 +0000"
@@ -16411,6 +16501,12 @@
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
       "has_item": "2025-03-18 23:19:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
     },
     "done": true
   },
@@ -16468,6 +16564,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/surface_moss": {
     "criteria": {
       "has_moss_block": "2025-03-18 23:28:53 +0000"
@@ -16522,6 +16636,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/rupee_hoe": {
     "criteria": {
       "has_ingot": "2025-03-19 00:17:08 +0000"
@@ -16531,6 +16651,12 @@
   "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
       "has_iron_block": "2025-03-18 23:19:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-03-19 00:30:42 +0000"
     },
     "done": true
   },
