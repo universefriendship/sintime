@@ -55,3 +55,7 @@
 [20Mar2025 01:14:41.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 left the game
 [20Mar2025 01:14:41.132] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nifthy575
 [20Mar2025 01:19:40.229] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
+[20Mar2025 01:25:20.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement ['Til Death Do Us Part]
+[20Mar2025 01:25:28.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has completed the challenge [Best Friends]
+[20Mar2025 01:27:58.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Next Generation]
+[20Mar2025 01:28:55.657] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
