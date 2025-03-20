@@ -21,3 +21,10 @@
 [20Mar2025 00:08:29.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [20Mar2025 00:08:30.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [20Mar2025 00:08:30.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[20Mar2025 00:26:58.032] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
+[20Mar2025 00:27:45.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Mar2025 00:27:51.657] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/263684, l='ServerLevel[world]', x=691.50, y=74.00, z=232.50]
+[20Mar2025 00:28:00.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[20Mar2025 00:28:29.221] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/263868, l='ServerLevel[world]', x=689.50, y=77.00, z=241.50]
+[20Mar2025 00:28:46.379] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/263956, l='ServerLevel[world]', x=690.50, y=77.00, z=241.50]
+[20Mar2025 00:30:33.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6824ms or 136 ticks behind
