@@ -31,3 +31,7 @@
 [20Mar2025 00:31:13.150] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
 [20Mar2025 00:40:08.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [20Mar2025 00:40:17.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The Imperial March]
+[20Mar2025 00:41:09.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 2.547632854043627,-9.5,3.6481437149366798
+[20Mar2025 00:42:07.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Mar2025 00:42:27.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [The Imperial March]
+[20Mar2025 00:46:38.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has completed the challenge [Serious Dedication]
