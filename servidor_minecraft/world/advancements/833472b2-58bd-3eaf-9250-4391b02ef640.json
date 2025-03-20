@@ -13312,6 +13312,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-03-10 17:21:56 +0000",
+      "entered_pillager_camp": "2025-03-20 00:34:12 +0000",
       "entered_deep_crypt": "2025-03-11 16:15:59 +0000",
       "entered_ruined_building": "2025-03-18 03:20:35 +0000"
     },
@@ -22325,9 +22326,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-03-20 00:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/smoker/hot_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin_pie": "2025-03-20 00:30:39 +0000"
     },
     "done": true
   },
@@ -22361,6 +22374,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-03-20 00:37:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-03-19 23:43:02 +0000"
@@ -22382,6 +22401,12 @@
   "divinerpg:recipes/shaped/molten_stone": {
     "criteria": {
       "has_shards": "2025-03-19 23:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-03-20 00:37:23 +0000"
     },
     "done": true
   },
@@ -22409,6 +22434,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-20 00:37:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-03-19 23:43:02 +0000"
@@ -22424,6 +22455,12 @@
   "botania:recipes/redstone/red_string_dispenser": {
     "criteria": {
       "has_base_block": "2025-03-19 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-03-20 00:37:23 +0000"
     },
     "done": true
   },
@@ -22463,9 +22500,21 @@
     },
     "done": true
   },
+  "divinerpg:recipes/furnace/hot_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin_pie": "2025-03-20 00:30:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/ender_eye_block": {
     "criteria": {
       "has_item": "2025-03-19 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-20 00:37:04 +0000"
     },
     "done": true
   },
@@ -22481,9 +22530,21 @@
     },
     "done": true
   },
+  "divinerpg:recipes/campfire/hot_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin_pie": "2025-03-20 00:30:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-19 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-03-20 00:37:04 +0000"
     },
     "done": true
   },

@@ -28,3 +28,6 @@
 [20Mar2025 00:28:29.221] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/263868, l='ServerLevel[world]', x=689.50, y=77.00, z=241.50]
 [20Mar2025 00:28:46.379] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/263956, l='ServerLevel[world]', x=690.50, y=77.00, z=241.50]
 [20Mar2025 00:30:33.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6824ms or 136 ticks behind
+[20Mar2025 00:31:13.150] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
+[20Mar2025 00:40:08.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Mar2025 00:40:17.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The Imperial March]
