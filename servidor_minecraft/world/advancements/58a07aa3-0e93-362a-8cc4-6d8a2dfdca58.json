@@ -23048,5 +23048,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-03-20 00:14:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
