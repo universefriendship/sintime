@@ -17257,9 +17257,105 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/realmite_chestplate": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_pickaxe": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_shovel": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_shield": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/golden_pickaxe_repairing": {
     "criteria": {
       "has_golden_pickaxe": "2025-03-19 23:47:19 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_leggings": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_hoe": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_block": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_sword": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_axe": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/palavence": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_bricks": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/realmite_nugget": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_boots": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_lamp": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_helmet": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-19 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_minibricks": {
+    "criteria": {
+      "has_ingot": "2025-03-19 23:49:53 +0000"
     },
     "done": true
   },
