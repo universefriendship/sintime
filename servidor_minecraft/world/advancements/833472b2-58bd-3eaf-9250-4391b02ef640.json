@@ -3024,6 +3024,7 @@
       "minecraft:creeper": "2025-03-10 02:07:03 +0000",
       "minecraft:evoker": "2025-03-14 22:58:33 +0000",
       "minecraft:slime": "2025-03-20 00:46:03 +0000",
+      "minecraft:phantom": "2025-03-20 00:50:18 +0000",
       "minecraft:witch": "2025-03-11 03:37:41 +0000",
       "minecraft:wither_skeleton": "2025-03-10 17:48:31 +0000",
       "minecraft:husk": "2025-03-18 01:16:32 +0000",
@@ -22382,6 +22383,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-03-20 00:57:10 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_seat": {
     "criteria": {
       "has_plank": "2025-03-20 00:47:47 +0000"
@@ -22469,6 +22476,12 @@
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2025-03-20 00:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-20 00:57:10 +0000"
     },
     "done": true
   },
@@ -22565,6 +22578,12 @@
   "supplementaries:recipes/dispenser_minecart": {
     "criteria": {
       "has_dispenser": "2025-03-19 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gray_flag": {
+    "criteria": {
+      "has_gray_flag": "2025-03-20 00:57:10 +0000"
     },
     "done": true
   },
@@ -22706,6 +22725,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-03-20 00:57:10 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_dispenser": {
     "criteria": {
       "has_base_block": "2025-03-19 23:32:10 +0000"
@@ -22802,15 +22827,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-20 00:57:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/netherite_hoe_repairing": {
     "criteria": {
       "has_netherite_hoe": "2025-03-20 00:46:38 +0000"
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/gray_wool_slab": {
+    "criteria": {
+      "has_gray_wool": "2025-03-20 00:57:10 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite": {
     "criteria": {
       "has_netherite_ingot": "2025-03-20 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-03-20 00:57:10 +0000"
     },
     "done": true
   },
@@ -22880,6 +22923,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-03-20 00:57:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
     "criteria": {
       "has_birch_planks": "2025-03-20 00:47:47 +0000"
@@ -22909,6 +22958,12 @@
       "netherite_hoe": "2025-03-20 00:46:38 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-20 00:50:18 +0000"
+    },
+    "done": false
   },
   "mca:recipes/decorations/orange_birch_crib": {
     "criteria": {
@@ -23024,6 +23079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-20 00:57:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-20 00:37:04 +0000"
@@ -23099,6 +23160,12 @@
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-03-20 00:43:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-03-20 00:57:10 +0000"
     },
     "done": true
   },

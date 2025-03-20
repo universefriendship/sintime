@@ -35,3 +35,11 @@
 [20Mar2025 00:42:07.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
 [20Mar2025 00:42:27.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [The Imperial March]
 [20Mar2025 00:46:38.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has completed the challenge [Serious Dedication]
+[20Mar2025 00:51:40.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 1.4928640887762867,-9.933628851548008,1.400664407370897
+[20Mar2025 00:56:42.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 0.0063808556540152495,-10.23207995552957,-0.2510462278670502
+[20Mar2025 00:59:58.906] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
+[20Mar2025 01:01:03.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> gente dequi vengo
+[20Mar2025 01:01:04.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[20Mar2025 01:01:04.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[20Mar2025 01:01:04.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[20Mar2025 01:01:27.663] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
