@@ -22551,6 +22551,12 @@
     },
     "done": true
   },
+  "mca:adventure/scythe_revive": {
+    "criteria": {
+      "iron": "2025-03-20 01:14:02 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-03-20 00:47:47 +0000"
