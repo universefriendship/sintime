@@ -43,3 +43,7 @@
 [20Mar2025 01:01:04.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
 [20Mar2025 01:01:04.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
 [20Mar2025 01:01:27.663] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
+[20Mar2025 01:02:33.388] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
+[20Mar2025 01:02:47.764] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/235, l='ServerLevel[world]', x=-123.50, y=67.00, z=160.50, removed=DISCARDED]
+[20Mar2025 01:04:02.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Krzysztof'/218, l='ServerLevel[world]', x=-64.25, y=68.00, z=154.36] died, message: 'Krzysztof (Following) was slain by Vindicator'
+[20Mar2025 01:04:02.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Krzysztof'/218, l='ServerLevel[world]', x=-64.25, y=68.00, z=154.36] died: Krzysztof (Following) was slain by Vindicator
