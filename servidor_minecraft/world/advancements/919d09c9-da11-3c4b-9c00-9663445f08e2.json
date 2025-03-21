@@ -7631,7 +7631,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-03-14 21:56:22 +0000",
-      "opened_chest": "2025-03-14 21:56:05 +0000"
+      "opened_chest": "2025-03-14 21:56:05 +0000",
+      "opened_cart": "2025-03-21 02:40:15 +0000"
     },
     "done": false
   },
@@ -17369,6 +17370,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-03-21 02:00:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-03-21 02:40:15 +0000"
     },
     "done": true
   },
