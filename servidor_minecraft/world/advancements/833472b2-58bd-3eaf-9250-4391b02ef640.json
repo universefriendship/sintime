@@ -19701,7 +19701,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-03-17 23:44:08 +0000"
+      "minecraft:crimson_forest": "2025-03-21 16:50:16 +0000",
+      "minecraft:nether_wastes": "2025-03-17 23:44:08 +0000",
+      "minecraft:soul_sand_valley": "2025-03-21 16:51:24 +0000"
     },
     "done": false
   },
@@ -23672,6 +23674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-21 16:57:55 +0000"
+    },
+    "done": true
+  },
   "botania:main/mana_blaster_shoot": {
     "criteria": {
       "shoot": "2025-03-21 15:12:36 +0000"
@@ -23684,9 +23692,21 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-03-21 16:58:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-03-21 16:03:56 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-03-21 16:58:10 +0000"
     },
     "done": true
   },
@@ -23699,6 +23719,12 @@
   "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
     "criteria": {
       "has_cooked_rabbit": "2025-03-21 16:03:56 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:catacomb": {
+    "criteria": {
+      "in_catacomb": "2025-03-21 16:53:09 +0000"
     },
     "done": true
   },
@@ -23732,6 +23758,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/cracked_polished_blackstone_bricks_slab": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2025-03-21 16:52:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-03-21 16:23:43 +0000"
@@ -23744,6 +23776,12 @@
     },
     "done": true
   },
+  "bygonenether:explore_structures": {
+    "criteria": {
+      "in_catacomb": "2025-03-21 16:53:09 +0000"
+    },
+    "done": false
+  },
   "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
     "criteria": {
       "has_cooked_rabbit": "2025-03-21 16:03:56 +0000"
@@ -23753,6 +23791,12 @@
   "smallships:recipes/combat/cannon": {
     "criteria": {
       "has_the_recipe": "2025-03-21 15:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-21 16:57:55 +0000"
     },
     "done": true
   },
@@ -23795,6 +23839,12 @@
   "exposure:recipes/tools/black_and_white_film": {
     "criteria": {
       "has_camera": "2025-03-21 15:36:17 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-21 16:57:55 +0000"
     },
     "done": true
   },
@@ -23858,6 +23908,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-21 16:57:55 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/recipe_archeology_table": {
     "criteria": {
       "has_item": "2025-03-21 15:32:53 +0000"
@@ -23873,6 +23929,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-03-21 16:23:43 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-03-21 16:57:37 +0000"
     },
     "done": true
   },
