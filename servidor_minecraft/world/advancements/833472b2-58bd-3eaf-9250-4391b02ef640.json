@@ -23662,6 +23662,12 @@
     },
     "done": true
   },
+  "botania:main/mana_blaster_shoot": {
+    "criteria": {
+      "shoot": "2025-03-21 15:12:36 +0000"
+    },
+    "done": true
+  },
   "botania:main/elf_portal_open": {
     "criteria": {
       "portal": "2025-03-21 15:03:09 +0000"

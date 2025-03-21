@@ -4181,3 +4181,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Mar2025 14:45:26.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 833472b2-58bd-3eaf-9250-4391b02ef640
 [21Mar2025 14:45:26.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640) successfully connected to voice chat
 [21Mar2025 15:03:09.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [World Calling]
+[21Mar2025 15:12:36.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [M'aider Stranded Girl]
+[21Mar2025 15:18:51.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nifthy575[/127.63.103.119:47275] logged in with entity id 248579 at (-78.11373701314054, 66.9375, 163.09412244089197)
+[21Mar2025 15:18:51.942] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nifthy575
+[21Mar2025 15:18:51.943] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nifthy575
+[21Mar2025 15:18:51.943] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nifthy575
+[21Mar2025 15:18:51.944] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nifthy575
+[21Mar2025 15:18:51.947] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nifthy575
+[21Mar2025 15:18:51.949] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nifthy575
+[21Mar2025 15:18:51.949] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nifthy575
+[21Mar2025 15:18:52.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 joined the game
+[21Mar2025 15:18:52.138] [Server thread/INFO] [Jade/]: Syncing config to Nifthy575 (919d09c9-da11-3c4b-9c00-9663445f08e2)
+[21Mar2025 15:18:55.763] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nifthy575 (18)
+[21Mar2025 15:18:55.764] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nifthy575
+[21Mar2025 15:19:09.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 919d09c9-da11-3c4b-9c00-9663445f08e2
+[21Mar2025 15:19:10.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 919d09c9-da11-3c4b-9c00-9663445f08e2
+[21Mar2025 15:19:10.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nifthy575 (919d09c9-da11-3c4b-9c00-9663445f08e2) successfully connected to voice chat
+[21Mar2025 15:20:33.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzz
+[21Mar2025 15:20:48.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzzzzzzzzzzz
+[21Mar2025 15:20:59.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> crea un grupo
