@@ -23666,6 +23666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-03-21 16:21:15 +0000"
+    },
+    "done": true
+  },
   "botania:main/mana_blaster_shoot": {
     "criteria": {
       "shoot": "2025-03-21 15:12:36 +0000"
@@ -23702,6 +23708,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/blue_concrete_slab": {
+    "criteria": {
+      "has_blue_concrete": "2025-03-21 16:21:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
@@ -23711,6 +23723,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-21 16:23:43 +0000"
     },
     "done": true
   },
@@ -23729,6 +23747,18 @@
   "smallships:recipes/combat/cannon": {
     "criteria": {
       "has_the_recipe": "2025-03-21 15:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-03-21 16:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-21 16:23:43 +0000"
     },
     "done": true
   },
@@ -23762,6 +23792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-03-21 16:21:15 +0000"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/redstone/season_sensor": {
     "criteria": {
       "has_calendar": "2025-03-21 15:41:04 +0000"
@@ -23786,6 +23822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-21 16:23:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-03-21 16:03:56 +0000"
@@ -23804,6 +23846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-03-21 16:21:15 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/recipe_archeology_table": {
     "criteria": {
       "has_item": "2025-03-21 15:32:53 +0000"
@@ -23813,6 +23861,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-21 16:23:43 +0000"
     },
     "done": true
   },

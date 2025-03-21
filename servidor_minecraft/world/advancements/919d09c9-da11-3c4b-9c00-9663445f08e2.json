@@ -18587,6 +18587,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-03-21 16:18:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terrasteel_helmet": {
     "criteria": {
       "has_item": "2025-03-21 15:52:05 +0000"
@@ -18605,6 +18611,30 @@
     },
     "done": true
   },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-03-21 16:18:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-21 16:18:06 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/yellow_terracotta_slab": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-03-21 16:22:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-03-21 16:18:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/star_sword": {
     "criteria": {
       "has_terrasteel": "2025-03-21 15:52:05 +0000"
@@ -18614,6 +18644,12 @@
   "botania:main/terrasteel_pickup_lexicon": {
     "criteria": {
       "terrasteel": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-03-21 16:18:06 +0000"
     },
     "done": true
   },
@@ -18638,6 +18674,12 @@
   "botania:recipes/combat/terrasteel_chestplate": {
     "criteria": {
       "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-21 16:18:06 +0000"
     },
     "done": true
   },
@@ -18683,6 +18725,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-03-21 16:22:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terra_sword": {
     "criteria": {
       "has_item": "2025-03-21 15:52:05 +0000"
@@ -18707,9 +18755,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-21 16:18:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/terrasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-03-21 16:22:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-03-21 16:18:06 +0000"
     },
     "done": true
   },
