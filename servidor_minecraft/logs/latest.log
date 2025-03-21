@@ -4180,3 +4180,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Mar2025 14:45:25.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 833472b2-58bd-3eaf-9250-4391b02ef640
 [21Mar2025 14:45:26.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 833472b2-58bd-3eaf-9250-4391b02ef640
 [21Mar2025 14:45:26.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640) successfully connected to voice chat
+[21Mar2025 15:03:09.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [World Calling]
