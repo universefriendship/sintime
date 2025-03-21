@@ -17257,6 +17257,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-19 23:47:19 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/realmite_chestplate": {
     "criteria": {
       "has_realmite_ingot": "2025-03-19 23:49:53 +0000"
@@ -17278,12 +17284,6 @@
   "divinerpg:recipes/shaped/realmite_shield": {
     "criteria": {
       "has_ingot": "2025-03-19 23:49:53 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_pickaxe_repairing": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-03-19 23:47:19 +0000"
     },
     "done": true
   },
