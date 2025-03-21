@@ -23800,6 +23800,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/blasting/bloodgem": {
+    "criteria": {
+      "has_ore": "2025-03-21 17:51:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-03-21 16:23:43 +0000"
@@ -23827,6 +23833,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2025-03-21 17:55:49 +0000"
     },
     "done": true
   },
@@ -23896,6 +23908,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/smelting/bloodgem": {
+    "criteria": {
+      "has_ore": "2025-03-21 17:51:33 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
     "criteria": {
       "has_ancient_debris": "2025-03-21 16:57:55 +0000"
@@ -23905,6 +23923,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-03-21 16:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-21 17:55:49 +0000"
     },
     "done": true
   },
@@ -23923,6 +23947,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 17:55:49 +0000"
     },
     "done": true
   },
