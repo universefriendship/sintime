@@ -18587,5 +18587,131 @@
     },
     "done": true
   },
+  "botania:recipes/combat/terrasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/natura_pylon": {
+    "criteria": {
+      "has_alt_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/star_sword": {
+    "criteria": {
+      "has_terrasteel": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup_lexicon": {
+    "criteria": {
+      "terrasteel": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_alt_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_boots": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/terrasteel_block": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/terra_pick": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/thunder_sword": {
+    "criteria": {
+      "has_terrasteel": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/aura_ring_greater": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alfheim_portal": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/terraform_rod": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/thorn_chakram": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terra_sword": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/terra_knife": {
+    "criteria": {
+      "has_ingots/terrasteel": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/terra_axe": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_ring_greater": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/terrasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-21 15:52:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

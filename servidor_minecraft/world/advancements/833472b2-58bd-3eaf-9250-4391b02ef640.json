@@ -13317,6 +13317,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-03-10 17:21:56 +0000",
       "entered_pillager_camp": "2025-03-20 00:34:12 +0000",
+      "entered_pirate_ship": "2025-03-21 15:57:15 +0000",
       "entered_deep_crypt": "2025-03-11 16:15:59 +0000",
       "entered_ruined_building": "2025-03-18 03:20:35 +0000"
     },
@@ -23704,6 +23705,12 @@
     },
     "done": true
   },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 15:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
@@ -23725,6 +23732,12 @@
   "exposure:recipes/tools/black_and_white_film": {
     "criteria": {
       "has_camera": "2025-03-21 15:36:17 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_calendar": "2025-03-21 15:41:04 +0000"
     },
     "done": true
   },
@@ -23767,6 +23780,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-03-21 15:57:15 +0000"
     },
     "done": true
   },
