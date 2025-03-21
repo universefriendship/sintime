@@ -4433,3 +4433,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Mar2025 17:42:54.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [21Mar2025 17:42:54.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
 [21Mar2025 17:43:59.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Local Brewery]
+[21Mar2025 17:47:43.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=20, z=-16} BlockPos{x=-3, y=19, z=-17}
+[21Mar2025 17:49:02.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=7, z=13} BlockPos{x=6, y=6, z=12}
+[21Mar2025 17:50:56.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=14, z=43} BlockPos{x=-63, y=13, z=43}
+[21Mar2025 17:50:56.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=14, z=43} BlockPos{x=-63, y=13, z=43}
+[21Mar2025 17:51:12.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=14, z=43} BlockPos{x=-81, y=13, z=43}
