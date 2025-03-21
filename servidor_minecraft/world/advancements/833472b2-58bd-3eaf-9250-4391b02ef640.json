@@ -23692,6 +23692,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shapeless/hellstone_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 18:13:35 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/blasting/torridite_ingot_from_raw_torridite": {
     "criteria": {
       "has_raw_torridite": "2025-03-21 17:36:09 +0000"
