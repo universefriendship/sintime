@@ -23686,15 +23686,33 @@
     },
     "done": true
   },
+  "divinerpg:recipes/blasting/torridite_ingot_from_raw_torridite": {
+    "criteria": {
+      "has_raw_torridite": "2025-03-21 17:36:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/raw_torridite_block": {
+    "criteria": {
+      "has_raw_torridite": "2025-03-21 17:36:09 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/levitation_block": {
     "criteria": {
       "has_blazing_eye": "2025-03-21 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/torridite_chunk": {
+    "criteria": {
+      "has_ingot": "2025-03-21 17:36:35 +0000"
     },
     "done": true
   },
@@ -23713,6 +23731,12 @@
   "botania:main/elf_portal_open": {
     "criteria": {
       "portal": "2025-03-21 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/smelting/torridite_ingot_from_raw_torridite": {
+    "criteria": {
+      "has_raw_torridite": "2025-03-21 17:36:09 +0000"
     },
     "done": true
   },
@@ -23746,6 +23770,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/torridite_minibricks": {
+    "criteria": {
+      "has_ingot": "2025-03-21 17:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-03-21 16:39:08 +0000"
@@ -23767,6 +23797,24 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-03-21 16:23:43 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/torridite_nugget": {
+    "criteria": {
+      "has_ingot": "2025-03-21 17:36:35 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/massivence": {
+    "criteria": {
+      "has_torridite_ingot": "2025-03-21 17:36:35 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/torridite_block": {
+    "criteria": {
+      "has_ingot": "2025-03-21 17:36:35 +0000"
     },
     "done": true
   },
@@ -23908,6 +23956,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/scorching_sword": {
+    "criteria": {
+      "has_ingot": "2025-03-21 17:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-21 16:57:55 +0000"
@@ -23920,9 +23974,21 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/hot_spike_block": {
+    "criteria": {
+      "has_ingot": "2025-03-21 17:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/torridite_lamp": {
+    "criteria": {
+      "has_ingot": "2025-03-21 17:36:35 +0000"
     },
     "done": true
   },
@@ -23935,6 +24001,12 @@
   "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:gauntlet": "2025-03-21 16:57:37 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/torridite_bricks": {
+    "criteria": {
+      "has_ingot": "2025-03-21 17:36:35 +0000"
     },
     "done": true
   },
