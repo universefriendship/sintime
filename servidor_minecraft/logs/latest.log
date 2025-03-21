@@ -4334,3 +4334,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Mar2025 16:31:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Safe Haven]
 [21Mar2025 16:32:09.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Janusz'/296623, l='ServerLevel[world]', x=-1388.44, y=-38.00, z=56.69] died, message: 'Janusz hit the ground too hard'
 [21Mar2025 16:32:09.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Janusz'/296623, l='ServerLevel[world]', x=-1388.44, y=-38.00, z=56.69] died: Janusz fell from a high place
+[21Mar2025 16:33:10.638] [Worker-Main-101/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/298434, l='ServerLevel[world]', x=-1115.00, y=31.00, z=-205.00] as it would cause deadlock
+[21Mar2025 16:36:24.645] [Worker-Main-112/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/300363, l='ServerLevel[world]', x=-1436.00, y=31.00, z=-171.00] as it would cause deadlock
+[21Mar2025 16:36:29.787] [Worker-Main-138/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/300612, l='ServerLevel[world]', x=-1514.00, y=31.00, z=37.00] as it would cause deadlock
+[21Mar2025 16:36:31.632] [Worker-Main-112/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/300733, l='ServerLevel[world]', x=-1551.00, y=31.00, z=-269.00] as it would cause deadlock
+[21Mar2025 16:36:46.138] [Worker-Main-101/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/301051, l='ServerLevel[world]', x=-1688.00, y=31.00, z=-219.00] as it would cause deadlock
+[21Mar2025 16:38:00.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 16:38:00.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 16:38:01.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 16:38:01.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 16:38:16.587] [Worker-Main-58/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/302380, l='ServerLevel[world]', x=-1798.00, y=31.00, z=359.00] as it would cause deadlock
+[21Mar2025 16:38:31.484] [Worker-Main-59/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/303095, l='ServerLevel[world]', x=-2057.00, y=31.00, z=382.00] as it would cause deadlock
+[21Mar2025 16:38:33.796] [Worker-Main-137/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/303171, l='ServerLevel[world]', x=-1906.00, y=31.00, z=603.00] as it would cause deadlock
+[21Mar2025 16:38:46.329] [Worker-Main-103/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/303501, l='ServerLevel[world]', x=-2086.00, y=31.00, z=438.00] as it would cause deadlock
+[21Mar2025 16:38:52.779] [Worker-Main-112/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/303682, l='ServerLevel[world]', x=-1684.00, y=31.00, z=672.90] as it would cause deadlock
+[21Mar2025 16:39:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Sneak 100]
+[21Mar2025 16:42:37.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nifthy575 lost connection: Disconnected
+[21Mar2025 16:42:37.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 left the game
+[21Mar2025 16:42:37.186] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nifthy575
+[21Mar2025 16:42:46.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[21Mar2025 16:42:46.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[21Mar2025 16:42:46.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
