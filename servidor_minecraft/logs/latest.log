@@ -4408,3 +4408,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Mar2025 03:06:21.997] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1529, y=-55, z=672}
 [21Mar2025 03:06:21.997] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1530, y=-55, z=672}
 [21Mar2025 03:16:54.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Who is Cutting Onions?]
+[21Mar2025 03:21:15.619] [Worker-Main-64/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/103877, l='ServerLevel[world]', x=-120.00, y=31.00, z=-726.00] as it would cause deadlock
+[21Mar2025 03:21:20.071] [Worker-Main-64/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/104083, l='ServerLevel[world]', x=-166.00, y=31.00, z=-767.00] as it would cause deadlock
+[21Mar2025 03:21:24.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 03:21:24.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 03:21:32.090] [Worker-Main-64/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/104585, l='ServerLevel[world]', x=152.00, y=31.00, z=-875.00] as it would cause deadlock
+[21Mar2025 03:21:34.847] [Worker-Main-63/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/104637, l='ServerLevel[world]', x=-37.00, y=31.00, z=-930.00] as it would cause deadlock
+[21Mar2025 03:21:51.591] [Worker-Main-48/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105148, l='ServerLevel[world]', x=212.00, y=31.00, z=-1043.00] as it would cause deadlock
+[21Mar2025 03:22:01.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 03:22:02.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 03:22:02.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 03:22:02.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 03:22:05.823] [Worker-Main-64/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105497, l='ServerLevel[world]', x=409.00, y=31.00, z=-1069.00] as it would cause deadlock
+[21Mar2025 03:22:06.047] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105506, l='ServerLevel[world]', x=321.00, y=31.00, z=-1070.00] as it would cause deadlock
+[21Mar2025 03:22:07.981] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105550, l='ServerLevel[world]', x=401.00, y=31.00, z=-1086.00] as it would cause deadlock
+[21Mar2025 03:22:26.244] [Worker-Main-64/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105765, l='ServerLevel[world]', x=475.00, y=31.00, z=-1093.00] as it would cause deadlock
+[21Mar2025 03:23:33.843] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/107933, l='ServerLevel[world]', x=171.00, y=31.00, z=-1493.00] as it would cause deadlock
+[21Mar2025 03:23:38.094] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/108000, l='ServerLevel[world]', x=-94.00, y=31.00, z=-1559.00] as it would cause deadlock
+[21Mar2025 03:23:57.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[21Mar2025 03:24:28.042] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/108946, l='ServerLevel[world]', x=-161.00, y=31.00, z=-1685.00] as it would cause deadlock
+[21Mar2025 03:24:29.062] [Worker-Main-48/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/108991, l='ServerLevel[world]', x=-191.00, y=31.00, z=-1669.00] as it would cause deadlock
+[21Mar2025 03:24:31.813] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[21Mar2025 03:24:31.815] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[21Mar2025 03:24:39.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 1.9033066458619174,2.842647986325929,-9.8350672238048
+[21Mar2025 03:25:11.703] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/110268, l='ServerLevel[world]', x=-214.00, y=31.00, z=-2207.00] as it would cause deadlock
+[21Mar2025 03:25:11.954] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/110276, l='ServerLevel[world]', x=-191.10, y=31.00, z=-2202.00] as it would cause deadlock
+[21Mar2025 03:25:15.896] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/110385, l='ServerLevel[world]', x=-127.10, y=31.00, z=-2255.10] as it would cause deadlock
+[21Mar2025 03:25:17.946] [Worker-Main-64/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/110441, l='ServerLevel[world]', x=-324.00, y=31.00, z=-2268.00] as it would cause deadlock
+[21Mar2025 03:26:07.495] [Worker-Main-48/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/111192, l='ServerLevel[world]', x=-382.00, y=31.00, z=-2271.00] as it would cause deadlock
+[21Mar2025 03:26:10.938] [Worker-Main-48/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/111370, l='ServerLevel[world]', x=-411.00, y=31.00, z=-2300.00] as it would cause deadlock
+[21Mar2025 03:26:17.081] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/111514, l='ServerLevel[world]', x=-450.00, y=31.00, z=-2339.00] as it would cause deadlock
+[21Mar2025 03:26:23.650] [Worker-Main-63/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/111807, l='ServerLevel[world]', x=-574.00, y=31.00, z=-2351.10] as it would cause deadlock
+[21Mar2025 03:26:34.200] [Worker-Main-64/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/112118, l='ServerLevel[world]', x=-587.00, y=31.00, z=-2132.00] as it would cause deadlock
+[21Mar2025 03:26:39.141] [Worker-Main-48/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/112354, l='ServerLevel[world]', x=-681.00, y=31.00, z=-2039.00] as it would cause deadlock
+[21Mar2025 03:26:49.290] [Worker-Main-63/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/112572, l='ServerLevel[world]', x=-601.00, y=31.00, z=-1939.00] as it would cause deadlock
+[21Mar2025 03:26:49.296] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/112578, l='ServerLevel[world]', x=-524.00, y=31.00, z=-1937.00] as it would cause deadlock
+[21Mar2025 03:26:53.437] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/112725, l='ServerLevel[world]', x=-649.00, y=31.00, z=-1908.00] as it would cause deadlock
+[21Mar2025 03:27:09.908] [Worker-Main-48/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/113502, l='ServerLevel[world]', x=-13.00, y=31.00, z=-2398.00] as it would cause deadlock
+[21Mar2025 03:27:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Hot Tourist Destinations]
+[21Mar2025 03:27:36.604] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/114638, l='ServerLevel[world]', x=316.00, y=112.00, z=-2212.00] as it would cause deadlock
+[21Mar2025 03:28:01.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Mar2025 03:28:50.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The Learned Piglins]
+[21Mar2025 03:28:51.504] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/117523, l='ServerLevel[world]', x=578.00, y=31.00, z=-1894.00] as it would cause deadlock

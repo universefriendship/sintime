@@ -18952,9 +18952,10 @@
       "minecraft:crimson_forest": "2025-03-18 02:05:00 +0000",
       "minecraft:nether_wastes": "2025-03-18 01:39:16 +0000",
       "minecraft:soul_sand_valley": "2025-03-18 17:45:12 +0000",
-      "minecraft:warped_forest": "2025-03-18 17:38:53 +0000"
+      "minecraft:warped_forest": "2025-03-18 17:38:53 +0000",
+      "minecraft:basalt_deltas": "2025-03-21 03:27:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "bygonenether:root": {
     "criteria": {
@@ -21270,7 +21271,8 @@
   "nova_structures:nether/find_piglins": {
     "criteria": {
       "nova_structures:piglin_outstation": "2025-03-18 18:02:37 +0000",
-      "nova_structures:piglin_camp": "2025-03-18 17:59:55 +0000"
+      "nova_structures:piglin_camp": "2025-03-18 17:59:55 +0000",
+      "nova_structures:hamlet": "2025-03-21 03:28:50 +0000"
     },
     "done": false
   },
@@ -23320,6 +23322,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-03-21 03:23:36 +0000"
+    },
+    "done": false
+  },
   "create_dd:recipes/create_dd.palettes/cut_basalt_brick_wall_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-03-21 03:07:42 +0000"
@@ -23377,6 +23385,12 @@
   "stoneworks:recipes/building_blocks/basalt_brick_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-21 03:30:18 +0000"
     },
     "done": true
   },
@@ -23443,6 +23457,12 @@
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/bedrock_upgrade_template": {
+    "criteria": {
+      "has_upgrade": "2025-03-21 03:30:18 +0000"
     },
     "done": true
   },
@@ -23524,11 +23544,23 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_hamlet": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-03-21 03:28:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:42 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-03-21 03:23:36 +0000"
+    },
+    "done": false
   },
   "create_dd:recipes/create_dd.palettes/polished_cut_basalt_wall_from_stone_types_basalt_stonecutting": {
     "criteria": {
