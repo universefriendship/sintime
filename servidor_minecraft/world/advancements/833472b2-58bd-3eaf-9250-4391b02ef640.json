@@ -23350,6 +23350,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 03:39:36 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_basalt_brick_slab_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-03-21 03:07:47 +0000"
@@ -23488,6 +23494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-21 03:43:52 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/layered_basalt_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-03-21 03:07:47 +0000"
@@ -23527,6 +23539,12 @@
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:47 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/bedrock_upgrade_template": {
+    "criteria": {
+      "has_upgrade": "2025-03-21 03:43:52 +0000"
     },
     "done": true
   },

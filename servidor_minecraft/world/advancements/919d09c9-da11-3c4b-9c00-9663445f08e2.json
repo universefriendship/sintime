@@ -6583,6 +6583,7 @@
       "minecraft:vindicator": "2025-03-18 02:17:30 +0000",
       "minecraft:spider": "2025-03-18 17:19:44 +0000",
       "minecraft:creeper": "2025-03-14 21:35:45 +0000",
+      "minecraft:husk": "2025-03-21 03:32:43 +0000",
       "minecraft:cave_spider": "2025-03-18 17:39:04 +0000",
       "minecraft:stray": "2025-03-18 17:32:23 +0000",
       "minecraft:zombie": "2025-03-17 23:29:03 +0000"
@@ -17368,6 +17369,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-21 02:08:02 +0000"
@@ -17392,9 +17405,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-21 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
     },
     "done": true
   },
@@ -17416,6 +17441,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-21 02:08:02 +0000"
@@ -17425,6 +17456,12 @@
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-21 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/smoker/hot_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin_pie": "2025-03-21 03:32:22 +0000"
     },
     "done": true
   },
@@ -17494,6 +17531,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-21 03:34:48 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_ingredient": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-03-21 01:45:21 +0000"
@@ -17509,6 +17558,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-21 01:57:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-03-21 03:37:40 +0000"
     },
     "done": true
   },
@@ -17572,9 +17627,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/coal_block_slab": {
     "criteria": {
       "has_coal_block": "2025-03-21 02:00:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-03-21 03:31:37 +0000"
     },
     "done": true
   },
@@ -17599,6 +17666,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-21 03:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
     },
     "done": true
   },
@@ -17632,6 +17705,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-03-21 03:37:40 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
     "criteria": {
       "has_jukebox_upgrade": "2025-03-21 01:31:02 +0000"
@@ -17659,6 +17738,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-21 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
     },
     "done": true
   },
@@ -17704,6 +17789,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2025-03-21 02:08:02 +0000"
@@ -17713,6 +17810,12 @@
   "mcwbridges:recipes/balustrade_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-03-21 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-21 03:45:08 +0000"
     },
     "done": true
   },
@@ -17731,6 +17834,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-21 03:06:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-03-21 03:34:48 +0000"
     },
     "done": true
   },
@@ -17761,6 +17870,12 @@
   "divinerpg:recipes/shaped/minibricks": {
     "criteria": {
       "has_bricks": "2025-03-21 01:45:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-21 03:45:08 +0000"
     },
     "done": true
   },
@@ -17890,6 +18005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bricks_pillar_trim": {
     "criteria": {
       "has_bricks_pillar_trim": "2025-03-21 01:45:21 +0000"
@@ -17962,6 +18083,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-21 01:57:39 +0000"
@@ -17971,6 +18098,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-21 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
     },
     "done": true
   },
@@ -18040,6 +18173,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-21 03:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-21 02:08:02 +0000"
@@ -18058,9 +18203,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-21 01:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
     },
     "done": true
   },
@@ -18103,6 +18260,12 @@
   "new_slab_variants:recipes/building_blocks/ladder_slab": {
     "criteria": {
       "has_ladder": "2025-03-21 03:01:10 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/bedrock_upgrade_template": {
+    "criteria": {
+      "has_upgrade": "2025-03-21 03:44:42 +0000"
     },
     "done": true
   },
@@ -18190,6 +18353,18 @@
     },
     "done": true
   },
+  "divinerpg:recipes/furnace/hot_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin_pie": "2025-03-21 03:32:22 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_plate_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-21 01:57:39 +0000"
@@ -18205,6 +18380,18 @@
   "super_ore_block:recipes/building_blocks/super_coal_block_from_coal_block": {
     "criteria": {
       "has_coal_block": "2025-03-21 02:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-21 03:45:08 +0000"
     },
     "done": true
   },
@@ -18262,6 +18449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-03-21 01:45:20 +0000"
@@ -18283,6 +18476,18 @@
   "handcrafted:recipes/misc/quartz_corner_trim": {
     "criteria": {
       "has_quartz_corner_trim": "2025-03-21 01:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-21 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_helmet_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-21 03:45:08 +0000"
     },
     "done": true
   },
@@ -18349,6 +18554,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-03-21 03:01:59 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/campfire/hot_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin_pie": "2025-03-21 03:32:22 +0000"
     },
     "done": true
   },
