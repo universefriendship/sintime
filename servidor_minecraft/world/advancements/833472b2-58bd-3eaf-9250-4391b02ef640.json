@@ -3018,6 +3018,7 @@
       "minecraft:ravager": "2025-03-14 21:57:04 +0000",
       "minecraft:ghast": "2025-03-18 00:03:46 +0000",
       "minecraft:hoglin": "2025-03-20 00:42:51 +0000",
+      "minecraft:guardian": "2025-03-21 16:05:37 +0000",
       "minecraft:vindicator": "2025-03-10 03:52:39 +0000",
       "minecraft:magma_cube": "2025-03-17 23:56:56 +0000",
       "minecraft:spider": "2025-03-10 01:32:14 +0000",
@@ -3033,6 +3034,7 @@
       "minecraft:enderman": "2025-03-10 05:22:09 +0000",
       "minecraft:silverfish": "2025-03-10 18:00:35 +0000",
       "minecraft:stray": "2025-03-10 17:43:04 +0000",
+      "minecraft:vex": "2025-03-21 16:03:04 +0000",
       "minecraft:zombie": "2025-03-10 01:33:51 +0000",
       "minecraft:drowned": "2025-03-14 23:30:15 +0000"
     },
@@ -13319,6 +13321,7 @@
       "entered_pillager_camp": "2025-03-20 00:34:12 +0000",
       "entered_pirate_ship": "2025-03-21 15:57:15 +0000",
       "entered_deep_crypt": "2025-03-11 16:15:59 +0000",
+      "entered_druid_circle": "2025-03-21 16:08:53 +0000",
       "entered_ruined_building": "2025-03-18 03:20:35 +0000"
     },
     "done": false
@@ -23675,9 +23678,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-21 16:03:56 +0000"
+    },
+    "done": true
+  },
   "botania:main/elf_portal_open": {
     "criteria": {
       "portal": "2025-03-21 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-21 16:03:56 +0000"
     },
     "done": true
   },
@@ -23705,6 +23720,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-21 16:03:56 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/combat/cannon": {
     "criteria": {
       "has_the_recipe": "2025-03-21 15:40:31 +0000"
@@ -23714,6 +23735,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 15:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-21 16:03:56 +0000"
     },
     "done": true
   },
@@ -23756,6 +23783,12 @@
   "supplementaries:recipes/slice_map": {
     "criteria": {
       "has_altimeter": "2025-03-21 15:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-21 16:03:56 +0000"
     },
     "done": true
   },
