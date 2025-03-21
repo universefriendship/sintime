@@ -23115,5 +23115,23 @@
     },
     "done": true
   },
+  "divinerpg:recipes/blasting/rupee_ingot_from_raw_rupee": {
+    "criteria": {
+      "has_raw_rupee": "2025-03-21 02:28:25 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/smelting/rupee_ingot_from_raw_rupee": {
+    "criteria": {
+      "has_raw_rupee": "2025-03-21 02:28:25 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/raw_rupee_block": {
+    "criteria": {
+      "has_raw_rupee": "2025-03-21 02:28:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -4390,3 +4390,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Mar2025 02:15:52.567] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1280, y=-4, z=-247}
 [21Mar2025 02:15:52.567] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1280, y=-4, z=-247}
 [21Mar2025 02:20:02.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Cosmic Fury]
+[21Mar2025 02:30:11.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1010, y=44, z=80} BlockPos{x=1009, y=45, z=80}
