@@ -23254,6 +23254,48 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-03-21 02:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_basalt_stairs_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-03-21 03:07:47 +0000"
@@ -23326,12 +23368,6 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/red_nether_bricks": {
-    "criteria": {
-      "has_planks": "2025-03-21 02:00:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:47 +0000"
@@ -23347,12 +23383,6 @@
   "create_dd:recipes/building_blocks/basalt_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-03-21 03:07:47 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_the_recipe": "2025-03-21 03:39:36 +0000"
     },
     "done": true
   },
@@ -23404,21 +23434,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
     },
     "done": true
   },
@@ -23470,18 +23488,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_shingle_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:47 +0000"
@@ -23491,12 +23497,6 @@
   "stoneworks:recipes/building_blocks/basalt_brick_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-03-21 03:43:52 +0000"
     },
     "done": true
   },
@@ -23542,12 +23542,6 @@
     },
     "done": true
   },
-  "divinerpg:recipes/shaped/bedrock_upgrade_template": {
-    "criteria": {
-      "has_upgrade": "2025-03-21 03:43:52 +0000"
-    },
-    "done": true
-  },
   "create_dd:recipes/create_dd.palettes/cut_basalt_wall_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-03-21 03:07:47 +0000"
@@ -23557,12 +23551,6 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
     },
     "done": true
   },
@@ -23638,12 +23626,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-03-21 02:00:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_plates_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:47 +0000"
@@ -23659,6 +23641,24 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-21 03:07:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 03:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-21 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/bedrock_upgrade_template": {
+    "criteria": {
+      "has_upgrade": "2025-03-21 03:43:52 +0000"
     },
     "done": true
   },
