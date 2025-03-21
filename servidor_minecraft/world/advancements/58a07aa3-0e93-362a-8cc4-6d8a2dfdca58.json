@@ -18407,6 +18407,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-03-21 01:15:39 +0000",
       "wheat": "2025-03-15 05:04:48 +0000"
     },
     "done": false
@@ -23087,6 +23088,18 @@
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2025-03-21 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-21 01:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-21 01:15:25 +0000"
     },
     "done": true
   },

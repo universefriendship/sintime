@@ -4197,3 +4197,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Mar2025 01:15:47.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [21Mar2025 01:15:48.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [21Mar2025 01:15:48.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[21Mar2025 01:19:22.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[21Mar2025 01:19:22.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[21Mar2025 01:19:22.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[21Mar2025 01:19:23.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 5.4333909213173825,0.0,8.569407187098676
+[21Mar2025 01:19:25.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[21Mar2025 01:19:26.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[21Mar2025 01:19:26.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[21Mar2025 01:21:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> no sali tarde
+[21Mar2025 01:21:24.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> sinoq como estaba mi mm
+[21Mar2025 01:21:29.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> tuve q decir pa q suene creible
+[21Mar2025 01:21:37.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> sali a la misma hora pero tuve dos hroas cond iego
+[21Mar2025 01:21:57.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=68, z=180} BlockPos{x=-81, y=66, z=181}
+[21Mar2025 01:23:37.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=68, z=164} BlockPos{x=-108, y=66, z=164}
+[21Mar2025 01:25:21.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ari_fl08[/127.136.253.89:52521] logged in with entity id 54218 at (-58.271949367240076, 68.0, 170.34094557483652)
+[21Mar2025 01:25:21.017] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ari_fl08
+[21Mar2025 01:25:21.019] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ari_fl08
+[21Mar2025 01:25:21.021] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ari_fl08
+[21Mar2025 01:25:21.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ari_fl08
+[21Mar2025 01:25:21.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ari_fl08
+[21Mar2025 01:25:21.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ari_fl08
+[21Mar2025 01:25:21.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ari_fl08
+[21Mar2025 01:25:21.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 joined the game
+[21Mar2025 01:25:21.298] [Server thread/INFO] [Jade/]: Syncing config to ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640)
+[21Mar2025 01:25:24.976] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ari_fl08 (18)
+[21Mar2025 01:25:24.976] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[21Mar2025 01:25:36.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 833472b2-58bd-3eaf-9250-4391b02ef640
+[21Mar2025 01:25:37.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 833472b2-58bd-3eaf-9250-4391b02ef640
+[21Mar2025 01:25:37.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640) successfully connected to voice chat
+[21Mar2025 01:27:44.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58 timed out
+[21Mar2025 01:27:44.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcouwu2005
+[21Mar2025 01:27:44.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[21Mar2025 01:27:49.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -7.68965572846264,0.493206855553467,-6.517447111605492
+[21Mar2025 01:27:51.829] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[21Mar2025 01:27:53.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[21Mar2025 01:27:53.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
