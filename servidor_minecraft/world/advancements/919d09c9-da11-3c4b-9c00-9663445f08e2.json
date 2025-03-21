@@ -17445,6 +17445,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-21 03:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-21 03:01:59 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/brick_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-21 01:45:21 +0000"
@@ -17508,6 +17520,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_plates_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-21 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-21 03:01:59 +0000"
     },
     "done": true
   },
@@ -17967,6 +17985,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/ladder_slab": {
+    "criteria": {
+      "has_ladder": "2025-03-21 03:01:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_paver_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-21 02:08:02 +0000"
@@ -18099,6 +18123,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_tag_a": "2025-03-21 03:01:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bricks_corner_trim": {
     "criteria": {
       "has_bricks_corner_trim": "2025-03-21 01:45:21 +0000"
@@ -18153,6 +18183,12 @@
     },
     "done": true
   },
+  "simplyswords:tempest": {
+    "criteria": {
+      "requirement": "2025-03-21 03:04:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-21 01:57:39 +0000"
@@ -18174,6 +18210,12 @@
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-03-21 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-21 03:01:59 +0000"
     },
     "done": true
   },

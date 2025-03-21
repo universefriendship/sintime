@@ -4393,3 +4393,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Mar2025 02:30:11.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1010, y=44, z=80} BlockPos{x=1009, y=45, z=80}
 [21Mar2025 02:40:15.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Tunnel Treasures]
 [21Mar2025 02:49:48.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> mescuchan?
+[21Mar2025 03:02:55.274] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/91840, l='ServerLevel[world]', x=1490.50, y=-28.00, z=661.50] as it would cause deadlock
+[21Mar2025 03:02:55.277] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/91842, l='ServerLevel[world]', x=1492.50, y=-16.00, z=661.50] as it would cause deadlock
+[21Mar2025 03:02:55.349] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1494, y=-29, z=644}
+[21Mar2025 03:02:55.350] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1494, y=-29, z=644}
+[21Mar2025 03:02:55.503] [Worker-Main-48/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/91853, l='ServerLevel[world]', x=1490.50, y=-16.00, z=677.50] as it would cause deadlock
+[21Mar2025 03:04:23.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Weather Warning]
+[21Mar2025 03:05:32.650] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/93991, l='ServerLevel[world]', x=1517.50, y=-3.00, z=683.50] as it would cause deadlock
+[21Mar2025 03:06:03.277] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/94205, l='ServerLevel[world]', x=1521.50, y=-53.00, z=639.50] as it would cause deadlock
+[21Mar2025 03:06:21.996] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1529, y=-55, z=674}
+[21Mar2025 03:06:21.997] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1529, y=-55, z=672}
+[21Mar2025 03:06:21.997] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1530, y=-55, z=672}
+[21Mar2025 03:06:21.997] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1529, y=-55, z=674}
+[21Mar2025 03:06:21.997] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1529, y=-55, z=672}
+[21Mar2025 03:06:21.997] [Worker-Main-63/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1530, y=-55, z=672}

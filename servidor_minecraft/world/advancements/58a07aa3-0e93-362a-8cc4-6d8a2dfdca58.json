@@ -23122,6 +23122,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/ender_watcher_pumpkin": {
+    "criteria": {
+      "has_shards": "2025-03-21 03:00:13 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/smelting/rupee_ingot_from_raw_rupee": {
     "criteria": {
       "has_raw_rupee": "2025-03-21 02:28:25 +0000"
@@ -23131,6 +23137,12 @@
   "divinerpg:recipes/shaped/raw_rupee_block": {
     "criteria": {
       "has_raw_rupee": "2025-03-21 02:28:25 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/ender_stone": {
+    "criteria": {
+      "has_shards": "2025-03-21 03:00:13 +0000"
     },
     "done": true
   },
